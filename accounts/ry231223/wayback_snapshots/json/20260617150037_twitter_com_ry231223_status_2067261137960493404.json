@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2067261137960493404",
+    "created_at": "2026-06-17T15:00:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T16:00:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067261137960493404"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ancde_1118/sta…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Ancde_1118/status/2062956340960706641",
+          "start": 8,
+          "url": "https://t.co/FnvXgBXtiw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067261137960493404",
+    "lang": "ru",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062956340960706641",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "(^з^)-♡ https://t.co/FnvXgBXtiw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2062956332815450112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKEX2sybgAAbJ4u.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2062956332815388672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKEX2syakAA-zUa.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2067261137960493404",
+        "created_at": "2026-06-17T15:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067261137960493404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ancde_1118/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Ancde_1118/status/2062956340960706641",
+              "start": 8,
+              "url": "https://t.co/FnvXgBXtiw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067261137960493404",
+        "lang": "ru",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062956340960706641",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "(^з^)-♡ https://t.co/FnvXgBXtiw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062956332815450112",
+            "3_2062956332815388672"
+          ]
+        },
+        "author_id": "1778719380639014913",
+        "conversation_id": "2062956340960706641",
+        "created_at": "2026-06-05T17:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T18:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062956340960706641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OnyCeEkp6B",
+              "end": 114,
+              "expanded_url": "https://x.com/Ancde_1118/status/2062956340960706641/photo/1",
+              "media_key": "3_2062956332815450112",
+              "start": 91,
+              "url": "https://t.co/OnyCeEkp6B"
+            },
+            {
+              "display_url": "pic.x.com/OnyCeEkp6B",
+              "end": 114,
+              "expanded_url": "https://x.com/Ancde_1118/status/2062956340960706641/photo/1",
+              "media_key": "3_2062956332815388672",
+              "start": 91,
+              "url": "https://t.co/OnyCeEkp6B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062956340960706641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5574,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "=自介 我叫Sakura ❀ 放一下成分在这\n病史：2021.5确诊-至今\n欢迎大家随时DM我喔\n互fo互转大欢迎(^з^)-☆多多来和我交朋友好吗\n最后放一下投味码(｡･ω･｡) https://t.co/OnyCeEkp6B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od│回fo只回同好＆同類",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2067179880505332212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066982017397596160/nvBcRppn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 21,
+          "like_count": 2166,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 169
+        },
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T09:38:51.000Z",
+        "description": "双相 精分 od 割手/我是穿孔师/可以在tg@Sakura_sakura01118找到我/可以找我买电子烟（不卖加料的 只是普通电子烟 请不要私信我）我想交朋友 可以找我互fo ¯꒳¯",
+        "id": "1778719380639014913",
+        "name": "Sakura",
+        "pinned_tweet_id": "2062956340960706641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898374011295522816/t9_3UaIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 631,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 205,
+          "tweet_count": 1315
+        },
+        "username": "Ancde_1118",
+        "verified": false
+      }
+    ]
+  }
+}

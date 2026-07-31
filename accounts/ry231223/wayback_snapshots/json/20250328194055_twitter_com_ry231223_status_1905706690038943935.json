@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "1905706690038943935",
+    "created_at": "2025-03-28T19:40:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T20:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905706690038943935"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1905706690038943935",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天是确诊重抑的第410天，我也不知道我是什么时候开始生病的，拖了一年的心理治疗，拖了一年半的休学，只吃过两段时间的药，妈妈到现在还接受不了我得病了\n我也不知道自己该怎么活，我死了她真的会伤心嘛？我不知道，她现在有她的男朋友，会因为我伤心的或许只有雯子和老灯，还有哥哥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "1905706690038943935",
+        "created_at": "2025-03-28T19:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T20:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905706690038943935"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905706690038943935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是确诊重抑的第410天，我也不知道我是什么时候开始生病的，拖了一年的心理治疗，拖了一年半的休学，只吃过两段时间的药，妈妈到现在还接受不了我得病了\n我也不知道自己该怎么活，我死了她真的会伤心嘛？我不知道，她现在有她的男朋友，会因为我伤心的或许只有雯子和老灯，还有哥哥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "祝你天天开心OvO│视奸我的犷妾默认全家死光│重鬱/重慮/躁狂/自傷/od/INFJ-T│目标是炸了全世界",
+        "id": "1886421046640902144",
+        "name": "きらい",
+        "pinned_tweet_id": "1900995745286943062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905437979805450240/LtCMYCQ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 11,
+          "like_count": 498,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 37
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

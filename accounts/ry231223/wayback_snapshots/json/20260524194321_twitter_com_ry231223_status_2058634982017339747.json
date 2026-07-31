@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2058634982017339747",
+    "created_at": "2026-05-24T19:43:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T20:43:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058634982017339747"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058634982017339747",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我上一条推怎么火的我都不知道…评论区还有傻鸟攻击我自残…不是我主页都写了你不爱看别看呗我只说推上又不是线下没朋友，我朋友加起来比那两傻鸟家里人都多⦁֊⦁꧞ 没看到你想看的破防了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2058634982017339747",
+        "created_at": "2026-05-24T19:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T20:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058634982017339747"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058634982017339747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我上一条推怎么火的我都不知道…评论区还有傻鸟攻击我自残…不是我主页都写了你不爱看别看呗我只说推上又不是线下没朋友，我朋友加起来比那两傻鸟家里人都多⦁֊⦁꧞ 没看到你想看的破防了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/地雷/雙相/自傷/od│我愛發什麼發什麼不愛看別關注我",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043585593389756416/LMOy-UNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 13,
+          "like_count": 1809,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 125
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

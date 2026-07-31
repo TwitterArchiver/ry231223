@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "1916523811509539295",
+    "created_at": "2025-04-28T20:12:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T21:12:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916948698149621798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1777373512904454145",
+          "start": 0,
+          "username": "zhaominizhao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916948698149621798",
+    "in_reply_to_user_id": "1777373512904454145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916523811509539295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhaominizhao 我以为是没冲干净的洗衣液的味道…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "1916523811509539295",
+        "created_at": "2025-04-28T20:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T21:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916948698149621798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1777373512904454145",
+              "start": 0,
+              "username": "zhaominizhao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916948698149621798",
+        "in_reply_to_user_id": "1777373512904454145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916523811509539295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhaominizhao 我以为是没冲干净的洗衣液的味道…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777373512904454145",
+        "conversation_id": "1916523811509539295",
+        "created_at": "2025-04-27T16:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T17:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916523811509539295"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916523811509539295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 123065,
+          "like_count": 994,
+          "quote_count": 30,
+          "reply_count": 234,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "有没有女宝宝跟我一样喜欢闻自己脱下来的内衣。\n呃呃超级香。。（这是可以说的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "视奸我的犷妾默认死全家│09年♀ INFJ-T 社恐重度患者│雙相/自傷/OD/自殺史*3",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "藤が青糸をなでる",
+        "pinned_tweet_id": "1900995745286943062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915275448587870210/jVl00rDK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 27,
+          "like_count": 807,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 81
+        },
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T16:31:35.000Z",
+        "description": "🍧想分享的话会一直分享/碎碎念/私信看心情回复 /请礼貌/发帖发什么全凭自己心情么么哒/随缘回关/喜欢我欢迎投喂/ 匿名箱：https://t.co/fHpoQwOFc9 /不线下不kp别骚扰",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/minizhaozzz",
+                "end": 85,
+                "expanded_url": "https://ngl.link/minizhaozzz",
+                "start": 62,
+                "url": "https://t.co/fHpoQwOFc9"
+              }
+            ]
+          }
+        },
+        "id": "1777373512904454145",
+        "location": "在小猫很多的地方",
+        "name": "mini昭",
+        "pinned_tweet_id": "1902942735935607054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915636843414249474/G-3tK9Li_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1339,
+          "following_count": 53,
+          "like_count": 1284,
+          "listed_count": 7,
+          "media_count": 158,
+          "tweet_count": 1134
+        },
+        "username": "zhaominizhao",
+        "verified": false
+      }
+    ]
+  }
+}

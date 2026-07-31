@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "1937018838261846159",
+    "created_at": "2025-06-23T05:24:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T06:24:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937018838261846159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1491828502886330368",
+          "start": 3,
+          "username": "ppjiangjiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937018838261846159",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935368400999772349",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @ppjiangjiang: 刷小红书看到有女生说，如果一个男生喜欢她需要把她所有的微博和朋友圈全部翻到底，有人说是绝望的直女的终极幻想，听着感觉很震惊但是仔细一想，好像确实很多女生都是这样做的，再好的男人不过是一个普通女人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "1937018838261846159",
+        "created_at": "2025-06-23T05:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T06:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937018838261846159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1491828502886330368",
+              "start": 3,
+              "username": "ppjiangjiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937018838261846159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935368400999772349",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @ppjiangjiang: 刷小红书看到有女生说，如果一个男生喜欢她需要把她所有的微博和朋友圈全部翻到底，有人说是绝望的直女的终极幻想，听着感觉很震惊但是仔细一想，好像确实很多女生都是这样做的，再好的男人不过是一个普通女人。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491828502886330368",
+        "conversation_id": "1935368400999772349",
+        "created_at": "2025-06-18T16:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T17:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935368400999772349"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935368400999772349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 121451,
+          "like_count": 1370,
+          "quote_count": 46,
+          "reply_count": 7,
+          "retweet_count": 53
+        },
+        "reply_settings": "following",
+        "text": "刷小红书看到有女生说，如果一个男生喜欢她需要把她所有的微博和朋友圈全部翻到底，有人说是绝望的直女的终极幻想，听着感觉很震惊但是仔细一想，好像确实很多女生都是这样做的，再好的男人不过是一个普通女人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "又来啦 視奸我的犷妾全家被仠杀哦│09順女 INFJ-T/雙相/自傷/OD  夜晚出没│🚪35纯绿",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "クレイジーゾウリ",
+        "pinned_tweet_id": "1930514812913520642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931429361523310592/_N7MPk3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 11,
+          "like_count": 1476,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 129
+        },
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-10T17:37:35.000Z",
+        "description": "屁话大王嘟日记本^^小！抓！饱！@nekomeow_uu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "nekomeow_uu"
+              }
+            ]
+          }
+        },
+        "id": "1491828502886330368",
+        "name": "pp •ᴗ⁃͈ ✧",
+        "pinned_tweet_id": "1907007074858627180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916523979352993792/rGr54pz1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 377,
+          "like_count": 55379,
+          "listed_count": 10,
+          "media_count": 1595,
+          "tweet_count": 12293
+        },
+        "username": "ppjiangjiang",
+        "verified": false
+      }
+    ]
+  }
+}

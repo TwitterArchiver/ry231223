@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2031661286053027871",
+    "created_at": "2026-03-12T11:53:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T12:53:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032062472559940010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1851900899020439553",
+          "start": 0,
+          "username": "Stephani1055844"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032062472559940010",
+    "in_reply_to_user_id": "1851900899020439553",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031661286053027871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stephani1055844 地雷系がかわいい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2031661286053027871",
+        "created_at": "2026-03-12T11:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T12:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032062472559940010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1851900899020439553",
+              "start": 0,
+              "username": "Stephani1055844"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032062472559940010",
+        "in_reply_to_user_id": "1851900899020439553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031661286053027871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stephani1055844 地雷系がかわいい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851900899020439553",
+        "conversation_id": "2031661286053027871",
+        "created_at": "2026-03-11T09:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T10:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031661286053027871"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031661286053027871",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 114,
+          "impression_count": 106662,
+          "like_count": 2225,
+          "quote_count": 88,
+          "reply_count": 87,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "地雷系は外国人にゴミを見る目で見られます🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀ISFP/地雷/雙相/自傷/OD│ins：ry.231229",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020873447883390976/CLWmdQnE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 7,
+          "like_count": 1637,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 109
+        },
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-31T08:16:10.000Z",
+        "description": "いわゆる地雷系ﾃﾞｽ\nｾﾝｼﾃｨﾌﾞ👉@moore_kerr20828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 19,
+                "username": "moore_kerr20828"
+              }
+            ]
+          }
+        },
+        "id": "1851900899020439553",
+        "name": "ema♥",
+        "pinned_tweet_id": "1937897340888850528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923660316866482176/3j6yX9Rj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19525,
+          "following_count": 110,
+          "like_count": 28,
+          "listed_count": 49,
+          "media_count": 124,
+          "tweet_count": 416
+        },
+        "username": "Stephani1055844",
+        "verified": false
+      }
+    ]
+  }
+}

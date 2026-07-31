@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2056994465789915615",
+    "created_at": "2026-05-20T07:22:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T08:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056998956891070947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3270411714",
+          "start": 0,
+          "username": "pr80Huaiyowan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056998956891070947",
+    "in_reply_to_user_id": "3270411714",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056994465789915615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pr80Huaiyowan 有（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2056994465789915615",
+        "created_at": "2026-05-20T07:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T08:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056998956891070947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3270411714",
+              "start": 0,
+              "username": "pr80Huaiyowan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056998956891070947",
+        "in_reply_to_user_id": "3270411714",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056994465789915615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pr80Huaiyowan 有（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3270411714",
+        "conversation_id": "2056994465789915615",
+        "created_at": "2026-05-20T07:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T08:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056994465789915615"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056994465789915615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有od妹，我这里有过期的右美沙芬和普瑞巴林，不怕死的来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/地雷/雙相/自傷/od│我愛發什麼發什麼不愛看別關注我",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043585593389756416/LMOy-UNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 10,
+          "like_count": 1753,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 109
+        },
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-07T00:14:01.000Z",
+        "description": "只在X 不要被骗！！ tg私信问我！\n欢迎宝宝们来互转互fo",
+        "id": "3270411714",
+        "location": "choose life",
+        "name": "坏药丸（互转互fo",
+        "pinned_tweet_id": "2056727284258836968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054151931489382400/xqrrpR0Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 8,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 73
+        },
+        "username": "pr80Huaiyowan",
+        "verified": false
+      }
+    ]
+  }
+}

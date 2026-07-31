@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2074984648392982833",
+    "created_at": "2026-07-09T18:16:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T19:16:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075282904469614649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2053330660677599232",
+          "start": 0,
+          "username": "SentoSenshow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075282904469614649",
+    "in_reply_to_user_id": "2053330660677599232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075163321976914387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SentoSenshow 可以呀可以呀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2074984648392982833",
+        "created_at": "2026-07-09T18:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T19:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075282904469614649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2053330660677599232",
+              "start": 0,
+              "username": "SentoSenshow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075282904469614649",
+        "in_reply_to_user_id": "2053330660677599232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075163321976914387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SentoSenshow 可以呀可以呀！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053330660677599232",
+        "conversation_id": "2074984648392982833",
+        "created_at": "2026-07-09T10:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T11:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075163321976914387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1886421046640902144",
+              "start": 0,
+              "username": "ry231223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075163321976914387",
+        "in_reply_to_user_id": "1886421046640902144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074984648392982833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ry231223 老婆我可以吗ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od\n要回fo請私信 只回同類和同好 互fo大歡迎~",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2074984648392982833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066982017397596160/nvBcRppn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 53,
+          "like_count": 2492,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 235
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T04:26:33.000Z",
+        "description": "Kawaii",
+        "id": "2053330660677599232",
+        "location": "Je",
+        "name": "Sento Sen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073366888902758400/8ejnaG5p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 28,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "SentoSenshow",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "1905917031607635971",
+    "created_at": "2025-04-08T02:44:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T03:44:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909437228075352487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1648895543794618368",
+          "start": 0,
+          "username": "aotk0330"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909437228075352487",
+    "in_reply_to_user_id": "1648895543794618368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905917031607635971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aotk0330 我嘞个周年庆哑剧，是不是套亩没给你爆金币没钱找cv了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1905916727969685504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnMtKoYboAAy3sk.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "1905917031607635971",
+        "created_at": "2025-04-08T02:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T03:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909437228075352487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1648895543794618368",
+              "start": 0,
+              "username": "aotk0330"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909437228075352487",
+        "in_reply_to_user_id": "1648895543794618368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905917031607635971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aotk0330 我嘞个周年庆哑剧，是不是套亩没给你爆金币没钱找cv了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905916727969685504"
+          ]
+        },
+        "author_id": "1648895543794618368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1905917031607635971",
+        "created_at": "2025-03-29T09:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T10:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905917031607635971"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 132,
+              "start": 128,
+              "tag": "代號鳶"
+            },
+            {
+              "end": 139,
+              "start": 133,
+              "tag": "二週年慶典"
+            },
+            {
+              "end": 147,
+              "start": 140,
+              "tag": "三國志絨絨版"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NHUsrpxLNl",
+              "end": 171,
+              "expanded_url": "https://x.com/aotk0330/status/1905917031607635971/photo/1",
+              "media_key": "3_1905916727969685504",
+              "start": 148,
+              "url": "https://t.co/NHUsrpxLNl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905917031607635971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7222,
+          "like_count": 70,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "🐾二周年特別活動【三國志絨絨版】3月30日飛奔上線🐾\n\n⏰活動時間：3月30日維護後-4月12日23:59\n🐾活動獎勵：天機符傳，絨絨錘·銅頭，絨絨錘·銀耳，頭像框【狐軀一振】，稱號【張牙舞爪】，廣陵王新形象\n※詳細活動內容，以活動上線後遊戲內規則為準\n\n#代號鳶 #二週年慶典 #三國志絨絨版 https://t.co/NHUsrpxLNl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "祝你天天开心OvO│视奸我的犷妾默认4000+│雙相/自傷/OD/自殺史*3│♱病情记录器♱",
+        "id": "1886421046640902144",
+        "name": "きらい",
+        "pinned_tweet_id": "1900995745286943062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905437979805450240/LtCMYCQ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 16,
+          "like_count": 574,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 42
+        },
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-20T03:45:21.000Z",
+        "description": "沉浸式劇情卡牌手遊《代號鳶》3月30日正式上線！\n這場愛與權謀的旅程，只待殿下親自開啟！\n✧台灣： https://t.co/bZu1Em4kPz\n✧港澳新馬： https://t.co/hmlQZaGq6P",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/3zbGDef",
+                "end": 73,
+                "expanded_url": "http://bit.ly/3zbGDef",
+                "start": 50,
+                "url": "https://t.co/bZu1Em4kPz"
+              },
+              {
+                "display_url": "bit.ly/3LXAo5r",
+                "end": 104,
+                "expanded_url": "http://bit.ly/3LXAo5r",
+                "start": 81,
+                "url": "https://t.co/hmlQZaGq6P"
+              }
+            ]
+          }
+        },
+        "id": "1648895543794618368",
+        "name": "代號鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1648896726420586497/2PAqml5N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55494,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 35,
+          "media_count": 247,
+          "tweet_count": 279
+        },
+        "username": "aotk0330",
+        "verified": false
+      }
+    ]
+  }
+}

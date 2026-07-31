@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "1917563979452539299",
+    "created_at": "2025-04-30T20:10:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T21:10:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917672901639299447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1648895543794618368",
+          "start": 0,
+          "username": "aotk0330"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917672901639299447",
+    "in_reply_to_user_id": "1648895543794618368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917563979452539299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aotk0330 几把的每日一骂你个弱智策划"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1917563909164380160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpyONzfaMAAPCZL.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "1917563979452539299",
+        "created_at": "2025-04-30T20:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T21:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917672901639299447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1648895543794618368",
+              "start": 0,
+              "username": "aotk0330"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917672901639299447",
+        "in_reply_to_user_id": "1648895543794618368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917563979452539299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aotk0330 几把的每日一骂你个弱智策划"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917563909164380160"
+          ]
+        },
+        "author_id": "1648895543794618368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1917563979452539299",
+        "created_at": "2025-04-30T12:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T13:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917563979452539299"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 140,
+              "start": 136,
+              "tag": "代號鳶"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E0FeBwtXn1",
+              "end": 164,
+              "expanded_url": "https://x.com/aotk0330/status/1917563979452539299/photo/1",
+              "media_key": "3_1917563909164380160",
+              "start": 141,
+              "url": "https://t.co/E0FeBwtXn1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917563979452539299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1725,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "歡迎來到夜晚最明亮、最熱鬧的市集！\n廣陵何處有夜宵，酸甜飲子真是妙。\n若要夏天過得好，點心小吃少不了。\n夜市攤點均已在廣陵王府進行備案，並公示食品安全等級，放心無憂。請放心購買。\n\n🏮傢俱新賽季，全新套裝，任意組合。\n🪔開啟時間：05/01 - 07/31 23:59\n\n#代號鳶 https://t.co/E0FeBwtXn1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "视奸我的犷妾死全家│09年♀ INFJ-T 社恐重度患者│雙相/自傷/OD/自殺史*3",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "クレイジーゾウリ",
+        "pinned_tweet_id": "1900995745286943062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915275448587870210/jVl00rDK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 22,
+          "like_count": 888,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 95
+        },
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-20T03:45:21.000Z",
+        "description": "沉浸式劇情卡牌手遊《代號鳶》3月30日正式上線！\n這場愛與權謀的旅程，只待殿下親自開啟！\n✧台灣： https://t.co/bZu1Em4kPz\n✧港澳新馬： https://t.co/hmlQZaGq6P",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/3zbGDef",
+                "end": 73,
+                "expanded_url": "http://bit.ly/3zbGDef",
+                "start": 50,
+                "url": "https://t.co/bZu1Em4kPz"
+              },
+              {
+                "display_url": "bit.ly/3LXAo5r",
+                "end": 104,
+                "expanded_url": "http://bit.ly/3LXAo5r",
+                "start": 81,
+                "url": "https://t.co/hmlQZaGq6P"
+              }
+            ]
+          }
+        },
+        "id": "1648895543794618368",
+        "name": "代號鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1648896726420586497/2PAqml5N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55294,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 37,
+          "media_count": 254,
+          "tweet_count": 291
+        },
+        "username": "aotk0330",
+        "verified": false
+      }
+    ]
+  }
+}

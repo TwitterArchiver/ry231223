@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004723631809511424",
+        "3_2004723632283480064"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2004723636201038114",
+    "created_at": "2025-12-27T01:18:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T02:18:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004723636201038114"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jbbzjyecUj",
+          "end": 28,
+          "expanded_url": "https://x.com/ry231223/status/2004723636201038114/photo/1",
+          "media_key": "3_2004723631809511424",
+          "start": 5,
+          "url": "https://t.co/jbbzjyecUj"
+        },
+        {
+          "display_url": "pic.x.com/jbbzjyecUj",
+          "end": 28,
+          "expanded_url": "https://x.com/ry231223/status/2004723636201038114/photo/1",
+          "media_key": "3_2004723632283480064",
+          "start": 5,
+          "url": "https://t.co/jbbzjyecUj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004723636201038114",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "⦁֊⦁ᐝ https://t.co/jbbzjyecUj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2004723631809511424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9I1hYrWQAAt8Gc.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2004723632283480064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9I1hacWcAANWkq.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004723631809511424",
+            "3_2004723632283480064"
+          ]
+        },
+        "author_id": "1886421046640902144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2004723636201038114",
+        "created_at": "2025-12-27T01:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T02:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004723636201038114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jbbzjyecUj",
+              "end": 28,
+              "expanded_url": "https://x.com/ry231223/status/2004723636201038114/photo/1",
+              "media_key": "3_2004723631809511424",
+              "start": 5,
+              "url": "https://t.co/jbbzjyecUj"
+            },
+            {
+              "display_url": "pic.x.com/jbbzjyecUj",
+              "end": 28,
+              "expanded_url": "https://x.com/ry231223/status/2004723636201038114/photo/1",
+              "media_key": "3_2004723632283480064",
+              "start": 5,
+              "url": "https://t.co/jbbzjyecUj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004723636201038114",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "⦁֊⦁ᐝ https://t.co/jbbzjyecUj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "乱发 发什么用你管│♀ISFP/地雷/雙相/自傷/OD",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "楡ちゃん",
+        "pinned_tweet_id": "1999479701568700562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001393658730315778/tdHqn9Rl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 8,
+          "like_count": 1396,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 92
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "1966609054467596378",
+    "created_at": "2025-09-12T21:05:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T22:05:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966609054467596378"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1966609054467596378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "孙权只要前期有人帮忙就算发育的不是很好等到后期也是开大既超神。前提是死的少。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "1966609054467596378",
+        "created_at": "2025-09-12T21:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T22:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966609054467596378"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966609054467596378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孙权只要前期有人帮忙就算发育的不是很好等到后期也是开大既超神。前提是死的少。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "绝望的内向100%入机INFJ-T│09♀/雙相/自傷/OD",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "朱欒語",
+        "pinned_tweet_id": "1949879251873702160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939955205795086336/0Y5PJw_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 8,
+          "like_count": 1394,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 139
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

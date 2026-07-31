@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945206168445403136",
+        "3_1945206167644385280",
+        "3_1945206171150741505",
+        "3_1945206169523433472"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1945206174837530945",
+    "created_at": "2025-07-15T19:37:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T20:37:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945206174837530945"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 48,
+          "start": 42,
+          "tag": "代号鸢春梦"
+        },
+        {
+          "end": 53,
+          "start": 49,
+          "tag": "绣衣楼"
+        },
+        {
+          "end": 62,
+          "start": 54,
+          "tag": "cosplay"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E9MgeRJloL",
+          "end": 86,
+          "expanded_url": "https://x.com/ry231223/status/1945206174837530945/photo/1",
+          "media_key": "3_1945206168445403136",
+          "start": 63,
+          "url": "https://t.co/E9MgeRJloL"
+        },
+        {
+          "display_url": "pic.x.com/E9MgeRJloL",
+          "end": 86,
+          "expanded_url": "https://x.com/ry231223/status/1945206174837530945/photo/1",
+          "media_key": "3_1945206167644385280",
+          "start": 63,
+          "url": "https://t.co/E9MgeRJloL"
+        },
+        {
+          "display_url": "pic.x.com/E9MgeRJloL",
+          "end": 86,
+          "expanded_url": "https://x.com/ry231223/status/1945206174837530945/photo/1",
+          "media_key": "3_1945206171150741505",
+          "start": 63,
+          "url": "https://t.co/E9MgeRJloL"
+        },
+        {
+          "display_url": "pic.x.com/E9MgeRJloL",
+          "end": 86,
+          "expanded_url": "https://x.com/ry231223/status/1945206174837530945/photo/1",
+          "media_key": "3_1945206169523433472",
+          "start": 63,
+          "url": "https://t.co/E9MgeRJloL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945206174837530945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“还有你，广陵王…到了一梦不醒的时候了……”\n\n出境：原po\n摄影：Z\n后期：22\n#代号鸢春梦 #绣衣楼 #cosplay https://t.co/E9MgeRJloL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1945206168445403136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv7CtD0WQAAnJmI.jpg",
+        "width": 1365
+      },
+      {
+        "height": 1366,
+        "media_key": "3_1945206167644385280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv7CtA1XsAA9dV9.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1945206171150741505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv7CtN5WcAELZiU.jpg",
+        "width": 1365
+      },
+      {
+        "height": 1365,
+        "media_key": "3_1945206169523433472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv7CtH1XsAAkSvK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945206168445403136",
+            "3_1945206167644385280",
+            "3_1945206171150741505",
+            "3_1945206169523433472"
+          ]
+        },
+        "author_id": "1886421046640902144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1945206174837530945",
+        "created_at": "2025-07-15T19:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T20:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945206174837530945"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 42,
+              "tag": "代号鸢春梦"
+            },
+            {
+              "end": 53,
+              "start": 49,
+              "tag": "绣衣楼"
+            },
+            {
+              "end": 62,
+              "start": 54,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E9MgeRJloL",
+              "end": 86,
+              "expanded_url": "https://x.com/ry231223/status/1945206174837530945/photo/1",
+              "media_key": "3_1945206168445403136",
+              "start": 63,
+              "url": "https://t.co/E9MgeRJloL"
+            },
+            {
+              "display_url": "pic.x.com/E9MgeRJloL",
+              "end": 86,
+              "expanded_url": "https://x.com/ry231223/status/1945206174837530945/photo/1",
+              "media_key": "3_1945206167644385280",
+              "start": 63,
+              "url": "https://t.co/E9MgeRJloL"
+            },
+            {
+              "display_url": "pic.x.com/E9MgeRJloL",
+              "end": 86,
+              "expanded_url": "https://x.com/ry231223/status/1945206174837530945/photo/1",
+              "media_key": "3_1945206171150741505",
+              "start": 63,
+              "url": "https://t.co/E9MgeRJloL"
+            },
+            {
+              "display_url": "pic.x.com/E9MgeRJloL",
+              "end": 86,
+              "expanded_url": "https://x.com/ry231223/status/1945206174837530945/photo/1",
+              "media_key": "3_1945206169523433472",
+              "start": 63,
+              "url": "https://t.co/E9MgeRJloL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945206174837530945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“还有你，广陵王…到了一梦不醒的时候了……”\n\n出境：原po\n摄影：Z\n后期：22\n#代号鸢春梦 #绣衣楼 #cosplay https://t.co/E9MgeRJloL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "绝望的内向100%入机INFJ-T│09/顺女/雙相/自傷/OD",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "クレイジーゾウリ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939955205795086336/0Y5PJw_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 11,
+          "like_count": 1461,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 134
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

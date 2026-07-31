@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943273568525017088",
+        "3_1943273568361730048",
+        "3_1943273568566919169",
+        "3_1943273568382627840"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "conversation_id": "1943273613617995793",
+    "created_at": "2025-07-10T11:38:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T12:38:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943273613617995793"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 36,
+          "tag": "cos"
+        },
+        {
+          "end": 47,
+          "start": 41,
+          "tag": "代号鸢春梦"
+        },
+        {
+          "end": 51,
+          "start": 48,
+          "tag": "春梦"
+        },
+        {
+          "end": 56,
+          "start": 52,
+          "tag": "司马孚"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nYvXxB0ZIt",
+          "end": 80,
+          "expanded_url": "https://x.com/ry231223/status/1943273613617995793/photo/1",
+          "media_key": "3_1943273568525017088",
+          "start": 57,
+          "url": "https://t.co/nYvXxB0ZIt"
+        },
+        {
+          "display_url": "pic.x.com/nYvXxB0ZIt",
+          "end": 80,
+          "expanded_url": "https://x.com/ry231223/status/1943273613617995793/photo/1",
+          "media_key": "3_1943273568361730048",
+          "start": 57,
+          "url": "https://t.co/nYvXxB0ZIt"
+        },
+        {
+          "display_url": "pic.x.com/nYvXxB0ZIt",
+          "end": 80,
+          "expanded_url": "https://x.com/ry231223/status/1943273613617995793/photo/1",
+          "media_key": "3_1943273568566919169",
+          "start": 57,
+          "url": "https://t.co/nYvXxB0ZIt"
+        },
+        {
+          "display_url": "pic.x.com/nYvXxB0ZIt",
+          "end": 80,
+          "expanded_url": "https://x.com/ry231223/status/1943273613617995793/photo/1",
+          "media_key": "3_1943273568382627840",
+          "start": 57,
+          "url": "https://t.co/nYvXxB0ZIt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943273613617995793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "深圳广陵第一学校│“欠你一场春梦呢…”\n\n出境：原po\n摄影/后期：Z\n#cos #代号鸢春梦 #春梦 #司马孚 https://t.co/nYvXxB0ZIt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_1943273568525017088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvflA8FW4AA42Gs.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1365,
+        "media_key": "3_1943273568361730048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvflA7ebUAAFeYg.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1943273568566919169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvflA8PWQAEyMuo.jpg",
+        "width": 1365
+      },
+      {
+        "height": 1365,
+        "media_key": "3_1943273568382627840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvflA7jaMAARkhD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943273568525017088",
+            "3_1943273568361730048",
+            "3_1943273568566919169",
+            "3_1943273568382627840"
+          ]
+        },
+        "author_id": "1886421046640902144",
+        "conversation_id": "1943273613617995793",
+        "created_at": "2025-07-10T11:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T12:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943273613617995793"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 36,
+              "tag": "cos"
+            },
+            {
+              "end": 47,
+              "start": 41,
+              "tag": "代号鸢春梦"
+            },
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "春梦"
+            },
+            {
+              "end": 56,
+              "start": 52,
+              "tag": "司马孚"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nYvXxB0ZIt",
+              "end": 80,
+              "expanded_url": "https://x.com/ry231223/status/1943273613617995793/photo/1",
+              "media_key": "3_1943273568525017088",
+              "start": 57,
+              "url": "https://t.co/nYvXxB0ZIt"
+            },
+            {
+              "display_url": "pic.x.com/nYvXxB0ZIt",
+              "end": 80,
+              "expanded_url": "https://x.com/ry231223/status/1943273613617995793/photo/1",
+              "media_key": "3_1943273568361730048",
+              "start": 57,
+              "url": "https://t.co/nYvXxB0ZIt"
+            },
+            {
+              "display_url": "pic.x.com/nYvXxB0ZIt",
+              "end": 80,
+              "expanded_url": "https://x.com/ry231223/status/1943273613617995793/photo/1",
+              "media_key": "3_1943273568566919169",
+              "start": 57,
+              "url": "https://t.co/nYvXxB0ZIt"
+            },
+            {
+              "display_url": "pic.x.com/nYvXxB0ZIt",
+              "end": 80,
+              "expanded_url": "https://x.com/ry231223/status/1943273613617995793/photo/1",
+              "media_key": "3_1943273568382627840",
+              "start": 57,
+              "url": "https://t.co/nYvXxB0ZIt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943273613617995793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "深圳广陵第一学校│“欠你一场春梦呢…”\n\n出境：原po\n摄影/后期：Z\n#cos #代号鸢春梦 #春梦 #司马孚 https://t.co/nYvXxB0ZIt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "09順女 INFJ-T/雙相/自傷/OD  夜晚出没│说自己爱女的先给我打钱",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "クレイジーゾウリ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939955205795086336/0Y5PJw_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 11,
+          "like_count": 1460,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 133
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

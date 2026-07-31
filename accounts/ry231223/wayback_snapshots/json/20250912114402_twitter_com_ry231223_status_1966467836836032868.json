@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966467659265941505",
+        "3_1966467659257548800"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1966467836836032868",
+    "created_at": "2025-09-12T11:44:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T12:44:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966467836836032868"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 3,
+          "normalized_text": "神明少女",
+          "probability": 0.2786,
+          "start": 0,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F8RHoDsmIL",
+          "end": 28,
+          "expanded_url": "https://x.com/ry231223/status/1966467836836032868/photo/1",
+          "media_key": "3_1966467659265941505",
+          "start": 5,
+          "url": "https://t.co/F8RHoDsmIL"
+        },
+        {
+          "display_url": "pic.x.com/F8RHoDsmIL",
+          "end": 28,
+          "expanded_url": "https://x.com/ry231223/status/1966467836836032868/photo/1",
+          "media_key": "3_1966467659257548800",
+          "start": 5,
+          "url": "https://t.co/F8RHoDsmIL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966467836836032868",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "神明少女 https://t.co/F8RHoDsmIL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1966467659265941505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0pL6tTXIAE3-Ct.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1966467659257548800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0pL6tRXEAAu3E9.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966467659265941505",
+            "3_1966467659257548800"
+          ]
+        },
+        "author_id": "1886421046640902144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1966467836836032868",
+        "created_at": "2025-09-12T11:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T12:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966467836836032868"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "神明少女",
+              "probability": 0.2786,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F8RHoDsmIL",
+              "end": 28,
+              "expanded_url": "https://x.com/ry231223/status/1966467836836032868/photo/1",
+              "media_key": "3_1966467659265941505",
+              "start": 5,
+              "url": "https://t.co/F8RHoDsmIL"
+            },
+            {
+              "display_url": "pic.x.com/F8RHoDsmIL",
+              "end": 28,
+              "expanded_url": "https://x.com/ry231223/status/1966467836836032868/photo/1",
+              "media_key": "3_1966467659257548800",
+              "start": 5,
+              "url": "https://t.co/F8RHoDsmIL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966467836836032868",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神明少女 https://t.co/F8RHoDsmIL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "绝望的内向100%入机INFJ-T│09♀/雙相/自傷/OD",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "朱欒語",
+        "pinned_tweet_id": "1949879251873702160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939955205795086336/0Y5PJw_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 8,
+          "like_count": 1386,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 138
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

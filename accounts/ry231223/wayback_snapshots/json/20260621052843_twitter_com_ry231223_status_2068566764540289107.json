@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2067806219931447322",
+    "created_at": "2026-06-21T05:28:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T06:28:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068566764540289107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "929326613354942464",
+          "start": 0,
+          "username": "J2pWYGxPjxSR2dV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068566764540289107",
+    "in_reply_to_user_id": "929326613354942464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068460713644106033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@J2pWYGxPjxSR2dV 你咋了，说到你痛处了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2067806219931447322",
+        "created_at": "2026-06-21T05:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068566764540289107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "929326613354942464",
+              "start": 0,
+              "username": "J2pWYGxPjxSR2dV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068566764540289107",
+        "in_reply_to_user_id": "929326613354942464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068460713644106033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@J2pWYGxPjxSR2dV 你咋了，说到你痛处了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "929326613354942464",
+        "conversation_id": "2067806219931447322",
+        "created_at": "2026-06-20T22:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T23:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068460713644106033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1886421046640902144",
+              "start": 0,
+              "username": "ry231223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068460713644106033",
+        "in_reply_to_user_id": "1886421046640902144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067806219931447322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ry231223 难道不是盲目跟风的精神小伙小妹把这个圈子的名声搞臭了导致的？搁这划分阵营喊话是准备……？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od│回fo只回同好＆同類",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2067179880505332212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066982017397596160/nvBcRppn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 40,
+          "like_count": 2188,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 181
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-11T12:35:05.000Z",
+        "description": "愿世界和平",
+        "id": "929326613354942464",
+        "location": "中国",
+        "name": "天道",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/929375011718254593/dO2HmOfX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 89,
+          "like_count": 571,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 694
+        },
+        "url": "",
+        "username": "J2pWYGxPjxSR2dV",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978195707971387392",
+        "3_1978195708319543296",
+        "3_1978195708315328512"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1978195728137654694",
+    "created_at": "2025-10-14T20:26:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T21:26:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978195728137654694"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 12,
+          "start": 8,
+          "tag": "cos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JNjiVjAjZk",
+          "end": 36,
+          "expanded_url": "https://x.com/ry231223/status/1978195728137654694/photo/1",
+          "media_key": "3_1978195707971387392",
+          "start": 13,
+          "url": "https://t.co/JNjiVjAjZk"
+        },
+        {
+          "display_url": "pic.x.com/JNjiVjAjZk",
+          "end": 36,
+          "expanded_url": "https://x.com/ry231223/status/1978195728137654694/photo/1",
+          "media_key": "3_1978195708319543296",
+          "start": 13,
+          "url": "https://t.co/JNjiVjAjZk"
+        },
+        {
+          "display_url": "pic.x.com/JNjiVjAjZk",
+          "end": 36,
+          "expanded_url": "https://x.com/ry231223/status/1978195728137654694/photo/1",
+          "media_key": "3_1978195708315328512",
+          "start": 13,
+          "url": "https://t.co/JNjiVjAjZk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978195728137654694",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🐰\n摄影：艾比 #cos https://t.co/JNjiVjAjZk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2112,
+        "media_key": "3_1978195707971387392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3P2g_XWQAAgUFC.jpg",
+        "width": 1600
+      },
+      {
+        "height": 2112,
+        "media_key": "3_1978195708319543296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3P2hAqWsAAujsD.jpg",
+        "width": 1600
+      },
+      {
+        "height": 2114,
+        "media_key": "3_1978195708315328512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3P2hApWYAAfSS2.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978195707971387392",
+            "3_1978195708319543296",
+            "3_1978195708315328512"
+          ]
+        },
+        "author_id": "1886421046640902144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1978195728137654694",
+        "created_at": "2025-10-14T20:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T21:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978195728137654694"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "cos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JNjiVjAjZk",
+              "end": 36,
+              "expanded_url": "https://x.com/ry231223/status/1978195728137654694/photo/1",
+              "media_key": "3_1978195707971387392",
+              "start": 13,
+              "url": "https://t.co/JNjiVjAjZk"
+            },
+            {
+              "display_url": "pic.x.com/JNjiVjAjZk",
+              "end": 36,
+              "expanded_url": "https://x.com/ry231223/status/1978195728137654694/photo/1",
+              "media_key": "3_1978195708319543296",
+              "start": 13,
+              "url": "https://t.co/JNjiVjAjZk"
+            },
+            {
+              "display_url": "pic.x.com/JNjiVjAjZk",
+              "end": 36,
+              "expanded_url": "https://x.com/ry231223/status/1978195728137654694/photo/1",
+              "media_key": "3_1978195708315328512",
+              "start": 13,
+              "url": "https://t.co/JNjiVjAjZk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978195728137654694",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🐰\n摄影：艾比 #cos https://t.co/JNjiVjAjZk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "绝望的内向100%入机INFJ-T│09♀/雙相/自傷/OD",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "融冬",
+        "pinned_tweet_id": "1949879251873702160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968557577911889920/Dlf5TLUG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 8,
+          "like_count": 1380,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 147
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

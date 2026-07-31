@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "1902139175966535753",
+    "created_at": "2025-03-18T23:24:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T00:24:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1902139175966535753"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1902139175966535753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看見有的傻逼覺得我會詛咒人，那我在這裡說一下，我不會詛咒同擔同價，要是說死真死了那我早死八百回了，我只會咒你和所有廣推死，第一個把我推特小號把出來的真是畜牲，我敢說90%的人推特都是見不得人的，我不認為我在推特上發牢騷是犯了天條，反而我覺得你們廣推畜牲中的畜牲，最最該死的就是你們"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "1902139175966535753",
+        "created_at": "2025-03-18T23:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T00:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902139175966535753"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902139175966535753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看見有的傻逼覺得我會詛咒人，那我在這裡說一下，我不會詛咒同擔同價，要是說死真死了那我早死八百回了，我只會咒你和所有廣推死，第一個把我推特小號把出來的真是畜牲，我敢說90%的人推特都是見不得人的，我不認為我在推特上發牢騷是犯了天條，反而我覺得你們廣推畜牲中的畜牲，最最該死的就是你們"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "祝你天天开心OvO│视奸我的犷妾默认全家死光│本人INFJ-T/重鬱/重慮/躁狂/自傷/od",
+        "id": "1886421046640902144",
+        "name": "きらい",
+        "pinned_tweet_id": "1900995745286943062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900256537458999296/c7p7GgT-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 10,
+          "like_count": 447,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 32
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2031281966184558851",
+    "created_at": "2026-03-12T11:38:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T12:38:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032058601947181347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1919453545092300800",
+          "start": 0,
+          "username": "yanori_love"
+        },
+        {
+          "end": 22,
+          "id": "1516668413275430912",
+          "start": 13,
+          "username": "LimeRosk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032058601947181347",
+    "in_reply_to_user_id": "1919453545092300800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031545704364335350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanori_love @LimeRosk 诶？是指什么跑外面…？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2031281966184558851",
+        "created_at": "2026-03-12T11:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T12:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032058601947181347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1919453545092300800",
+              "start": 0,
+              "username": "yanori_love"
+            },
+            {
+              "end": 22,
+              "id": "1516668413275430912",
+              "start": 13,
+              "username": "LimeRosk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032058601947181347",
+        "in_reply_to_user_id": "1919453545092300800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031545704364335350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanori_love @LimeRosk 诶？是指什么跑外面…？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919453545092300800",
+        "conversation_id": "2031281966184558851",
+        "created_at": "2026-03-11T01:40:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T02:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031545704364335350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1886421046640902144",
+              "start": 0,
+              "username": "ry231223"
+            },
+            {
+              "end": 19,
+              "id": "1516668413275430912",
+              "start": 10,
+              "username": "LimeRosk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031545704364335350",
+        "in_reply_to_user_id": "1886421046640902144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 205,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031452274002899123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ry231223 @LimeRosk 17怎么跑外面了😳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀ISFP/地雷/雙相/自傷/OD│ins：ry.231229",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020873447883390976/CLWmdQnE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 7,
+          "like_count": 1636,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 106
+        },
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T18:06:36.000Z",
+        "description": "",
+        "id": "1919453545092300800",
+        "name": "yanori",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020055053646905344/UFn6IvqP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 45,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 19
+        },
+        "username": "yanori_love",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-20T06:42:03.000Z",
+        "description": "你好！这里是Rosk/天洛，是一只赛博风格的小狼｜本推仅用于更新日常及正常Furrysuit内容｜喜欢人外/敷面/机甲/龙/furry｜无🔞｜无情的转贴bot↪️@Roskowo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 81,
+                "username": "Roskowo"
+              }
+            ]
+          }
+        },
+        "id": "1516668413275430912",
+        "name": "𝙍𝙤𝙨𝙠",
+        "pinned_tweet_id": "2022029993522720850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984043286705971200/iJXFgZ0n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10825,
+          "following_count": 1049,
+          "like_count": 13181,
+          "listed_count": 16,
+          "media_count": 1654,
+          "tweet_count": 7367
+        },
+        "username": "LimeRosk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2065435607955046810",
+    "created_at": "2026-06-12T17:35:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T18:35:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065488090907480289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1883843541404913664",
+          "start": 0,
+          "username": "yitakuya5201314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065488090907480289",
+    "in_reply_to_user_id": "1883843541404913664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065435607955046810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yitakuya5201314 抱抱…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065435604620566528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnmvT_aYAAvEU0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2065435607955046810",
+        "created_at": "2026-06-12T17:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065488090907480289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1883843541404913664",
+              "start": 0,
+              "username": "yitakuya5201314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065488090907480289",
+        "in_reply_to_user_id": "1883843541404913664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065435607955046810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yitakuya5201314 抱抱…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065435604620566528"
+          ]
+        },
+        "author_id": "1883843541404913664",
+        "conversation_id": "2065435607955046810",
+        "created_at": "2026-06-12T14:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065435607955046810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vy1D243VQt",
+              "end": 167,
+              "expanded_url": "https://x.com/yitakuya5201314/status/2065435607955046810/photo/1",
+              "media_key": "3_2065435604620566528",
+              "start": 144,
+              "url": "https://t.co/vy1D243VQt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065435607955046810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明明知道，却还是做了这种事\n上次，是在十月份的时候\n我本来也以为会是最后一次了\n也没有想到，还会再有这样的事发生\n也许这一次会是最后一次？\n不知道，但我在这一次想起了过去\n想起了曾经是为什么而做这种事\n并没有怎么改，本来也没想\n反应过来时，已经这样了\n让这一次是最后一次吧\n留此让我记住 https://t.co/vy1D243VQt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od│我愛發什麼發什麼不愛看滾",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2060068946649231716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043585593389756416/LMOy-UNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 21,
+          "like_count": 2101,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 160
+        },
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T11:44:47.000Z",
+        "description": "♀/ENFP——\ncn咖塔/芝豆/可可\n\n上推主要就是为了家产的，是☀️🍷洁癖呀\n\n我一般比较温良，和我做朋友好吗🥺\n\n精神大部分时候还是稳定的🥺",
+        "id": "1883843541404913664",
+        "name": "椰味蜜果羹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063144831350931456/zMVrNTdx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 187,
+          "like_count": 2575,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 343
+        },
+        "username": "yitakuya5201314",
+        "verified": false
+      }
+    ]
+  }
+}

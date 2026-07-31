@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1924949256541970432"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1924949415858479181",
+    "created_at": "2025-05-20T22:04:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T23:04:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1924949415858479181"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 16,
+          "start": 13,
+          "tag": "光遇"
+        },
+        {
+          "end": 22,
+          "start": 17,
+          "tag": "光遇自孽"
+        },
+        {
+          "end": 26,
+          "start": 23,
+          "tag": "霜杏"
+        },
+        {
+          "end": 35,
+          "start": 27,
+          "tag": "cosplay"
+        },
+        {
+          "end": 41,
+          "start": 36,
+          "tag": "致歉一切"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CQ9pc9VmL2",
+          "end": 65,
+          "expanded_url": "https://x.com/ry231223/status/1924949415858479181/video/1",
+          "media_key": "7_1924949256541970432",
+          "start": 42,
+          "url": "https://t.co/CQ9pc9VmL2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924949415858479181",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不爱我的话…你就去死好吗？#光遇 #光遇自孽 #霜杏 #cosplay #致歉一切 https://t.co/CQ9pc9VmL2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32043,
+        "height": 1280,
+        "media_key": "7_1924949256541970432",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1924949256541970432/pu/img/vjaIVnXota3E9Pn8.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1924949256541970432/pu/vid/avc1/320x568/cub96oerE6P-VW09.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1924949256541970432/pu/vid/avc1/480x852/5NPmVytFIJ6Vcc2k.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1924949256541970432/pu/vid/avc1/720x1280/VXCCa6dVFXEdsGur.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1924949256541970432/pu/pl/ywOCBlHRiWw57Rhs.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1924949256541970432"
+          ]
+        },
+        "author_id": "1886421046640902144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1924949415858479181",
+        "created_at": "2025-05-20T22:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T23:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924949415858479181"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "光遇"
+            },
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "光遇自孽"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "霜杏"
+            },
+            {
+              "end": 35,
+              "start": 27,
+              "tag": "cosplay"
+            },
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "致歉一切"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CQ9pc9VmL2",
+              "end": 65,
+              "expanded_url": "https://x.com/ry231223/status/1924949415858479181/video/1",
+              "media_key": "7_1924949256541970432",
+              "start": 42,
+              "url": "https://t.co/CQ9pc9VmL2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924949415858479181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不爱我的话…你就去死好吗？#光遇 #光遇自孽 #霜杏 #cosplay #致歉一切 https://t.co/CQ9pc9VmL2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "視奸我的犷妾死全家│09順女 INFJ-T/社恐/雙相/自傷/OD│🚪35給你當樹洞",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "クレイジーゾウリ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922839112576339968/xy_nC5GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 16,
+          "like_count": 1161,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 107
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

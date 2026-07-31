@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "1927688027008037013",
+    "created_at": "2025-06-03T18:36:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T19:36:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929970386608791961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1648895543794618368",
+          "start": 0,
+          "username": "aotk0330"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929970386608791961",
+    "in_reply_to_user_id": "1648895543794618368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927688030170538424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aotk0330 孙策好萌，隔壁的皮套也是个人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1927687776591572992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsCF0cmacAAqLwW.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "1927688027008037013",
+        "created_at": "2025-06-03T18:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T19:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929970386608791961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1648895543794618368",
+              "start": 0,
+              "username": "aotk0330"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929970386608791961",
+        "in_reply_to_user_id": "1648895543794618368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927688030170538424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aotk0330 孙策好萌，隔壁的皮套也是个人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927687776591572992"
+          ]
+        },
+        "author_id": "1648895543794618368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1927688027008037013",
+        "created_at": "2025-05-28T11:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T12:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927688030170538424"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "孫策"
+            },
+            {
+              "end": 117,
+              "start": 107,
+              "tag": "0601孫策初見日"
+            },
+            {
+              "end": 122,
+              "start": 118,
+              "tag": "代號鳶"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H0zkGoaAI5",
+              "end": 146,
+              "expanded_url": "https://x.com/aotk0330/status/1927688030170538424/photo/1",
+              "media_key": "3_1927687776591572992",
+              "start": 123,
+              "url": "https://t.co/H0zkGoaAI5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927688030170538424",
+        "in_reply_to_user_id": "1648895543794618368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2338,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927688027008037013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🏚活动介绍：夏季限定整活……不！商务活动！蓄势待发！ \n⏳活动时间：05/29維護後-06/11 23:59 \n🎁活动奖励：可獲得33個天機符傳、動態頭像框【草劃說名字保密版】及稱號【名字保密版】等獎勵\n\n#孫策 #0601孫策初見日 #代號鳶 https://t.co/H0zkGoaAI5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "視奸我的犷妾死全家│09順女 INFJ-T/雙相/自傷/OD│🚪35纯绿",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "クレイジーゾウリ",
+        "pinned_tweet_id": "1900995745286943062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929583973815984128/X9rpDFC__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 12,
+          "like_count": 1304,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 113
+        },
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-20T03:45:21.000Z",
+        "description": "沉浸式劇情卡牌手遊《代號鳶》3月30日正式上線！\n這場愛與權謀的旅程，只待殿下親自開啟！\n✧台灣： https://t.co/bZu1Em4kPz\n✧港澳新馬： https://t.co/hmlQZaGq6P",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/3zbGDef",
+                "end": 73,
+                "expanded_url": "http://bit.ly/3zbGDef",
+                "start": 50,
+                "url": "https://t.co/bZu1Em4kPz"
+              },
+              {
+                "display_url": "bit.ly/3LXAo5r",
+                "end": 104,
+                "expanded_url": "http://bit.ly/3LXAo5r",
+                "start": 81,
+                "url": "https://t.co/hmlQZaGq6P"
+              }
+            ]
+          }
+        },
+        "id": "1648895543794618368",
+        "name": "代號鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1648896726420586497/2PAqml5N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54927,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 37,
+          "media_count": 266,
+          "tweet_count": 312
+        },
+        "username": "aotk0330",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2068746611690246630",
+    "created_at": "2026-06-21T20:53:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T21:53:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068799577827012617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1996061460984987650",
+          "start": 0,
+          "username": "bai_ge21306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068799577827012617",
+    "in_reply_to_user_id": "1996061460984987650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068746611690246630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bai_ge21306 加油喔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2068746611690246630",
+        "created_at": "2026-06-21T20:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T21:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068799577827012617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1996061460984987650",
+              "start": 0,
+              "username": "bai_ge21306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068799577827012617",
+        "in_reply_to_user_id": "1996061460984987650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068746611690246630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bai_ge21306 加油喔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996061460984987650",
+        "conversation_id": "2068746611690246630",
+        "created_at": "2026-06-21T17:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T18:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068746611690246630"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068746611690246630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天就要去打眉钉了能不能给我加油啊我好怕…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od│回fo只回同好＆同類│防走失@Zhizi24007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "Zhizi24007"
+              }
+            ]
+          }
+        },
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2067179880505332212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066982017397596160/nvBcRppn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 39,
+          "like_count": 2208,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 186
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-03T03:38:45.000Z",
+        "description": "1i/4i 贝斯手 阴湿长发男 小众亚比地雷男\nip在南极洲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lemon23672",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lemon23672",
+                "start": 0,
+                "url": "https://t.co/e1Qn7kfVvF"
+              }
+            ]
+          }
+        },
+        "id": "1996061460984987650",
+        "name": "🍋",
+        "pinned_tweet_id": "2066277645621334085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034812591990870016/Ed8qZVYq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 313,
+          "like_count": 204,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 352
+        },
+        "url": "https://t.co/e1Qn7kfVvF",
+        "username": "bai_ge21306",
+        "verified": false
+      }
+    ]
+  }
+}

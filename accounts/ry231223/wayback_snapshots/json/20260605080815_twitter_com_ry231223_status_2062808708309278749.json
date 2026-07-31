@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2062266470298476914",
+    "created_at": "2026-06-05T08:08:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T09:08:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062808708309278749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1883843541404913664",
+          "start": 0,
+          "username": "yitakuya5201314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062808708309278749",
+    "in_reply_to_user_id": "1883843541404913664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062543549384835294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yitakuya5201314 好的ww谢谢泥qwq这个没事喵（目移）我习惯了这样（）我会努力改改的（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2062266470298476914",
+        "created_at": "2026-06-05T08:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062808708309278749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1883843541404913664",
+              "start": 0,
+              "username": "yitakuya5201314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062808708309278749",
+        "in_reply_to_user_id": "1883843541404913664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062543549384835294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yitakuya5201314 好的ww谢谢泥qwq这个没事喵（目移）我习惯了这样（）我会努力改改的（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883843541404913664",
+        "conversation_id": "2062266470298476914",
+        "created_at": "2026-06-04T14:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T15:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062543549384835294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1886421046640902144",
+              "start": 0,
+              "username": "ry231223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062543549384835294",
+        "in_reply_to_user_id": "1886421046640902144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062266470298476914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ry231223 不要再这样啦！虽然对你来说可能会有点困难，但要不要试试在这种时候少吃一点药或者说不要割手呢？就算少割两下也行呀。\n心情不好的话，也来试着倾诉一下吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od│我愛發什麼發什麼不愛看滾",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2060068946649231716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043585593389756416/LMOy-UNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 17,
+          "like_count": 2039,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 149
+        },
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T11:44:47.000Z",
+        "description": "♀/ENFP——\ncn咖塔/芝豆/可可\n\n上推主要就是为了家产的，是☀️🍷洁癖呀\n\n我一般比较温良，和我做朋友好吗🥺\n\n精神大部分时候还是稳定的🥺",
+        "id": "1883843541404913664",
+        "name": "椰味蜜果羹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057824064753094657/aVJsBY8S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 177,
+          "like_count": 2488,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 333
+        },
+        "username": "yitakuya5201314",
+        "verified": false
+      }
+    ]
+  }
+}

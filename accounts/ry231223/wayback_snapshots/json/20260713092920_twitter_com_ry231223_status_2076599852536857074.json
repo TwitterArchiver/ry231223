@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2076347642087628892",
+    "created_at": "2026-07-13T09:29:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T10:29:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076599852536857074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1769193780329304064",
+          "start": 0,
+          "username": "azhe_713"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076599852536857074",
+    "in_reply_to_user_id": "1769193780329304064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076347642087628892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@azhe_713 生日快乐呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076347496700456960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCrDBsaMAAsVEf.jpg",
+        "width": 1541
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076347496444674048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCrDAvbQAATfvW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076347496738267136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCrDB1bIAArMEq.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1229,
+        "media_key": "3_2076347496687882240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCrDBpaUAAFLZM.jpg",
+        "width": 1229
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2076347642087628892",
+        "created_at": "2026-07-13T09:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T10:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076599852536857074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1769193780329304064",
+              "start": 0,
+              "username": "azhe_713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076599852536857074",
+        "in_reply_to_user_id": "1769193780329304064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076347642087628892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@azhe_713 生日快乐呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076347496700456960",
+            "3_2076347496444674048",
+            "3_2076347496738267136",
+            "3_2076347496687882240"
+          ]
+        },
+        "author_id": "1769193780329304064",
+        "conversation_id": "2076347642087628892",
+        "created_at": "2026-07-12T16:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T17:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076347642087628892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XitaZZ1eXI",
+              "end": 44,
+              "expanded_url": "https://x.com/azhe_713/status/2076347642087628892/photo/1",
+              "media_key": "3_2076347496700456960",
+              "start": 21,
+              "url": "https://t.co/XitaZZ1eXI"
+            },
+            {
+              "display_url": "pic.x.com/XitaZZ1eXI",
+              "end": 44,
+              "expanded_url": "https://x.com/azhe_713/status/2076347642087628892/photo/1",
+              "media_key": "3_2076347496444674048",
+              "start": 21,
+              "url": "https://t.co/XitaZZ1eXI"
+            },
+            {
+              "display_url": "pic.x.com/XitaZZ1eXI",
+              "end": 44,
+              "expanded_url": "https://x.com/azhe_713/status/2076347642087628892/photo/1",
+              "media_key": "3_2076347496738267136",
+              "start": 21,
+              "url": "https://t.co/XitaZZ1eXI"
+            },
+            {
+              "display_url": "pic.x.com/XitaZZ1eXI",
+              "end": 44,
+              "expanded_url": "https://x.com/azhe_713/status/2076347642087628892/photo/1",
+              "media_key": "3_2076347496687882240",
+              "start": 21,
+              "url": "https://t.co/XitaZZ1eXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076347642087628892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 7735,
+          "like_count": 289,
+          "quote_count": 0,
+          "reply_count": 75,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天是我18岁生日哦\n可以祝我生日快乐吗 https://t.co/XitaZZ1eXI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od\n要回fo請私信 只回同類和同好 互fo大歡迎~",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2074984648392982833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076596771678220288/P0YiwjKy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 61,
+          "like_count": 2541,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 245
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-17T02:47:36.000Z",
+        "description": "",
+        "id": "1769193780329304064",
+        "name": "阿喆喆捏",
+        "pinned_tweet_id": "2060298369281781766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961531199295557637/DwbqjX8j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4802,
+          "following_count": 68,
+          "like_count": 1113,
+          "listed_count": 13,
+          "media_count": 93,
+          "tweet_count": 199
+        },
+        "url": "",
+        "username": "azhe_713",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2080961230173266212",
+    "created_at": "2026-07-25T13:26:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T14:26:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081008138799440380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1956295307886788608",
+          "start": 0,
+          "username": "k3m3s9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081008138799440380",
+    "in_reply_to_user_id": "1956295307886788608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080966407207194822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k3m3s9 还好wwTvT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2080961230173266212",
+        "created_at": "2026-07-25T13:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081008138799440380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1956295307886788608",
+              "start": 0,
+              "username": "k3m3s9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081008138799440380",
+        "in_reply_to_user_id": "1956295307886788608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080966407207194822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k3m3s9 还好wwTvT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956295307886788608",
+        "conversation_id": "2080961230173266212",
+        "created_at": "2026-07-25T10:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080966407207194822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1886421046640902144",
+              "start": 0,
+              "username": "ry231223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080966407207194822",
+        "in_reply_to_user_id": "1886421046640902144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080961230173266212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ry231223 抱抱你，你還好嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od\n要回fo請私信 只回同類和同好 互fo大歡迎~",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2074984648392982833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076596771678220288/P0YiwjKy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 62,
+          "like_count": 2579,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 257
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-15T10:02:13.000Z",
+        "description": "欢迎！你好呀 我是小灰 我发废文 我不知道发什么 可能偶尔上线 不聊色色_(:3 」∠ )_",
+        "id": "1956295307886788608",
+        "name": "灰色的一團",
+        "pinned_tweet_id": "2068768573837992264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077439874655997952/rVD3k2NJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 1035,
+          "like_count": 6224,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 2782
+        },
+        "url": "",
+        "username": "k3m3s9",
+        "verified": false
+      }
+    ]
+  }
+}

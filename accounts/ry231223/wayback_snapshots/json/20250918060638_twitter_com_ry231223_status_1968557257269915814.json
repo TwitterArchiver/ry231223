@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "1967733933518491688",
+    "created_at": "2025-09-18T06:06:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T07:06:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968557257269915814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1775557501016297472",
+          "start": 0,
+          "username": "Ayanami090130"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968557257269915814",
+    "in_reply_to_user_id": "1775557501016297472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967733933518491688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayanami090130 纯路人这是天堂吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1967733921476648960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G07Lk3oaIAAbWHR.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "1967733933518491688",
+        "created_at": "2025-09-18T06:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T07:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968557257269915814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1775557501016297472",
+              "start": 0,
+              "username": "Ayanami090130"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968557257269915814",
+        "in_reply_to_user_id": "1775557501016297472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967733933518491688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanami090130 纯路人这是天堂吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967733921476648960"
+          ]
+        },
+        "author_id": "1775557501016297472",
+        "conversation_id": "1967733933518491688",
+        "created_at": "2025-09-15T23:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T00:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967733933518491688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fYsKQOkjyF",
+              "end": 30,
+              "expanded_url": "https://x.com/Ayanami090130/status/1967733933518491688/photo/1",
+              "media_key": "3_1967733921476648960",
+              "start": 7,
+              "url": "https://t.co/fYsKQOkjyF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967733933518491688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 13159,
+          "like_count": 236,
+          "quote_count": 3,
+          "reply_count": 19,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "新中国大毒枭 https://t.co/fYsKQOkjyF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "绝望的内向100%入机INFJ-T│09♀/雙相/自傷/OD",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "朱欒語",
+        "pinned_tweet_id": "1949879251873702160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939955205795086336/0Y5PJw_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 8,
+          "like_count": 1389,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 141
+        },
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T16:14:47.000Z",
+        "description": "叫我程程或者程少就好！09 性别薯条（加盐版）每天喜欢高强度od 私聊赞赏码 把推当日记发 偶尔出cos🚪88求溺爱（私信找我要收款码)",
+        "id": "1775557501016297472",
+        "location": "Taiwan",
+        "name": "一生当小三的命苦小cc",
+        "pinned_tweet_id": "1968545743045804460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915991324949680130/rlU7Qwq6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 80,
+          "like_count": 480,
+          "listed_count": 2,
+          "media_count": 112,
+          "tweet_count": 425
+        },
+        "username": "Ayanami090130",
+        "verified": false
+      }
+    ]
+  }
+}

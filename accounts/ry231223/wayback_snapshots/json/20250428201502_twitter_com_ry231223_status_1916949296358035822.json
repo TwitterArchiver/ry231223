@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "1916949296358035822",
+    "created_at": "2025-04-28T20:15:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T21:15:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1916949296358035822"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1916949296358035822",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每天都是好困…好困……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "1916949296358035822",
+        "created_at": "2025-04-28T20:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T21:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916949296358035822"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916949296358035822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天都是好困…好困……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "视奸我的犷妾默认死全家│09年♀ INFJ-T 社恐重度患者│雙相/自傷/OD/自殺史*3",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "藤が青糸をなでる",
+        "pinned_tweet_id": "1900995745286943062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915275448587870210/jVl00rDK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 27,
+          "like_count": 809,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 82
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

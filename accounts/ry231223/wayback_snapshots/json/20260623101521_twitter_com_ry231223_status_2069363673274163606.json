@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2069341465818619909",
+    "created_at": "2026-06-23T10:15:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T11:15:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069363673274163606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1733157188057853952",
+          "start": 0,
+          "username": "nigich436594"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069363673274163606",
+    "in_reply_to_user_id": "1733157188057853952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069341465818619909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nigich436594 我喜欢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2069341465818619909",
+        "created_at": "2026-06-23T10:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069363673274163606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1733157188057853952",
+              "start": 0,
+              "username": "nigich436594"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069363673274163606",
+        "in_reply_to_user_id": "1733157188057853952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069341465818619909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nigich436594 我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733157188057853952",
+        "conversation_id": "2069341465818619909",
+        "created_at": "2026-06-23T08:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069341465818619909"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069341465818619909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 257,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挂了🚪之后私信再也没有人说喜欢我了hhh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od│回fo只回同好＆同類│防走失@Zhizi24007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "Zhizi24007"
+              }
+            ]
+          }
+        },
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2067179880505332212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066982017397596160/nvBcRppn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 39,
+          "like_count": 2232,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 189
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T16:10:56.000Z",
+        "description": "💕OD｜餐卷妹｜165 79｜正常聊天欢迎｜互fo私信｜直fo就是喜欢你吖",
+        "id": "1733157188057853952",
+        "location": "🚪77聊天+好友",
+        "name": "想当幸福小猫",
+        "pinned_tweet_id": "2067070907714252991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068757507158491136/PWWft643_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 222,
+          "like_count": 2352,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 841
+        },
+        "url": "",
+        "username": "nigich436594",
+        "verified": false
+      }
+    ]
+  }
+}

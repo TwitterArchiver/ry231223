@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2059164668543852909",
+    "created_at": "2026-05-26T17:31:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T18:31:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059326554019086728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1883843541404913664",
+          "start": 0,
+          "username": "yitakuya5201314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059326554019086728",
+    "in_reply_to_user_id": "1883843541404913664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059278112278696094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yitakuya5201314 宝宝…你真好呜呜呜…我喜欢你🥺🥺🥺…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2059164668543852909",
+        "created_at": "2026-05-26T17:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T18:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059326554019086728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1883843541404913664",
+              "start": 0,
+              "username": "yitakuya5201314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059326554019086728",
+        "in_reply_to_user_id": "1883843541404913664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059278112278696094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yitakuya5201314 宝宝…你真好呜呜呜…我喜欢你🥺🥺🥺…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883843541404913664",
+        "conversation_id": "2059164668543852909",
+        "created_at": "2026-05-26T14:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059278112278696094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1886421046640902144",
+              "start": 0,
+              "username": "ry231223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059278112278696094",
+        "in_reply_to_user_id": "1886421046640902144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059164668543852909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ry231223 一群人现实里圣火哺乳衣就来网上找他那可怜的存在感，可能都想到了推特就没多少人认识了所以就演都不演，谁过来不是想随便发发自己爱发的东西宣泄一下。一群乐子还这样评价上别人了有没有想过自己是什么东西🤣🤣🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/地雷/雙相/自傷/od│只回fo同类 喜欢女生只回女生│我愛發什麼發什麼不愛看滾",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043585593389756416/LMOy-UNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 17,
+          "like_count": 1948,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 159
+        },
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T11:44:47.000Z",
+        "description": "☀️🍷/⚔️🍁\n最愛做的事就是搞家產啦🥰",
+        "id": "1883843541404913664",
+        "name": "椰味蜜果羹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057824064753094657/aVJsBY8S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 169,
+          "like_count": 2252,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 274
+        },
+        "username": "yitakuya5201314",
+        "verified": false
+      }
+    ]
+  }
+}

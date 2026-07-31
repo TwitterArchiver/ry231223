@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "1920443473406406926",
+    "created_at": "2025-05-10T01:00:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T02:00:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921007413945041120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1764937398197383168",
+          "start": 0,
+          "username": "zhaosilu1128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921007413945041120",
+    "in_reply_to_user_id": "1764937398197383168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920443473406406926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhaosilu1128 我不行了。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "1920443473406406926",
+        "created_at": "2025-05-10T01:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T02:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921007413945041120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1764937398197383168",
+              "start": 0,
+              "username": "zhaosilu1128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921007413945041120",
+        "in_reply_to_user_id": "1764937398197383168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920443473406406926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhaosilu1128 我不行了。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764937398197383168",
+        "conversation_id": "1920443473406406926",
+        "created_at": "2025-05-08T11:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T12:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920443473406406926"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1920443473406406926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5238,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "哥:妹妹好骚啊，流了这么多水，哥帮你把跳蛋塞进去\n哥:哟，你换新跳蛋啦，你的旧跳蛋呢\n妹:这都让你看出来啦，我的旧跳蛋让我放转转二手平台回收了\n哥:妹，你喷的好高啊\n妹:也没有很高啦，我喷的那么高主要得有一个专业的跳蛋，这是我在得物买的，便宜还保真"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "视奸我的犷妾死全家│09年順女 INFJ-T 重度社恐│雙相/自傷/OD/自殺史*3│纯绿不接线下🚪35",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "クレイジーゾウリ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915275448587870210/jVl00rDK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 16,
+          "like_count": 1078,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 97
+        },
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T08:54:58.000Z",
+        "description": "一个奇怪的人，男的，INTP / 玩CrossFit/只喜欢女孩子，屁股不歪，争就是你对。",
+        "id": "1764937398197383168",
+        "location": "CN",
+        "name": "李在淦神魔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798988199139885056/j_1fJ4Kp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 131,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 414
+        },
+        "username": "zhaosilu1128",
+        "verified": false
+      }
+    ]
+  }
+}

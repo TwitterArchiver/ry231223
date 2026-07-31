@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071122650706182144"
+      ],
+      "media_source_tweet_id": [
+        "2071122655210823784"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "conversation_id": "2071461149728747990",
+    "created_at": "2026-06-29T05:09:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T06:09:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071461149728747990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1746460207700680704",
+          "start": 3,
+          "username": "salteeeeeya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XHpW0iO9OV",
+          "end": 59,
+          "expanded_url": "https://x.com/salteeeeeya/status/2071122655210823784/photo/1",
+          "media_key": "3_2071122650706182144",
+          "start": 36,
+          "url": "https://t.co/XHpW0iO9OV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071461149728747990",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 184
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071122655210823784",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @salteeeeeya: ラフなんだけどアクルビ可愛すぎない？ https://t.co/XHpW0iO9OV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1451,
+        "media_key": "3_2071122650706182144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4bE9mbgAAkQZU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071122650706182144"
+          ],
+          "media_source_tweet_id": [
+            "2071122655210823784"
+          ]
+        },
+        "author_id": "1886421046640902144",
+        "conversation_id": "2071461149728747990",
+        "created_at": "2026-06-29T05:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T06:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071461149728747990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1746460207700680704",
+              "start": 3,
+              "username": "salteeeeeya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XHpW0iO9OV",
+              "end": 59,
+              "expanded_url": "https://x.com/salteeeeeya/status/2071122655210823784/photo/1",
+              "media_key": "3_2071122650706182144",
+              "start": 36,
+              "url": "https://t.co/XHpW0iO9OV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071461149728747990",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 184
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071122655210823784",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @salteeeeeya: ラフなんだけどアクルビ可愛すぎない？ https://t.co/XHpW0iO9OV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071122650706182144"
+          ]
+        },
+        "author_id": "1746460207700680704",
+        "conversation_id": "2071122655210823784",
+        "created_at": "2026-06-28T06:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T07:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071122655210823784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XHpW0iO9OV",
+              "end": 42,
+              "expanded_url": "https://x.com/salteeeeeya/status/2071122655210823784/photo/1",
+              "media_key": "3_2071122650706182144",
+              "start": 19,
+              "url": "https://t.co/XHpW0iO9OV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071122655210823784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 158,
+          "impression_count": 19110,
+          "like_count": 2248,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 184
+        },
+        "reply_settings": "everyone",
+        "text": "ラフなんだけどアクルビ可愛すぎない？ https://t.co/XHpW0iO9OV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od│回fo只回同類  沒回就是沒看見請私信",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2067179880505332212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066982017397596160/nvBcRppn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 45,
+          "like_count": 2332,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 201
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T09:12:58.000Z",
+        "description": "【推しの子】二次創作と推し活｜ハッピー星野家・距離感バグなアクルビが好きです｜無断転載・無断使用・AI学習はご遠慮下さい｜サークル：あまあまくいにーあまんへのご連絡はこちらまで▶︎ama.ama.amann0315@gmail.com",
+        "id": "1746460207700680704",
+        "name": "そるち",
+        "pinned_tweet_id": "2017175963856220282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985357996126523392/RJyA8G3D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10098,
+          "following_count": 34,
+          "like_count": 3785,
+          "listed_count": 29,
+          "media_count": 105,
+          "tweet_count": 893
+        },
+        "url": "",
+        "username": "salteeeeeya",
+        "verified": false
+      }
+    ]
+  }
+}

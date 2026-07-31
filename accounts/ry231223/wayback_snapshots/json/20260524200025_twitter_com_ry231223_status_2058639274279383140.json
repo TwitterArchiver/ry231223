@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2058414971122532383",
+    "created_at": "2026-05-24T20:00:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T21:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058639274279383140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1840695204271247360",
+          "start": 0,
+          "username": "yshidhe"
+        },
+        {
+          "end": 17,
+          "id": "1988050147587268608",
+          "start": 9,
+          "username": "c990163"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058639274279383140",
+    "in_reply_to_user_id": "1840695204271247360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058415304058011983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yshidhe @c990163 布洛芬可以，或者去藥店和店員說要止痛藥，店員會給你拿的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2058414971122532383",
+        "created_at": "2026-05-24T20:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T21:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058639274279383140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1840695204271247360",
+              "start": 0,
+              "username": "yshidhe"
+            },
+            {
+              "end": 17,
+              "id": "1988050147587268608",
+              "start": 9,
+              "username": "c990163"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058639274279383140",
+        "in_reply_to_user_id": "1840695204271247360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058415304058011983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe @c990163 布洛芬可以，或者去藥店和店員說要止痛藥，店員會給你拿的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840695204271247360",
+        "conversation_id": "2058414971122532383",
+        "created_at": "2026-05-24T05:10:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T06:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058415304058011983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1988050147587268608",
+              "start": 0,
+              "username": "c990163"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058415304058011983",
+        "in_reply_to_user_id": "1988050147587268608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058415192120422826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c990163 沒有可以止月經痛的止痛藥，一般的止痛藥應該不可以吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/地雷/雙相/自傷/od│只回fo同类 喜欢女生│我愛發什麼發什麼不愛看別關注我",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043585593389756416/LMOy-UNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 13,
+          "like_count": 1810,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 133
+        },
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-30T10:08:39.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡會自殘🈹od💊喔\n~不線下哦\n!!日本人みんな、交流しよ～♡ 英語で話しかけてくれると嬉しいな（私の日本語ほんとに下手くそだから…(´；ω；)",
+        "id": "1840695204271247360",
+        "name": "ゆうく；已壞掉",
+        "pinned_tweet_id": "2035327812085895543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033847648617435136/uN-3c_Ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 890,
+          "following_count": 85,
+          "like_count": 3023,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 2277
+        },
+        "username": "yshidhe",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-11T01:04:47.000Z",
+        "description": "原本帳號叫Op莫名奇妙被鎖了==歡迎交友",
+        "id": "1988050147587268608",
+        "name": "c990163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988050240130473984/BXmwpwq4_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 337,
+          "like_count": 10743,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 530
+        },
+        "username": "c990163",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "1905706690038943935",
+    "created_at": "2025-03-28T19:40:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T20:40:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905706698154864902"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1905706698154864902",
+    "in_reply_to_user_id": "1886421046640902144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905706692933001671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "现在知道了小家子气这个词，我又会想我这么做是不是不对，总之焦虑的东西很多，我总想做到最完美，让其他人对我的印象好些，让别人喜欢我，虽然我知道这是不可能的\n社交对别人来说是很舒服的，但对我来说真的很累，所以我喜欢窝在没有人的地方，这样就不怕说错话，也不怕被别人讨厌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "1905706690038943935",
+        "created_at": "2025-03-28T19:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T20:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905706698154864902"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905706698154864902",
+        "in_reply_to_user_id": "1886421046640902144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905706692933001671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在知道了小家子气这个词，我又会想我这么做是不是不对，总之焦虑的东西很多，我总想做到最完美，让其他人对我的印象好些，让别人喜欢我，虽然我知道这是不可能的\n社交对别人来说是很舒服的，但对我来说真的很累，所以我喜欢窝在没有人的地方，这样就不怕说错话，也不怕被别人讨厌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "1905706690038943935",
+        "created_at": "2025-03-28T19:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T20:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905706692933001671"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905706692933001671",
+        "in_reply_to_user_id": "1886421046640902144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905706690038943935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果没有十七我可能就死了这话是真的，因为我到现在能确定真正在意我的只有七个人\n我似乎很冷血，我感受不到爱，我会怀疑对方对我的付出是不是真的，所以别人送我的东西我都会想方设法的还，还不了的我会焦虑，感觉欠了别人我怎么可以这样，但我也会想对方知道了会不会觉得我很做作，以前不知道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "祝你天天开心OvO│视奸我的犷妾默认全家死光│重鬱/重慮/躁狂/自傷/od/INFJ-T│目标是炸了全世界",
+        "id": "1886421046640902144",
+        "name": "きらい",
+        "pinned_tweet_id": "1900995745286943062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905437979805450240/LtCMYCQ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 11,
+          "like_count": 498,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 37
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

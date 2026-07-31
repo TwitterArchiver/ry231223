@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917348943949881345",
+        "3_1917348943945703424",
+        "3_1917348943949881344"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1917348968754995373",
+    "created_at": "2025-04-29T22:43:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T23:43:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917348968754995373"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 53,
+          "start": 47,
+          "tag": "代號鳶小喬"
+        },
+        {
+          "end": 60,
+          "start": 54,
+          "tag": "代号鸢小乔"
+        },
+        {
+          "end": 65,
+          "start": 61,
+          "tag": "代號鳶"
+        },
+        {
+          "end": 74,
+          "start": 66,
+          "tag": "Cosplay"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gbDYCdEb72",
+          "end": 98,
+          "expanded_url": "https://x.com/ry231223/status/1917348968754995373/photo/1",
+          "media_key": "3_1917348943949881345",
+          "start": 75,
+          "url": "https://t.co/gbDYCdEb72"
+        },
+        {
+          "display_url": "pic.x.com/gbDYCdEb72",
+          "end": 98,
+          "expanded_url": "https://x.com/ry231223/status/1917348968754995373/photo/1",
+          "media_key": "3_1917348943945703424",
+          "start": 75,
+          "url": "https://t.co/gbDYCdEb72"
+        },
+        {
+          "display_url": "pic.x.com/gbDYCdEb72",
+          "end": 98,
+          "expanded_url": "https://x.com/ry231223/status/1917348968754995373/photo/1",
+          "media_key": "3_1917348943949881344",
+          "start": 75,
+          "url": "https://t.co/gbDYCdEb72"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917348968754995373",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中山AS  d1│“初次见面，叫我小乔便是。”\n\n出镜/后期：原po\n摄影：@关东煮烧鹅 \n\n#代號鳶小喬 #代号鸢小乔 #代號鳶 #Cosplay https://t.co/gbDYCdEb72"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1917348943949881345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpvKtLqaYAEGUwm.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1917348943945703424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpvKtLpaoAADm7m.jpg",
+        "width": 1365
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1917348943949881344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpvKtLqaYAAKGkO.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917348943949881345",
+            "3_1917348943945703424",
+            "3_1917348943949881344"
+          ]
+        },
+        "author_id": "1886421046640902144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1917348968754995373",
+        "created_at": "2025-04-29T22:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T23:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917348968754995373"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 47,
+              "tag": "代號鳶小喬"
+            },
+            {
+              "end": 60,
+              "start": 54,
+              "tag": "代号鸢小乔"
+            },
+            {
+              "end": 65,
+              "start": 61,
+              "tag": "代號鳶"
+            },
+            {
+              "end": 74,
+              "start": 66,
+              "tag": "Cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gbDYCdEb72",
+              "end": 98,
+              "expanded_url": "https://x.com/ry231223/status/1917348968754995373/photo/1",
+              "media_key": "3_1917348943949881345",
+              "start": 75,
+              "url": "https://t.co/gbDYCdEb72"
+            },
+            {
+              "display_url": "pic.x.com/gbDYCdEb72",
+              "end": 98,
+              "expanded_url": "https://x.com/ry231223/status/1917348968754995373/photo/1",
+              "media_key": "3_1917348943945703424",
+              "start": 75,
+              "url": "https://t.co/gbDYCdEb72"
+            },
+            {
+              "display_url": "pic.x.com/gbDYCdEb72",
+              "end": 98,
+              "expanded_url": "https://x.com/ry231223/status/1917348968754995373/photo/1",
+              "media_key": "3_1917348943949881344",
+              "start": 75,
+              "url": "https://t.co/gbDYCdEb72"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917348968754995373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中山AS  d1│“初次见面，叫我小乔便是。”\n\n出镜/后期：原po\n摄影：@关东煮烧鹅 \n\n#代號鳶小喬 #代号鸢小乔 #代號鳶 #Cosplay https://t.co/gbDYCdEb72"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "视奸我的犷妾默认死全家│09年♀ INFJ-T 社恐重度患者│雙相/自傷/OD/自殺史*3",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "藤が青糸をなでる",
+        "pinned_tweet_id": "1900995745286943062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915275448587870210/jVl00rDK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 27,
+          "like_count": 810,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 83
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

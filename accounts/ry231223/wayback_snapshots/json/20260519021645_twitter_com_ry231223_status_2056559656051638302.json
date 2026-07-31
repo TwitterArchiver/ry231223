@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2056400532529709442",
+    "created_at": "2026-05-19T02:16:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T03:16:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056559656051638302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1977768201414197248",
+          "start": 0,
+          "username": "hi682383713928"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056559656051638302",
+    "in_reply_to_user_id": "1977768201414197248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056400532529709442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hi682383713928 还有吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2056400532529709442",
+        "created_at": "2026-05-19T02:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T03:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056559656051638302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1977768201414197248",
+              "start": 0,
+              "username": "hi682383713928"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056559656051638302",
+        "in_reply_to_user_id": "1977768201414197248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056400532529709442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hi682383713928 还有吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977768201414197248",
+        "conversation_id": "2056400532529709442",
+        "created_at": "2026-05-18T15:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056400532529709442"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056400532529709442",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 284,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有要愈美片 普瑞巴林 甘草片的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀ISFP/地雷/雙相/自傷/OD│♂不要关注我│ins：ry.231229",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043585593389756416/LMOy-UNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 8,
+          "like_count": 1735,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 108
+        },
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-13T16:07:54.000Z",
+        "description": "为何痛苦伴我如影随形\n➕🛰️Prunus-padus-L\n我是海 你想怎么叫我都可以 od/自残/精神病/精分双向/mha/胜出相关/杂食可能会转发cp相关雷到你了真是对不起 但是你又能怎么样呢👌\n感谢关注 认识你们会让我很开心",
+        "id": "1977768201414197248",
+        "name": "海",
+        "pinned_tweet_id": "2055627277178900693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045638773766262784/IRwYrsp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 65,
+          "like_count": 409,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 124
+        },
+        "username": "hi682383713928",
+        "verified": false
+      }
+    ]
+  }
+}

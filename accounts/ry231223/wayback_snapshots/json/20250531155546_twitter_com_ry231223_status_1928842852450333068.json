@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1928842755536470016"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "conversation_id": "1928842852450333068",
+    "created_at": "2025-05-31T15:55:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T16:55:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928842852450333068"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/z6KfC7iVH6",
+          "end": 31,
+          "expanded_url": "https://x.com/ry231223/status/1928842852450333068/video/1",
+          "media_key": "7_1928842755536470016",
+          "start": 8,
+          "url": "https://t.co/z6KfC7iVH6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928842852450333068",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "(ૢ˃ꌂ˂⁎) https://t.co/z6KfC7iVH6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11066,
+        "height": 1280,
+        "media_key": "7_1928842755536470016",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1928842755536470016/pu/img/CJCXHbqfS330TGXv.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1928842755536470016/pu/vid/avc1/320x568/eeud-YpzGIwHZ-41.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1928842755536470016/pu/vid/avc1/480x852/z4M4HW-ecoIsHA5r.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1928842755536470016/pu/vid/avc1/720x1280/6eAocUnEMnvmujn-.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1928842755536470016/pu/pl/YPGWe7WrlH8cTb6b.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1928842755536470016"
+          ]
+        },
+        "author_id": "1886421046640902144",
+        "conversation_id": "1928842852450333068",
+        "created_at": "2025-05-31T15:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T16:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928842852450333068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z6KfC7iVH6",
+              "end": 31,
+              "expanded_url": "https://x.com/ry231223/status/1928842852450333068/video/1",
+              "media_key": "7_1928842755536470016",
+              "start": 8,
+              "url": "https://t.co/z6KfC7iVH6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928842852450333068",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "(ૢ˃ꌂ˂⁎) https://t.co/z6KfC7iVH6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "視奸我的犷妾死全家│09順女 INFJ-T/社恐/雙相/自傷/OD│🚪35給你當樹洞",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "クレイジーゾウリ",
+        "pinned_tweet_id": "1900995745286943062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927060565345665024/pzzh-DT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 14,
+          "like_count": 1253,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 106
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

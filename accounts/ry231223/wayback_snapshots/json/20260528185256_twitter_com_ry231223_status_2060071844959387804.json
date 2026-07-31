@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2060068946649231716",
+    "created_at": "2026-05-28T18:52:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T19:52:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060071844959387804"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060071844959387804",
+    "in_reply_to_user_id": "1886421046640902144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060068946649231716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "請和我擴列吧！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060068942232576004",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbVycqWYAQ6wZE.jpg",
+        "width": 1536
+      },
+      {
+        "height": 628,
+        "media_key": "3_2060068893259915273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbVvmOW4AkrN-k.jpg",
+        "width": 628
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2060068946649231716",
+        "created_at": "2026-05-28T18:52:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T19:52:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060071844959387804"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060071844959387804",
+        "in_reply_to_user_id": "1886421046640902144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060068946649231716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "請和我擴列吧！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060068942232576004",
+            "3_2060068893259915273"
+          ]
+        },
+        "author_id": "1886421046640902144",
+        "conversation_id": "2060068946649231716",
+        "created_at": "2026-05-28T18:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T19:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060068946649231716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Jz7BOlrsL",
+              "end": 133,
+              "expanded_url": "https://x.com/ry231223/status/2060068946649231716/photo/1",
+              "media_key": "3_2060068942232576004",
+              "start": 110,
+              "url": "https://t.co/3Jz7BOlrsL"
+            },
+            {
+              "display_url": "pic.x.com/3Jz7BOlrsL",
+              "end": 133,
+              "expanded_url": "https://x.com/ry231223/status/2060068946649231716/photo/1",
+              "media_key": "3_2060068893259915273",
+              "start": 110,
+              "url": "https://t.co/3Jz7BOlrsL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060068946649231716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🔝\n\n＝虫虫\n09│INFJ│OD│自殘│雙相情感障礙\n\n心裡衹有家產❤️捷賢、夸露、喬骨\n推：春日野穹、星野瑠美衣\n\n遊戲目前只打瓦羅蘭特ovo\n喜歡女孩子，互fo只回同類or同好\n\np1照片都是我，歡迎來找我玩呀！ https://t.co/3Jz7BOlrsL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od│我愛發什麼發什麼不愛看滾",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2060068946649231716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043585593389756416/LMOy-UNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 17,
+          "like_count": 1987,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 165
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

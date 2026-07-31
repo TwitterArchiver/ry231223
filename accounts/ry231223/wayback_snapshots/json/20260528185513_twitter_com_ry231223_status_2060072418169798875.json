@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2059869730098536584",
+    "created_at": "2026-05-28T18:55:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T19:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060072418169798875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1947850335760093187",
+          "start": 0,
+          "username": "Allen9727760773"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060072418169798875",
+    "in_reply_to_user_id": "1947850335760093187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059869730098536584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Allen9727760773 盐酸苯海真能o吗？。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2059869730098536584",
+        "created_at": "2026-05-28T18:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T19:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060072418169798875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1947850335760093187",
+              "start": 0,
+              "username": "Allen9727760773"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060072418169798875",
+        "in_reply_to_user_id": "1947850335760093187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059869730098536584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Allen9727760773 盐酸苯海真能o吗？。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947850335760093187",
+        "conversation_id": "2059869730098536584",
+        "created_at": "2026-05-28T05:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059869730098536584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/VmikufansV/sta…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/VmikufansV/status/2059814159907541246",
+              "start": 47,
+              "url": "https://t.co/dQEUYCCXmB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059869730098536584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 312,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059814159907541246",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我实在搞不懂，这个b幻觉到底有啥好玩的，我一直以为你们是冲着欣快去吃的，没想到是冲着幻觉去的 https://t.co/dQEUYCCXmB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od│我愛發什麼發什麼不愛看滾",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2060068946649231716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043585593389756416/LMOy-UNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 17,
+          "like_count": 1988,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 167
+        },
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-23T02:44:57.000Z",
+        "description": "oder 心理学 玄学 (八字 六爻 奇门 塔罗) 药理学 English\n欢迎找窝聊天哦～我会好好安慰你的！\npr ym在售 有需要的直接私\nhttps://t.co/2PlWz3O3g6\n欢迎匿名提问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/llen28538",
+                "end": 95,
+                "expanded_url": "https://ngl.link/llen28538",
+                "start": 72,
+                "url": "https://t.co/2PlWz3O3g6"
+              }
+            ]
+          }
+        },
+        "id": "1947850335760093187",
+        "location": "阿比斯第七层",
+        "name": "王Allen",
+        "pinned_tweet_id": "2035335043586134510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947850392127344640/G68OC7Yf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 133,
+          "like_count": 216,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 847
+        },
+        "username": "Allen9727760773",
+        "verified": false
+      }
+    ]
+  }
+}

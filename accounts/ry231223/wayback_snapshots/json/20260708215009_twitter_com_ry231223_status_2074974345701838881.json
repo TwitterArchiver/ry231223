@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074974303096098816",
+        "3_2074974319525122048"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "conversation_id": "2074974345701838881",
+    "created_at": "2026-07-08T21:50:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T22:50:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074974345701838881"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mTeZqcbgqV",
+          "end": 56,
+          "expanded_url": "https://x.com/ry231223/status/2074974345701838881/photo/1",
+          "media_key": "3_2074974303096098816",
+          "start": 33,
+          "url": "https://t.co/mTeZqcbgqV"
+        },
+        {
+          "display_url": "pic.x.com/mTeZqcbgqV",
+          "end": 56,
+          "expanded_url": "https://x.com/ry231223/status/2074974345701838881/photo/1",
+          "media_key": "3_2074974319525122048",
+          "start": 33,
+          "url": "https://t.co/mTeZqcbgqV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074974345701838881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "♡\n自介條\n歡迎寶寶們來互轉互fo！\n我是女同 男性勿擾 -w- https://t.co/mTeZqcbgqV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2074974303096098816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMvKIo4bUAAcSFV.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2364,
+        "media_key": "3_2074974319525122048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMvKJmFaUAA88JQ.jpg",
+        "width": 1773
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074974303096098816",
+            "3_2074974319525122048"
+          ]
+        },
+        "author_id": "1886421046640902144",
+        "conversation_id": "2074974345701838881",
+        "created_at": "2026-07-08T21:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T22:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074974345701838881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mTeZqcbgqV",
+              "end": 56,
+              "expanded_url": "https://x.com/ry231223/status/2074974345701838881/photo/1",
+              "media_key": "3_2074974303096098816",
+              "start": 33,
+              "url": "https://t.co/mTeZqcbgqV"
+            },
+            {
+              "display_url": "pic.x.com/mTeZqcbgqV",
+              "end": 56,
+              "expanded_url": "https://x.com/ry231223/status/2074974345701838881/photo/1",
+              "media_key": "3_2074974319525122048",
+              "start": 33,
+              "url": "https://t.co/mTeZqcbgqV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074974345701838881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "♡\n自介條\n歡迎寶寶們來互轉互fo！\n我是女同 男性勿擾 -w- https://t.co/mTeZqcbgqV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od\n本人女同性戀 男的勿擾-w-\n要回fo請私信 只回同類和同好 互fo大歡迎~",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2067179880505332212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066982017397596160/nvBcRppn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 49,
+          "like_count": 2492,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 232
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

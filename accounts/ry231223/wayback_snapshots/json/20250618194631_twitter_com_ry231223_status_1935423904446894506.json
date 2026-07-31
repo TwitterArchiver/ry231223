@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935423899589574656"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "conversation_id": "1935423904446894506",
+    "created_at": "2025-06-18T19:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T20:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935423904446894506"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/003qfpNi3Q",
+          "end": 26,
+          "expanded_url": "https://x.com/ry231223/status/1935423904446894506/photo/1",
+          "media_key": "3_1935423899589574656",
+          "start": 3,
+          "url": "https://t.co/003qfpNi3Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935423904446894506",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "え… https://t.co/003qfpNi3Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1935423899589574656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtwByEjWgAAC6da.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935423899589574656"
+          ]
+        },
+        "author_id": "1886421046640902144",
+        "conversation_id": "1935423904446894506",
+        "created_at": "2025-06-18T19:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T20:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935423904446894506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/003qfpNi3Q",
+              "end": 26,
+              "expanded_url": "https://x.com/ry231223/status/1935423904446894506/photo/1",
+              "media_key": "3_1935423899589574656",
+              "start": 3,
+              "url": "https://t.co/003qfpNi3Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935423904446894506",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "え… https://t.co/003qfpNi3Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "又来啦 視奸我的犷妾全家被仠杀哦│09順女 INFJ-T/雙相/自傷/OD  夜晚出没│🚪35纯绿",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "クレイジーゾウリ",
+        "pinned_tweet_id": "1930514812913520642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931429361523310592/_N7MPk3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 11,
+          "like_count": 1472,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 129
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

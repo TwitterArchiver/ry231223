@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016573471698935808",
+        "3_2016573473707991040"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "conversation_id": "2016573478707569096",
+    "created_at": "2026-01-28T18:05:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T19:05:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016573478707569096"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IMRaFtEteP",
+          "end": 31,
+          "expanded_url": "https://x.com/ry231223/status/2016573478707569096/photo/1",
+          "media_key": "3_2016573471698935808",
+          "start": 8,
+          "url": "https://t.co/IMRaFtEteP"
+        },
+        {
+          "display_url": "pic.x.com/IMRaFtEteP",
+          "end": 31,
+          "expanded_url": "https://x.com/ry231223/status/2016573478707569096/photo/1",
+          "media_key": "3_2016573473707991040",
+          "start": 8,
+          "url": "https://t.co/IMRaFtEteP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016573478707569096",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "(ૢ˃ꌂ˂⁎) https://t.co/IMRaFtEteP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1537,
+        "media_key": "3_2016573471698935808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_xO42QXYAABWfp.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016573473707991040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_xO49vXIAAKWiw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016573471698935808",
+            "3_2016573473707991040"
+          ]
+        },
+        "author_id": "1886421046640902144",
+        "conversation_id": "2016573478707569096",
+        "created_at": "2026-01-28T18:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T19:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016573478707569096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IMRaFtEteP",
+              "end": 31,
+              "expanded_url": "https://x.com/ry231223/status/2016573478707569096/photo/1",
+              "media_key": "3_2016573471698935808",
+              "start": 8,
+              "url": "https://t.co/IMRaFtEteP"
+            },
+            {
+              "display_url": "pic.x.com/IMRaFtEteP",
+              "end": 31,
+              "expanded_url": "https://x.com/ry231223/status/2016573478707569096/photo/1",
+              "media_key": "3_2016573473707991040",
+              "start": 8,
+              "url": "https://t.co/IMRaFtEteP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016573478707569096",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "(ૢ˃ꌂ˂⁎) https://t.co/IMRaFtEteP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "♀ISFP/地雷/雙相/自傷/OD│ins：ry.231229",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "1971261393539379650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013152824507392000/-1dLQwNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 7,
+          "like_count": 1522,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 94
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

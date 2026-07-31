@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1919990926014894080"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1919990956394168400",
+    "created_at": "2025-05-07T05:41:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T06:41:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919990956394168400"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FX8qFc0N9i",
+          "end": 23,
+          "expanded_url": "https://x.com/ry231223/status/1919990956394168400/photo/1",
+          "media_key": "3_1919990926014894080",
+          "start": 0,
+          "url": "https://t.co/FX8qFc0N9i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919990956394168400",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/FX8qFc0N9i"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1919990956394168400].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1919990956394168400",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1919990956394168400"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1919990926014894080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqUtkx0XUAABkBj.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "视奸我的犷妾死全家│09年顺女 INFJ-T 重度社恐│雙相/自傷/OD/自殺史*3│纯绿不接线下🚪35",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "クレイジーゾウリ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915275448587870210/jVl00rDK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 16,
+          "like_count": 1069,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 95
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

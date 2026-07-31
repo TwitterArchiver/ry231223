@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2072917587374313573",
+    "created_at": "2026-07-03T14:37:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T15:37:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073053467300737198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1781745564738281472",
+          "start": 0,
+          "username": "Stolly21_TG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073053467300737198",
+    "in_reply_to_user_id": "1781745564738281472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072917587374313573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stolly21_TG 好可愛！！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10936,
+        "height": 1280,
+        "media_key": "7_2072776019375955968",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2072776019375955968/pu/img/yWBnpxwKXKQHf3BH.jpg",
+        "public_metrics": {
+          "view_count": 107
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072776019375955968/pu/vid/avc1/320x568/PtGdVJUOqNW7jwAj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072776019375955968/pu/vid/avc1/480x852/xJ-v1ee3I_7Naexj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2072776019375955968/pu/vid/avc1/720x1280/fO-Uc84L-LgV2TwB.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2072776019375955968/pu/pl/7XjVmw-Hc6FWAVtk.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2072917587374313573",
+        "created_at": "2026-07-03T14:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T15:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073053467300737198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073053467300737198",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072917587374313573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 好可愛！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2072776019375955968"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "conversation_id": "2072917587374313573",
+        "created_at": "2026-07-03T05:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T06:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072917587374313573"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 7,
+              "tag": "雰囲気女子"
+            },
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "量产型"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "量產"
+            },
+            {
+              "end": 31,
+              "start": 23,
+              "tag": "lizlisa"
+            },
+            {
+              "end": 41,
+              "start": 32,
+              "tag": "jiraikei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dESEE6YLoW",
+              "end": 65,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2072917587374313573/video/1",
+              "media_key": "7_2072776019375955968",
+              "start": 42,
+              "url": "https://t.co/dESEE6YLoW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072917587374313573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 418,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这费力的夏天！#雰囲気女子 #量产型 #量產 #lizlisa #jiraikei https://t.co/dESEE6YLoW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od│要回fo請私信 只回同類和同好 互fo大歡迎~",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2067179880505332212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066982017397596160/nvBcRppn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 49,
+          "like_count": 2409,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 215
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "滥用药物者、edtwt、162cm36kg、130mgDPT存活玩家、休学无所事事中、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~ 查成分回fo回私信这些！^ω^",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2061318979537568210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 185,
+          "like_count": 1076,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 558
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

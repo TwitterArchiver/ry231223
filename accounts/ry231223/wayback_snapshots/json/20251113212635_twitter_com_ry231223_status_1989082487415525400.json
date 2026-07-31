@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989082482738712576"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1407025315193389058",
+          "name": "Koihime Series"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407025315193389058",
+          "name": "Koihime Series"
+        }
+      }
+    ],
+    "conversation_id": "1989082487415525400",
+    "created_at": "2025-11-13T21:26:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T22:26:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989082487415525400"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 12,
+          "start": 7,
+          "tag": "恋姫無双"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5RSJjXPPRI",
+          "end": 36,
+          "expanded_url": "https://x.com/ry231223/status/1989082487415525400/photo/1",
+          "media_key": "3_1989082482738712576",
+          "start": 13,
+          "url": "https://t.co/5RSJjXPPRI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989082487415525400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "来吃一口乔骨 #恋姫無双 https://t.co/5RSJjXPPRI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1373,
+        "media_key": "3_1989082482738712576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5qj-ryX0AAciSw.jpg",
+        "width": 1893
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989082482738712576"
+          ]
+        },
+        "author_id": "1886421046640902144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1407025315193389058",
+              "name": "Koihime Series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407025315193389058",
+              "name": "Koihime Series"
+            }
+          }
+        ],
+        "conversation_id": "1989082487415525400",
+        "created_at": "2025-11-13T21:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T22:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989082487415525400"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "恋姫無双"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5RSJjXPPRI",
+              "end": 36,
+              "expanded_url": "https://x.com/ry231223/status/1989082487415525400/photo/1",
+              "media_key": "3_1989082482738712576",
+              "start": 13,
+              "url": "https://t.co/5RSJjXPPRI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989082487415525400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来吃一口乔骨 #恋姫無双 https://t.co/5RSJjXPPRI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "绝望的内向100%入机INFJ-T│09♀/雙相/自傷/OD",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "融冬",
+        "pinned_tweet_id": "1949879251873702160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978196190194704384/DnKiYerA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 8,
+          "like_count": 1371,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 150
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

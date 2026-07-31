@@ -1,0 +1,143 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061529200134107136",
+        "3_2061529204278046721"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2061529209386697077",
+    "created_at": "2026-06-01T19:23:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T20:23:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061529209386697077"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AXt3t5pY3y",
+          "end": 44,
+          "expanded_url": "https://x.com/ry231223/status/2061529209386697077/photo/1",
+          "media_key": "3_2061529200134107136",
+          "start": 21,
+          "url": "https://t.co/AXt3t5pY3y"
+        },
+        {
+          "display_url": "pic.x.com/AXt3t5pY3y",
+          "end": 44,
+          "expanded_url": "https://x.com/ry231223/status/2061529209386697077/photo/1",
+          "media_key": "3_2061529204278046721",
+          "start": 21,
+          "url": "https://t.co/AXt3t5pY3y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061529209386697077",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "直播時迷迷餬餬刻的愛心，哈哈兒童節快樂喔 https://t.co/AXt3t5pY3y"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2061529209386697077].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2061529209386697077",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2061529209386697077"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061529200134107136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJwF4pQWsAAkViJ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061529204278046721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJwF44sWMAEMz96.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od│我愛發什麼發什麼不愛看滾",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2060068946649231716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043585593389756416/LMOy-UNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 16,
+          "like_count": 2037,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 175
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

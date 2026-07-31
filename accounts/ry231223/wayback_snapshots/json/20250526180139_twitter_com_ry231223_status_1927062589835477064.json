@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "1927062589835477064",
+    "created_at": "2025-05-26T18:01:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T19:01:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1927062589835477064"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1927062589835477064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "策划值老师是极好的，是我眼里最温柔好看的人，她是我眼里最好最好的委托老师，跟她相处真的很舒服…所以我会反复的想，那天我会不会有哪里做的不好，她或许觉得没什么，但我自己没达到我自己的标准我就会内耗一整天…到晚上时我的大脑已经透支了，无法支撑我做到“及格”遂到如今我还在内耗……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "1927062589835477064",
+        "created_at": "2025-05-26T18:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T19:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927062589835477064"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927062589835477064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "策划值老师是极好的，是我眼里最温柔好看的人，她是我眼里最好最好的委托老师，跟她相处真的很舒服…所以我会反复的想，那天我会不会有哪里做的不好，她或许觉得没什么，但我自己没达到我自己的标准我就会内耗一整天…到晚上时我的大脑已经透支了，无法支撑我做到“及格”遂到如今我还在内耗……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "視奸我的犷妾死全家│09順女 INFJ-T/社恐/雙相/自傷/OD│🚪35給你當樹洞",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "クレイジーゾウリ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927060565345665024/pzzh-DT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 14,
+          "like_count": 1237,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 110
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

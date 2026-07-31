@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2058201502804750793",
+    "created_at": "2026-05-26T06:23:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T07:23:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059158461527572886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1883843541404913664",
+          "start": 0,
+          "username": "yitakuya5201314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059158461527572886",
+    "in_reply_to_user_id": "1883843541404913664",
+    "lang": "lv",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058918659456921839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yitakuya5201314 ww♬︎*(๑ºั╰︎╯︎ºั๑)♡︎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2058201502804750793",
+        "created_at": "2026-05-26T06:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T07:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059158461527572886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1883843541404913664",
+              "start": 0,
+              "username": "yitakuya5201314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059158461527572886",
+        "in_reply_to_user_id": "1883843541404913664",
+        "lang": "lv",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058918659456921839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yitakuya5201314 ww♬︎*(๑ºั╰︎╯︎ºั๑)♡︎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883843541404913664",
+        "conversation_id": "2058201502804750793",
+        "created_at": "2026-05-25T14:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058918659456921839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1886421046640902144",
+              "start": 0,
+              "username": "ry231223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058918659456921839",
+        "in_reply_to_user_id": "1886421046640902144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058668082835403226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ry231223 谢谢(*≧∪≦)第一次在社交平台上发自己的画被夸诶\n我喜欢你ε(´｡•᎑•`)っ♡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/地雷/雙相/自傷/od│只回fo同类 喜欢女生只回女生│我愛發什麼發什麼不愛看滾",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043585593389756416/LMOy-UNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 16,
+          "like_count": 1917,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 146
+        },
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T11:44:47.000Z",
+        "description": "☀️🍷/⚔️🍁\n最愛做的事就是搞家產啦🥰",
+        "id": "1883843541404913664",
+        "name": "椰味蜜果羹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057824064753094657/aVJsBY8S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 170,
+          "like_count": 2237,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 269
+        },
+        "username": "yitakuya5201314",
+        "verified": false
+      }
+    ]
+  }
+}

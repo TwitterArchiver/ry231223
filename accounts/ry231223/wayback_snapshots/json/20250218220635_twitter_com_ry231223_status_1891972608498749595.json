@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "1891972608498749595",
+    "created_at": "2025-02-18T22:06:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-18T23:06:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1891972608498749595"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1891972608498749595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很讨厌自己散发负能量但是我真的忍不了我很想跟大家说我不舒服，我说缺爱的，我希望有人来安慰我，不是说我懂你不要这样子生活还有很多乐趣，而是我陪着你我在意你\n在我叫驴时我希望有人说你4可以的，我陪你一起去，你不用觉得4是负担之类的，对不起我就是那么🗡的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "1891972608498749595",
+        "created_at": "2025-02-18T22:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T23:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891972608498749595"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1891972608498749595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很讨厌自己散发负能量但是我真的忍不了我很想跟大家说我不舒服，我说缺爱的，我希望有人来安慰我，不是说我懂你不要这样子生活还有很多乐趣，而是我陪着你我在意你\n在我叫驴时我希望有人说你4可以的，我陪你一起去，你不用觉得4是负担之类的，对不起我就是那么🗡的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "祝你天天开心│INFJ-T/重抑/重焦/躁狂/自伤/od",
+        "id": "1886421046640902144",
+        "name": "冬月十七",
+        "pinned_tweet_id": "1891579668500758891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890689227194851328/PNKFJYzE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 4,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 156
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

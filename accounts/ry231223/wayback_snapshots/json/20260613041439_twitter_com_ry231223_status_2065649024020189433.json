@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2065078341590565181",
+    "created_at": "2026-06-13T04:14:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T05:14:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065649024020189433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1883843541404913664",
+          "start": 0,
+          "username": "yitakuya5201314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065649024020189433",
+    "in_reply_to_user_id": "1883843541404913664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065078341590565181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yitakuya5201314 中考加油喔！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2065078341590565181",
+        "created_at": "2026-06-13T04:14:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T05:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065649024020189433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1883843541404913664",
+              "start": 0,
+              "username": "yitakuya5201314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065649024020189433",
+        "in_reply_to_user_id": "1883843541404913664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065078341590565181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yitakuya5201314 中考加油喔！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883843541404913664",
+        "conversation_id": "2065078341590565181",
+        "created_at": "2026-06-11T14:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065078341590565181"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065078341590565181",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天就中考了，加油吧！\n谁来祝福我一下呀(ˆつ⩊⊂ˆ)੭\n大家晚安ᶻz ₍^_   ̫ _^₎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od│我愛發什麼發什麼不愛看滾",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2060068946649231716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043585593389756416/LMOy-UNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 21,
+          "like_count": 2102,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 160
+        },
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T11:44:47.000Z",
+        "description": "♀/ENFP——\ncn咖塔/芝豆/可可\n\n上推主要就是为了家产的，是☀️🍷洁癖呀\n\n我一般比较温良，和我做朋友好吗🥺\n\n精神大部分时候还是稳定的🥺",
+        "id": "1883843541404913664",
+        "name": "椰味蜜果羹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063144831350931456/zMVrNTdx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 187,
+          "like_count": 2575,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 343
+        },
+        "username": "yitakuya5201314",
+        "verified": false
+      }
+    ]
+  }
+}

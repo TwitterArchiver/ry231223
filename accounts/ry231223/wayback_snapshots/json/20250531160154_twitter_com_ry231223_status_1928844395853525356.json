@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "1928844395853525356",
+    "created_at": "2025-05-31T16:01:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T17:01:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928844395853525356"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1928844395853525356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在到七十斤之前我是不會好好吃東西的，上次測81.6是節食兩個月的結果，把我70斤節食一個月應該就好了(❁´◡`❁)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "1928844395853525356",
+        "created_at": "2025-05-31T16:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T17:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928844395853525356"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1928844395853525356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在到七十斤之前我是不會好好吃東西的，上次測81.6是節食兩個月的結果，把我70斤節食一個月應該就好了(❁´◡`❁)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "視奸我的犷妾死全家│09順女 INFJ-T/社恐/雙相/自傷/OD│🚪35給你當樹洞",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "クレイジーゾウリ",
+        "pinned_tweet_id": "1900995745286943062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927060565345665024/pzzh-DT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 14,
+          "like_count": 1256,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 107
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

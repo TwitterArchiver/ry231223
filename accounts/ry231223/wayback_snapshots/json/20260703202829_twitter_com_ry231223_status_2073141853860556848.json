@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2073058459130769849",
+    "created_at": "2026-07-03T20:28:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T21:28:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073141853860556848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2050581478942326784",
+          "start": 0,
+          "username": "zeroreikajpcm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073141853860556848",
+    "in_reply_to_user_id": "2050581478942326784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073129236559475086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zeroreikajpcm 🥺还好啦，现在没事了，抱抱你喔…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2073058459130769849",
+        "created_at": "2026-07-03T20:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T21:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073141853860556848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2050581478942326784",
+              "start": 0,
+              "username": "zeroreikajpcm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073141853860556848",
+        "in_reply_to_user_id": "2050581478942326784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073129236559475086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zeroreikajpcm 🥺还好啦，现在没事了，抱抱你喔…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050581478942326784",
+        "conversation_id": "2073058459130769849",
+        "created_at": "2026-07-03T19:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T20:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073129236559475086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1886421046640902144",
+              "start": 0,
+              "username": "ry231223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073129236559475086",
+        "in_reply_to_user_id": "1886421046640902144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073058459130769849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ry231223 痛かったね…私も同じようなの味わった"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od│要回fo請私信 只回同類和同好 互fo大歡迎~",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2067179880505332212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066982017397596160/nvBcRppn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 50,
+          "like_count": 2418,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 218
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T14:21:43.000Z",
+        "description": "🖤儚い沼の住人｜闇の詩人 詩・病み・依存の黒色🌑 共依存の糸をそっと紡ぐ｜自傷の花弁を愛でる心の傷歴永年💔🕯️ 夜に絡まる言葉を一緒に",
+        "id": "2050581478942326784",
+        "name": "零華",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067894555274252288/SLbrqvQH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 216,
+          "like_count": 387,
+          "listed_count": 9,
+          "media_count": 147,
+          "tweet_count": 1652
+        },
+        "url": "",
+        "username": "zeroreikajpcm",
+        "verified": false
+      }
+    ]
+  }
+}

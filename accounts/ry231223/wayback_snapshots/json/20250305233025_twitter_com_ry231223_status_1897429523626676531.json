@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "1897429523626676531",
+    "created_at": "2025-03-05T23:30:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T00:30:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897429523626676531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1861012887797690368",
+          "start": 3,
+          "username": "Lost_Agony_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897429523626676531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896768590579421525",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lost_Agony_: 操你妈抖人真是脑残 把od割手ed当梗玩 所以我为什么烦健全人就是因为这群贱货"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "1897429523626676531",
+        "created_at": "2025-03-05T23:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T00:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897429523626676531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1861012887797690368",
+              "start": 3,
+              "username": "Lost_Agony_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897429523626676531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896768590579421525",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lost_Agony_: 操你妈抖人真是脑残 把od割手ed当梗玩 所以我为什么烦健全人就是因为这群贱货"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861012887797690368",
+        "conversation_id": "1896768590579421525",
+        "created_at": "2025-03-04T03:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T04:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896768590579421525"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896768590579421525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 17831,
+          "like_count": 449,
+          "quote_count": 6,
+          "reply_count": 35,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "操你妈抖人真是脑残 把od割手ed当梗玩 所以我为什么烦健全人就是因为这群贱货"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "祝你天天开心│点进我主页默认广推死全家│本人INFJ-T/重抑/重焦/躁狂/自伤/od",
+        "id": "1886421046640902144",
+        "name": "这破世界到底有谁在啊",
+        "pinned_tweet_id": "1894531797838696828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894450132969730048/75od3Iam_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 9,
+          "like_count": 394,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 304
+        },
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-25T11:43:52.000Z",
+        "description": "如果无法明了那些已经丢失的话语，那么就乘坐上在各站停靠的列车吧。｜私人推 当qqkj发 仅仅是分享日常",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lost_agony_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lost_agony_",
+                "start": 0,
+                "url": "https://t.co/UzJtcZcG9Q"
+              }
+            ]
+          }
+        },
+        "id": "1861012887797690368",
+        "location": "London, England",
+        "name": "被堵塞的双手将你留于此处",
+        "pinned_tweet_id": "1881150913429324132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890647497661620224/SQMhL88P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 154,
+          "like_count": 1779,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1190
+        },
+        "url": "https://t.co/UzJtcZcG9Q",
+        "username": "Lost_Agony_",
+        "verified": false
+      }
+    ]
+  }
+}

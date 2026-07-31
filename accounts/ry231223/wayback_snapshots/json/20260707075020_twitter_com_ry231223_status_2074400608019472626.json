@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2073877394927300806",
+    "created_at": "2026-07-07T07:50:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T08:50:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074400608019472626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1746473298949750784",
+          "start": 0,
+          "username": "allforreiri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074400608019472626",
+    "in_reply_to_user_id": "1746473298949750784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074206750845325678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@allforreiri 他們覺得自己老幽默老正義了😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2073877394927300806",
+        "created_at": "2026-07-07T07:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074400608019472626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1746473298949750784",
+              "start": 0,
+              "username": "allforreiri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074400608019472626",
+        "in_reply_to_user_id": "1746473298949750784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074206750845325678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allforreiri 他們覺得自己老幽默老正義了😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746473298949750784",
+        "conversation_id": "2073877394927300806",
+        "created_at": "2026-07-06T19:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T20:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074206750845325678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1886421046640902144",
+              "start": 0,
+              "username": "ry231223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074206750845325678",
+        "in_reply_to_user_id": "1886421046640902144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073877394927300806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ry231223 我在朋友圈发相关就有一群健全b发癫跟我说这种，老子跟他们还不熟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od\n要回fo請私信 只回同類和同好 互fo大歡迎~",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2067179880505332212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066982017397596160/nvBcRppn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 50,
+          "like_count": 2492,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 227
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T10:04:25.000Z",
+        "description": "我操你妈没",
+        "id": "1746473298949750784",
+        "location": "天堂",
+        "name": "恶劣骄纵代名词",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062057817004290048/3GbwvDyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 74,
+          "like_count": 1227,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 453
+        },
+        "url": "",
+        "username": "allforreiri",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937553495424389121",
+        "3_1937553495432781824"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "conversation_id": "1937553587070013573",
+    "created_at": "2025-06-24T16:49:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T17:49:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1937553587070013573"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nE5yFSjIyy",
+          "end": 23,
+          "expanded_url": "https://x.com/ry231223/status/1937553587070013573/photo/1",
+          "media_key": "3_1937553495424389121",
+          "start": 0,
+          "url": "https://t.co/nE5yFSjIyy"
+        },
+        {
+          "display_url": "pic.x.com/nE5yFSjIyy",
+          "end": 23,
+          "expanded_url": "https://x.com/ry231223/status/1937553587070013573/photo/1",
+          "media_key": "3_1937553495432781824",
+          "start": 0,
+          "url": "https://t.co/nE5yFSjIyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937553587070013573",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/nE5yFSjIyy"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1937553587070013573].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1937553587070013573",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1937553587070013573"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2080,
+        "media_key": "3_1937553495424389121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuOSo3QWUAEsnX5.jpg",
+        "width": 1560
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1937553495432781824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuOSo3SWYAAuRWT.jpg",
+        "width": 1535
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "又来啦 視奸我的犷妾全家被仠杀哦│09順女 INFJ-T/雙相/自傷/OD  夜晚出没│🚪35纯绿",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "クレイジーゾウリ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931429361523310592/_N7MPk3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 11,
+          "like_count": 1473,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 130
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

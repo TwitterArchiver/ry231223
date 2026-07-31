@@ -1,0 +1,101 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1891975795196952579"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "conversation_id": "1891975798778978354",
+    "created_at": "2025-02-18T22:19:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-18T23:19:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1891975798778978354"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "新头像"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Tq4kkzZ3HV",
+          "end": 28,
+          "expanded_url": "https://x.com/ry231223/status/1891975798778978354/photo/1",
+          "media_key": "3_1891975795196952579",
+          "start": 5,
+          "url": "https://t.co/Tq4kkzZ3HV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891975798778978354",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#新头像 https://t.co/Tq4kkzZ3HV"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1891975798778978354].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1891975798778978354",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1891975798778978354"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 794,
+        "media_key": "3_1891975795196952579",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkGl9ixaAAMmT_t.jpg",
+        "width": 794
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "祝你天天开心│INFJ-T/重抑/重焦/躁狂/自伤/od",
+        "id": "1886421046640902144",
+        "name": "冬月十七",
+        "pinned_tweet_id": "1891579668500758891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891975777773862912/4ELPlu97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 162
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

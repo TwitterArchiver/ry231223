@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "1899115470420357353",
+    "created_at": "2025-03-10T15:09:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T16:09:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1899115470420357353"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1899115470420357353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又来看我啦？\n我从来不觉得抑郁症是一种耻辱，有病确实应该去治，但若你爸妈不让你治呢？怎么缓解压力？od？割腕割腿？zw？喝酒我没试过，常见的除了抽烟吸du我什么没干过，笑我改花刀？我除了在X发我还在哪发过？我贴你脸发了吗？我没开屏蔽吗？我这个号有人知道吗？当树洞骂都会被你们笑那没办法了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "1899115470420357353",
+        "created_at": "2025-03-10T15:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T16:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899115470420357353"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1899115470420357353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又来看我啦？\n我从来不觉得抑郁症是一种耻辱，有病确实应该去治，但若你爸妈不让你治呢？怎么缓解压力？od？割腕割腿？zw？喝酒我没试过，常见的除了抽烟吸du我什么没干过，笑我改花刀？我除了在X发我还在哪发过？我贴你脸发了吗？我没开屏蔽吗？我这个号有人知道吗？当树洞骂都会被你们笑那没办法了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "祝你天天開心但點進我主頁默認廣推死全家│本人INFJ-T/重鬱/重慮/躁狂/自傷/od",
+        "id": "1886421046640902144",
+        "name": "哦那怎麼了",
+        "pinned_tweet_id": "1894531797838696828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894450132969730048/75od3Iam_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 9,
+          "like_count": 414,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 316
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

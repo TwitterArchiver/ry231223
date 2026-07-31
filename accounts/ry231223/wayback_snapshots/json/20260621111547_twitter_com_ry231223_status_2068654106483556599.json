@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2068588465957298322",
+    "created_at": "2026-06-21T11:15:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T12:15:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068654106483556599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1733157188057853952",
+          "start": 0,
+          "username": "nigich436594"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068654106483556599",
+    "in_reply_to_user_id": "1733157188057853952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068588465957298322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nigich436594 见者有份，姑娘分我一根可好"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4633,
+        "height": 1280,
+        "media_key": "13_2068588402967212032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068588402967212032/img/Gy7aR-qg0Eb-wPTi.jpg",
+        "public_metrics": {
+          "view_count": 339
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068588402967212032/vid/avc1/320x568/TncWJ0dvVGO7RNlB.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068588402967212032/vid/avc1/480x852/pKjIqCSK-e6Avb3e.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068588402967212032/vid/avc1/720x1280/Fx7G26zYwCK4Zv1g.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068588402967212032/pl/TN8CNBVZAJgr2c1W.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2068588465957298322",
+        "created_at": "2026-06-21T11:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T12:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068654106483556599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1733157188057853952",
+              "start": 0,
+              "username": "nigich436594"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068654106483556599",
+        "in_reply_to_user_id": "1733157188057853952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068588465957298322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nigich436594 见者有份，姑娘分我一根可好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068588402967212032"
+          ]
+        },
+        "author_id": "1733157188057853952",
+        "conversation_id": "2068588465957298322",
+        "created_at": "2026-06-21T06:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068588465957298322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U3dDXQtSjK",
+              "end": 30,
+              "expanded_url": "https://x.com/nigich436594/status/2068588465957298322/video/1",
+              "media_key": "13_2068588402967212032",
+              "start": 7,
+              "url": "https://t.co/U3dDXQtSjK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068588465957298322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1123,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好孩子不要学 https://t.co/U3dDXQtSjK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od│回fo只回同好＆同類│防走失@Zhizi24007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "Zhizi24007"
+              }
+            ]
+          }
+        },
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2067179880505332212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066982017397596160/nvBcRppn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 39,
+          "like_count": 2196,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 180
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T16:10:56.000Z",
+        "description": "💕OD｜餐卷妹｜165 79｜正常聊天欢迎｜互fo私信｜直fo就是喜欢你吖",
+        "id": "1733157188057853952",
+        "location": "🚪77聊天+好友",
+        "name": "想当幸福小猫",
+        "pinned_tweet_id": "2067070907714252991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066231620416471041/lX-zAlgu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 212,
+          "like_count": 2338,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 796
+        },
+        "url": "",
+        "username": "nigich436594",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "1891575539623756251",
+    "created_at": "2025-02-17T19:48:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T20:48:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1891575539623756251"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1891575539623756251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一会儿跟sjb一样，一会儿开始角铝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "1891575539623756251",
+        "created_at": "2025-02-17T19:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T20:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891575539623756251"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1891575539623756251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一会儿跟sjb一样，一会儿开始角铝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "祝你天天开心",
+        "id": "1886421046640902144",
+        "name": "冬月十七",
+        "pinned_tweet_id": "1887556265083347228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890689227194851328/PNKFJYzE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 69
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

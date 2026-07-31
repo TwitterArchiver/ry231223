@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2061408136863322524",
+    "created_at": "2026-06-01T19:14:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T20:14:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061526759695175687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1297748138191491077",
+          "start": 0,
+          "username": "Azusa040921"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061526759695175687",
+    "in_reply_to_user_id": "1297748138191491077",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061408136863322524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Azusa040921 蜗蜗！！🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061408112012107779",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJuXwY2XIAMv6jd.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2061408136863322524",
+        "created_at": "2026-06-01T19:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T20:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061526759695175687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1297748138191491077",
+              "start": 0,
+              "username": "Azusa040921"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061526759695175687",
+        "in_reply_to_user_id": "1297748138191491077",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061408136863322524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Azusa040921 蜗蜗！！🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061408112012107779"
+          ]
+        },
+        "author_id": "1297748138191491077",
+        "conversation_id": "2061408136863322524",
+        "created_at": "2026-06-01T11:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T12:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061408136863322524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CIOJ1PrNLK",
+              "end": 23,
+              "expanded_url": "https://x.com/Azusa040921/status/2061408136863322524/photo/1",
+              "media_key": "3_2061408112012107779",
+              "start": 0,
+              "url": "https://t.co/CIOJ1PrNLK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061408136863322524",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 7848,
+          "like_count": 931,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CIOJ1PrNLK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od│我愛發什麼發什麼不愛看滾",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2060068946649231716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043585593389756416/LMOy-UNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 16,
+          "like_count": 2037,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 174
+        },
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-24T04:10:57.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/shewo040921",
+                "end": 23,
+                "expanded_url": "https://lit.link/shewo040921",
+                "start": 0,
+                "url": "https://t.co/lz4v5xQ2LH"
+              }
+            ]
+          }
+        },
+        "id": "1297748138191491077",
+        "name": "蝸",
+        "pinned_tweet_id": "1806645642736881898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006979697650053122/ZFKzfGsu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177392,
+          "following_count": 33,
+          "like_count": 1460,
+          "listed_count": 447,
+          "media_count": 115,
+          "tweet_count": 998
+        },
+        "url": "https://t.co/lz4v5xQ2LH",
+        "username": "Azusa040921",
+        "verified": true
+      }
+    ]
+  }
+}

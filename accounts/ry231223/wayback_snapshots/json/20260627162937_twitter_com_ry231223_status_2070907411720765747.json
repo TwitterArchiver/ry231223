@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2070772323993763883",
+    "created_at": "2026-06-27T16:29:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T17:29:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070907411720765747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2069301336534126593",
+          "start": 0,
+          "username": "jietp4t"
+        },
+        {
+          "end": 20,
+          "id": "2040070879888220160",
+          "start": 9,
+          "username": "Yumi320521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070907411720765747",
+    "in_reply_to_user_id": "2069301336534126593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070884693193703918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jietp4t @Yumi320521 这么厌女也包括你妈是吗，你爸妈怎么生了你这种畜生，这么恨咋不抹脖子，你身体里也有女人的血喔😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2070772323993763883",
+        "created_at": "2026-06-27T16:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T17:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070907411720765747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2069301336534126593",
+              "start": 0,
+              "username": "jietp4t"
+            },
+            {
+              "end": 20,
+              "id": "2040070879888220160",
+              "start": 9,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070907411720765747",
+        "in_reply_to_user_id": "2069301336534126593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070884693193703918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jietp4t @Yumi320521 这么厌女也包括你妈是吗，你爸妈怎么生了你这种畜生，这么恨咋不抹脖子，你身体里也有女人的血喔😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069301336534126593",
+        "conversation_id": "2070772323993763883",
+        "created_at": "2026-06-27T14:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T15:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070884693193703918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040070879888220160",
+              "start": 0,
+              "username": "Yumi320521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070884693193703918",
+        "in_reply_to_user_id": "2040070879888220160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070772323993763883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumi320521 活该被人80臭婊子  女生都是卖的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od│回fo只回同類  沒回就是沒看見請私信│防走失@Zhizi24007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 42,
+                "username": "Zhizi24007"
+              }
+            ]
+          }
+        },
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2067179880505332212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066982017397596160/nvBcRppn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 43,
+          "like_count": 2300,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 197
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-23T06:09:13.000Z",
+        "description": "19/190/142/1m\n极度厌女,女生勿扰（包括直男）\n异性恋是我接触过最恶心的群体",
+        "id": "2069301336534126593",
+        "location": "喜欢萌萌的0",
+        "name": "小覃天天开心",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301990484770816/sN_9SAt4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 24,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "jietp4t",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T14:17:26.000Z",
+        "description": "= Yumi\no割｜量産｜地雷｜vkei｜欢迎同类互fo\n会定期取关 讨厌低素质人群",
+        "id": "2040070879888220160",
+        "name": "ゆず",
+        "pinned_tweet_id": "2068036729232408598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068344189474177024/5Ss7TbAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 142,
+          "like_count": 4723,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 920
+        },
+        "url": "",
+        "username": "Yumi320521",
+        "verified": false
+      }
+    ]
+  }
+}

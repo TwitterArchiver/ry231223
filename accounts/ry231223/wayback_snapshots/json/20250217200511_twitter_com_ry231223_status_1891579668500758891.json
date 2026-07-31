@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "1891579668500758891",
+    "created_at": "2025-02-17T20:05:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-17T21:05:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1891579668500758891"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1891579668500758891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我特别恶心，看见同价自产啊什么的就很嫉妒很嫉妒为什么她会画画为什么我爸妈就是没钱送我去学这些东西，还有那些厨力高到离谱的为什么同价厨力那么高？\n我知道跟她没关系她很厉害但我就是嫉妒的想把她们杀了，为什么她们比我厉害凭什么？我就是恶心我看见就想吐，我恨她们，甚至是同价我就想杀了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "1891579668500758891",
+        "created_at": "2025-02-17T20:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T21:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891579668500758891"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1891579668500758891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我特别恶心，看见同价自产啊什么的就很嫉妒很嫉妒为什么她会画画为什么我爸妈就是没钱送我去学这些东西，还有那些厨力高到离谱的为什么同价厨力那么高？\n我知道跟她没关系她很厉害但我就是嫉妒的想把她们杀了，为什么她们比我厉害凭什么？我就是恶心我看见就想吐，我恨她们，甚至是同价我就想杀了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "祝你天天开心",
+        "id": "1886421046640902144",
+        "name": "冬月十七",
+        "pinned_tweet_id": "1887556265083347228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890689227194851328/PNKFJYzE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 147
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

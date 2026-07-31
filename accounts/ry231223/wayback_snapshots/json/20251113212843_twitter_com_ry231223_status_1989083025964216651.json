@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "1982431041358004732",
+    "created_at": "2025-11-13T21:28:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T22:28:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989083025964216651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1775557501016297472",
+          "start": 0,
+          "username": "Ayanami090130"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989083025964216651",
+    "in_reply_to_user_id": "1775557501016297472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982431041358004732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayanami090130 晚安姐姐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "1982431041358004732",
+        "created_at": "2025-11-13T21:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T22:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989083025964216651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1775557501016297472",
+              "start": 0,
+              "username": "Ayanami090130"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989083025964216651",
+        "in_reply_to_user_id": "1775557501016297472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982431041358004732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanami090130 晚安姐姐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775557501016297472",
+        "conversation_id": "1982431041358004732",
+        "created_at": "2025-10-26T12:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T13:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982431041358004732"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982431041358004732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 628,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢大家 以后不要再问我🚪还有互转等等的事了 我马上就重开了 晚安"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "绝望的内向100%入机INFJ-T│09♀/雙相/自傷/OD",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "融冬",
+        "pinned_tweet_id": "1949879251873702160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978196190194704384/DnKiYerA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 8,
+          "like_count": 1374,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 151
+        },
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T16:14:47.000Z",
+        "description": "叫我程程或者程少就好！09 性别薯条（加盐版）每天喜欢高强度od 私聊赞赏码 把推当日记发 偶尔出cos🚪88求溺爱（私信找我要收款码)",
+        "id": "1775557501016297472",
+        "location": "Taiwan",
+        "name": "一生当小三的命苦小cc",
+        "pinned_tweet_id": "1968545743045804460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915991324949680130/rlU7Qwq6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 79,
+          "like_count": 503,
+          "listed_count": 4,
+          "media_count": 124,
+          "tweet_count": 469
+        },
+        "username": "Ayanami090130",
+        "verified": false
+      }
+    ]
+  }
+}

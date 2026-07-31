@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2007720041014530528",
+    "created_at": "2026-01-04T18:21:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T19:21:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007880069474312382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1297748138191491077",
+          "start": 0,
+          "username": "Azusa040921"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007880069474312382",
+    "in_reply_to_user_id": "1297748138191491077",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007720041014530528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Azusa040921 蜗蜗，喜欢！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2007720029505368064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9zaur8asAA2q3v.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2007720041014530528",
+        "created_at": "2026-01-04T18:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T19:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007880069474312382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1297748138191491077",
+              "start": 0,
+              "username": "Azusa040921"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007880069474312382",
+        "in_reply_to_user_id": "1297748138191491077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007720041014530528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Azusa040921 蜗蜗，喜欢！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007720029505368064"
+          ]
+        },
+        "author_id": "1297748138191491077",
+        "conversation_id": "2007720041014530528",
+        "created_at": "2026-01-04T07:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T08:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007720041014530528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QXlcx9SeDC",
+              "end": 29,
+              "expanded_url": "https://x.com/Azusa040921/status/2007720041014530528/photo/1",
+              "media_key": "3_2007720029505368064",
+              "start": 6,
+              "url": "https://t.co/QXlcx9SeDC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007720041014530528",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 17465,
+          "like_count": 1580,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "comfy https://t.co/QXlcx9SeDC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "乱发 发什么用你管│♀ISFP/地雷/雙相/自傷/OD",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "楡ちゃん",
+        "pinned_tweet_id": "1999479701568700562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001393658730315778/tdHqn9Rl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 8,
+          "like_count": 1468,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 95
+        },
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-24T04:10:57.000Z",
+        "description": "insta：shewo0921",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/shewo040921",
+                "end": 23,
+                "expanded_url": "https://lit.link/shewo040921",
+                "start": 0,
+                "url": "https://t.co/lz4v5xPuW9"
+              }
+            ]
+          }
+        },
+        "id": "1297748138191491077",
+        "name": "蝸",
+        "pinned_tweet_id": "1806645642736881898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006979697650053122/ZFKzfGsu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180589,
+          "following_count": 36,
+          "like_count": 1365,
+          "listed_count": 448,
+          "media_count": 109,
+          "tweet_count": 984
+        },
+        "url": "https://t.co/lz4v5xPuW9",
+        "username": "Azusa040921",
+        "verified": true
+      }
+    ]
+  }
+}

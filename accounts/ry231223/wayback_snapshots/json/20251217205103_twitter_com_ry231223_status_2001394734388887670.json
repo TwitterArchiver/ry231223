@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "1996430417835315523",
+    "created_at": "2025-12-17T20:51:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T21:51:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001394734388887670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1648895543794618368",
+          "start": 0,
+          "username": "aotk0330"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001394734388887670",
+    "in_reply_to_user_id": "1648895543794618368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996430422566400474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aotk0330 代号鸢你个贱种"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_1996430312834813952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7S-yr9XUAA3fQu.jpg",
+        "width": 900
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1996430396674760704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7S-3kSXYAALdzU.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1996430396649521152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7S-3kMWQAA0Ob5.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1996430396750221312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7S-3kkW0AAEuNU.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "1996430417835315523",
+        "created_at": "2025-12-17T20:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T21:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001394734388887670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1648895543794618368",
+              "start": 0,
+              "username": "aotk0330"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001394734388887670",
+        "in_reply_to_user_id": "1648895543794618368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996430422566400474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aotk0330 代号鸢你个贱种"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996430312834813952",
+            "3_1996430396674760704",
+            "3_1996430396649521152",
+            "3_1996430396750221312"
+          ]
+        },
+        "author_id": "1648895543794618368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1996430417835315523",
+        "created_at": "2025-12-04T04:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T05:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996430422566400474"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 77,
+              "start": 73,
+              "tag": "代號鳶"
+            },
+            {
+              "end": 83,
+              "start": 78,
+              "tag": "加密鳶報"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NGiJCRqPrh",
+              "end": 107,
+              "expanded_url": "https://x.com/aotk0330/status/1996430422566400474/photo/1",
+              "media_key": "3_1996430312834813952",
+              "start": 84,
+              "url": "https://t.co/NGiJCRqPrh"
+            },
+            {
+              "display_url": "pic.x.com/NGiJCRqPrh",
+              "end": 107,
+              "expanded_url": "https://x.com/aotk0330/status/1996430422566400474/photo/1",
+              "media_key": "3_1996430396674760704",
+              "start": 84,
+              "url": "https://t.co/NGiJCRqPrh"
+            },
+            {
+              "display_url": "pic.x.com/NGiJCRqPrh",
+              "end": 107,
+              "expanded_url": "https://x.com/aotk0330/status/1996430422566400474/photo/1",
+              "media_key": "3_1996430396649521152",
+              "start": 84,
+              "url": "https://t.co/NGiJCRqPrh"
+            },
+            {
+              "display_url": "pic.x.com/NGiJCRqPrh",
+              "end": 107,
+              "expanded_url": "https://x.com/aotk0330/status/1996430422566400474/photo/1",
+              "media_key": "3_1996430396750221312",
+              "start": 84,
+              "url": "https://t.co/NGiJCRqPrh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996430422566400474",
+        "in_reply_to_user_id": "1648895543794618368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2504,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996430417835315523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "雀部溫馨提醒：使用炭盆時，請保持室內通風，並有專人看守。\n熱氣騰騰的小道消息新鮮出爐，殿下能否破解其中真實的小道消息？請殿下關注後續更新資訊。\n\n#代號鳶 #加密鳶報 https://t.co/NGiJCRqPrh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "乱发 发什么你别管│♀ISFJ-T/雙相/自傷/OD",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "楡ちゃん",
+        "pinned_tweet_id": "1999479701568700562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001393658730315778/tdHqn9Rl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 9,
+          "like_count": 1356,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 95
+        },
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-20T03:45:21.000Z",
+        "description": "沉浸式劇情卡牌手遊《代號鳶》3月30日正式上線！\n這場愛與權謀的旅程，只待殿下親自開啟！\n✧台灣： https://t.co/bZu1Em4kPz\n✧港澳新馬： https://t.co/hmlQZaGq6P",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/3zbGDef",
+                "end": 73,
+                "expanded_url": "http://bit.ly/3zbGDef",
+                "start": 50,
+                "url": "https://t.co/bZu1Em4kPz"
+              },
+              {
+                "display_url": "bit.ly/3LXAo5r",
+                "end": 104,
+                "expanded_url": "http://bit.ly/3LXAo5r",
+                "start": 81,
+                "url": "https://t.co/hmlQZaGq6P"
+              }
+            ]
+          }
+        },
+        "id": "1648895543794618368",
+        "name": "代號鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1648896726420586497/2PAqml5N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54406,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 38,
+          "media_count": 329,
+          "tweet_count": 407
+        },
+        "username": "aotk0330",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "1897433259208007928",
+    "created_at": "2025-03-05T23:45:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T00:45:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1897433259208007928"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1897433259208007928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "到底是哪个傻逼信的代姐开盒，老子一枪一个，敏敏开的那么多人被你们杀了吗？我操你们真是活全家了，她韩娱前担对家开的盒都能安代姐身上，你们广陵王推造谣真他妈太牛逼了，开户的都该站一排拿枪扫射，还有恋童癖凹子你们他妈的给老娘站中间，嬷广是因为它是大男王吧对吧对吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "1897433259208007928",
+        "created_at": "2025-03-05T23:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T00:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897433259208007928"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1897433259208007928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到底是哪个傻逼信的代姐开盒，老子一枪一个，敏敏开的那么多人被你们杀了吗？我操你们真是活全家了，她韩娱前担对家开的盒都能安代姐身上，你们广陵王推造谣真他妈太牛逼了，开户的都该站一排拿枪扫射，还有恋童癖凹子你们他妈的给老娘站中间，嬷广是因为它是大男王吧对吧对吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "祝你天天开心│点进我主页默认广推死全家│本人INFJ-T/重抑/重焦/躁狂/自伤/od",
+        "id": "1886421046640902144",
+        "name": "这破世界到底有谁在啊",
+        "pinned_tweet_id": "1894531797838696828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894450132969730048/75od3Iam_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 9,
+          "like_count": 415,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 310
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949879194592129024",
+        "3_1949879194411806720",
+        "7_1949879203295342592",
+        "3_1949879208714342400"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1949879251873702160",
+    "created_at": "2025-07-28T17:06:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T18:06:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949879251873702160"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QXSbPgQEB7",
+          "end": 38,
+          "expanded_url": "https://x.com/ry231223/status/1949879251873702160/video/1",
+          "media_key": "3_1949879194592129024",
+          "start": 15,
+          "url": "https://t.co/QXSbPgQEB7"
+        },
+        {
+          "display_url": "pic.x.com/QXSbPgQEB7",
+          "end": 38,
+          "expanded_url": "https://x.com/ry231223/status/1949879251873702160/video/1",
+          "media_key": "3_1949879194411806720",
+          "start": 15,
+          "url": "https://t.co/QXSbPgQEB7"
+        },
+        {
+          "display_url": "pic.x.com/QXSbPgQEB7",
+          "end": 38,
+          "expanded_url": "https://x.com/ry231223/status/1949879251873702160/video/1",
+          "media_key": "7_1949879203295342592",
+          "start": 15,
+          "url": "https://t.co/QXSbPgQEB7"
+        },
+        {
+          "display_url": "pic.x.com/QXSbPgQEB7",
+          "end": 38,
+          "expanded_url": "https://x.com/ry231223/status/1949879251873702160/video/1",
+          "media_key": "3_1949879208714342400",
+          "start": 15,
+          "url": "https://t.co/QXSbPgQEB7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949879251873702160",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "°♡ᯐ sweet 100% https://t.co/QXSbPgQEB7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1949879194592129024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw9cy-yWsAALUe0.jpg",
+        "width": 2046
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1949879194411806720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw9cy-HXMAAAgmS.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 4791,
+        "height": 720,
+        "media_key": "7_1949879203295342592",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1949879203295342592/pu/img/gzxcXRccSjOd_yF6.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1949879203295342592/pu/vid/avc1/360x270/FSzG59B_nOX4g_XU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1949879203295342592/pu/vid/avc1/480x360/tebgVZHgEgrk7aEJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1949879203295342592/pu/vid/avc1/960x720/pqQwpV2s4RkwcY1e.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1949879203295342592/pu/pl/b8_hovkkKGpRPUpv.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1949879208714342400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw9czzZWkAAXqvd.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949879194592129024",
+            "3_1949879194411806720",
+            "7_1949879203295342592",
+            "3_1949879208714342400"
+          ]
+        },
+        "author_id": "1886421046640902144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1949879251873702160",
+        "created_at": "2025-07-28T17:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T18:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949879251873702160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QXSbPgQEB7",
+              "end": 38,
+              "expanded_url": "https://x.com/ry231223/status/1949879251873702160/video/1",
+              "media_key": "3_1949879194592129024",
+              "start": 15,
+              "url": "https://t.co/QXSbPgQEB7"
+            },
+            {
+              "display_url": "pic.x.com/QXSbPgQEB7",
+              "end": 38,
+              "expanded_url": "https://x.com/ry231223/status/1949879251873702160/video/1",
+              "media_key": "3_1949879194411806720",
+              "start": 15,
+              "url": "https://t.co/QXSbPgQEB7"
+            },
+            {
+              "display_url": "pic.x.com/QXSbPgQEB7",
+              "end": 38,
+              "expanded_url": "https://x.com/ry231223/status/1949879251873702160/video/1",
+              "media_key": "7_1949879203295342592",
+              "start": 15,
+              "url": "https://t.co/QXSbPgQEB7"
+            },
+            {
+              "display_url": "pic.x.com/QXSbPgQEB7",
+              "end": 38,
+              "expanded_url": "https://x.com/ry231223/status/1949879251873702160/video/1",
+              "media_key": "3_1949879208714342400",
+              "start": 15,
+              "url": "https://t.co/QXSbPgQEB7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949879251873702160",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "°♡ᯐ sweet 100% https://t.co/QXSbPgQEB7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "绝望的内向100%入机INFJ-T│09/顺女/雙相/自傷/OD",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "クレイジーゾウリ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939955205795086336/0Y5PJw_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 9,
+          "like_count": 1449,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 139
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

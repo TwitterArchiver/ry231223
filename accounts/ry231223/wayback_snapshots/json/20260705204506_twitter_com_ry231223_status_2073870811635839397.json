@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Boy's Love category",
+          "id": "1298785075824230401",
+          "name": "BL"
+        }
+      }
+    ],
+    "conversation_id": "2073346419000561922",
+    "created_at": "2026-07-05T20:45:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T21:45:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073870811635839397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2037614188256776192",
+          "start": 0,
+          "username": "gezi_loveMomoki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073870811635839397",
+    "in_reply_to_user_id": "2037614188256776192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073346419000561922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gezi_loveMomoki 我遇到过很多bl嗲恨女恨的要死，恨不得作品里没有女的或者给男的当垫脚石，吓哭了已经。今天还遇到一个说乔苓死了的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Boy's Love category",
+              "id": "1298785075824230401",
+              "name": "BL"
+            }
+          }
+        ],
+        "conversation_id": "2073346419000561922",
+        "created_at": "2026-07-05T20:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T21:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073870811635839397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2037614188256776192",
+              "start": 0,
+              "username": "gezi_loveMomoki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073870811635839397",
+        "in_reply_to_user_id": "2037614188256776192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073346419000561922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gezi_loveMomoki 我遇到过很多bl嗲恨女恨的要死，恨不得作品里没有女的或者给男的当垫脚石，吓哭了已经。今天还遇到一个说乔苓死了的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037614188256776192",
+        "conversation_id": "2073346419000561922",
+        "created_at": "2026-07-04T10:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T11:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073346419000561922"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073346419000561922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 152820,
+          "like_count": 1590,
+          "quote_count": 21,
+          "reply_count": 266,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "我一直都不理解为什么bl会被归为女性向，明明和女人0个关系😓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od\n要回fo請私信 只回同類和同好 互fo大歡迎~",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2067179880505332212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066982017397596160/nvBcRppn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 51,
+          "like_count": 2457,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 227
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-27T19:34:29.000Z",
+        "description": "大号被封了就在这说话了，乙代梦全肯定，本号禁腐禁㽖禁rn禁rh，隐私账号不要关注我，只支持染色体为xx且心理认同为女的女孩",
+        "id": "2037614188256776192",
+        "location": "520",
+        "name": "鸽子",
+        "pinned_tweet_id": "2050509168910733742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037614374270255104/W_C1e1eH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 157,
+          "like_count": 6984,
+          "listed_count": 3,
+          "media_count": 314,
+          "tweet_count": 3417
+        },
+        "url": "",
+        "username": "gezi_loveMomoki",
+        "verified": false
+      }
+    ]
+  }
+}

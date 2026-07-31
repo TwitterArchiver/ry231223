@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062265527108870144",
+        "3_2062265525116485632",
+        "3_2062265526462844928"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2062265531303154126",
+    "created_at": "2026-06-03T20:09:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T21:09:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062265531303154126"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EUYrfdKztO",
+          "end": 131,
+          "expanded_url": "https://x.com/ry231223/status/2062265531303154126/photo/1",
+          "media_key": "3_2062265527108870144",
+          "start": 108,
+          "url": "https://t.co/EUYrfdKztO"
+        },
+        {
+          "display_url": "pic.x.com/EUYrfdKztO",
+          "end": 131,
+          "expanded_url": "https://x.com/ry231223/status/2062265531303154126/photo/1",
+          "media_key": "3_2062265525116485632",
+          "start": 108,
+          "url": "https://t.co/EUYrfdKztO"
+        },
+        {
+          "display_url": "pic.x.com/EUYrfdKztO",
+          "end": 131,
+          "expanded_url": "https://x.com/ry231223/status/2062265531303154126/photo/1",
+          "media_key": "3_2062265526462844928",
+          "start": 108,
+          "url": "https://t.co/EUYrfdKztO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062265531303154126",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "o盐野义有感：\n感觉药效来的比愈美温柔，感觉是一段一段来的，可能是因为我吃了点东西的缘故，我感觉很舒服，事情已经被抛向九霄云外了，我好酥服，感觉自己成仙了快哉快哉\n因为vpn登不上不知道怎么o直接一整盒干了（大概） https://t.co/EUYrfdKztO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062265527108870144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ6jkg_boAAFbJM.jpg",
+        "width": 1535
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062265525116485632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ6jkZkaQAAew-G.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062265526462844928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ6jkelaEAAuPi3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062265527108870144",
+            "3_2062265525116485632",
+            "3_2062265526462844928"
+          ]
+        },
+        "author_id": "1886421046640902144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2062265531303154126",
+        "created_at": "2026-06-03T20:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T21:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062265531303154126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EUYrfdKztO",
+              "end": 131,
+              "expanded_url": "https://x.com/ry231223/status/2062265531303154126/photo/1",
+              "media_key": "3_2062265527108870144",
+              "start": 108,
+              "url": "https://t.co/EUYrfdKztO"
+            },
+            {
+              "display_url": "pic.x.com/EUYrfdKztO",
+              "end": 131,
+              "expanded_url": "https://x.com/ry231223/status/2062265531303154126/photo/1",
+              "media_key": "3_2062265525116485632",
+              "start": 108,
+              "url": "https://t.co/EUYrfdKztO"
+            },
+            {
+              "display_url": "pic.x.com/EUYrfdKztO",
+              "end": 131,
+              "expanded_url": "https://x.com/ry231223/status/2062265531303154126/photo/1",
+              "media_key": "3_2062265526462844928",
+              "start": 108,
+              "url": "https://t.co/EUYrfdKztO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062265531303154126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "o盐野义有感：\n感觉药效来的比愈美温柔，感觉是一段一段来的，可能是因为我吃了点东西的缘故，我感觉很舒服，事情已经被抛向九霄云外了，我好酥服，感觉自己成仙了快哉快哉\n因为vpn登不上不知道怎么o直接一整盒干了（大概） https://t.co/EUYrfdKztO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od│我愛發什麼發什麼不愛看滾",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2060068946649231716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043585593389756416/LMOy-UNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 17,
+          "like_count": 2038,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 147
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

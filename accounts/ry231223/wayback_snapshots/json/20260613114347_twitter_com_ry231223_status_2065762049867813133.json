@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2059098622776721569",
+    "created_at": "2026-06-13T11:43:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T12:43:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065762049867813133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1563410998857322499",
+          "start": 0,
+          "username": "mkihfykcdu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065762049867813133",
+    "in_reply_to_user_id": "1563410998857322499",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059098622776721569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mkihfykcdu 加不了🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2059098478987669504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJNjKDWbcAALAhf.jpg",
+        "width": 1000
+      },
+      {
+        "height": 2358,
+        "media_key": "3_2059098478991843328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJNjKDXbIAA542i.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2059098622776721569",
+        "created_at": "2026-06-13T11:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065762049867813133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1563410998857322499",
+              "start": 0,
+              "username": "mkihfykcdu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065762049867813133",
+        "in_reply_to_user_id": "1563410998857322499",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059098622776721569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mkihfykcdu 加不了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059098478987669504",
+            "3_2059098478991843328"
+          ]
+        },
+        "author_id": "1563410998857322499",
+        "conversation_id": "2059098622776721569",
+        "created_at": "2026-05-26T02:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T03:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059098622776721569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W9ohazuZtg",
+              "end": 40,
+              "expanded_url": "https://x.com/mkihfykcdu/status/2059098622776721569/photo/1",
+              "media_key": "3_2059098478987669504",
+              "start": 17,
+              "url": "https://t.co/W9ohazuZtg"
+            },
+            {
+              "display_url": "pic.x.com/W9ohazuZtg",
+              "end": 40,
+              "expanded_url": "https://x.com/mkihfykcdu/status/2059098622776721569/photo/1",
+              "media_key": "3_2059098478991843328",
+              "start": 17,
+              "url": "https://t.co/W9ohazuZtg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059098622776721569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 576,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对pr或者别的有意者。请加这个聊 https://t.co/W9ohazuZtg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od│我愛發什麼發什麼不愛看滾",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2060068946649231716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043585593389756416/LMOy-UNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 23,
+          "like_count": 2120,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 161
+        },
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-27T06:20:12.000Z",
+        "description": "一只千疮百孔的狐狸（求投喂谢谢",
+        "id": "1563410998857322499",
+        "location": "Setagaya-ku, Tokyo",
+        "name": "精品神狐🦊",
+        "pinned_tweet_id": "2001575955887005967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871935009210179584/SKa4VeG9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 765,
+          "like_count": 2381,
+          "listed_count": 0,
+          "media_count": 337,
+          "tweet_count": 663
+        },
+        "username": "mkihfykcdu",
+        "verified": false
+      }
+    ]
+  }
+}

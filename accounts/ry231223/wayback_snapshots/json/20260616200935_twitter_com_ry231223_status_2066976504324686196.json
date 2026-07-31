@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066976501602619392",
+        "3_2066976500629577728"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "conversation_id": "2066976504324686196",
+    "created_at": "2026-06-16T20:09:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T21:09:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066976504324686196"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 15,
+          "start": 0,
+          "tag": "cosplayㅤㅤㅤㅤㅤㅤㅤ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/79nY7Q1luc",
+          "end": 39,
+          "expanded_url": "https://x.com/ry231223/status/2066976504324686196/photo/1",
+          "media_key": "3_2066976501602619392",
+          "start": 16,
+          "url": "https://t.co/79nY7Q1luc"
+        },
+        {
+          "display_url": "pic.x.com/79nY7Q1luc",
+          "end": 39,
+          "expanded_url": "https://x.com/ry231223/status/2066976504324686196/photo/1",
+          "media_key": "3_2066976500629577728",
+          "start": 16,
+          "url": "https://t.co/79nY7Q1luc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066976504324686196",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#cosplayㅤㅤㅤㅤㅤㅤㅤ https://t.co/79nY7Q1luc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066976501602619392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK9gLUkakAAKzjd.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066976500629577728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK9gLQ8bIAA3v7D.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066976501602619392",
+            "3_2066976500629577728"
+          ]
+        },
+        "author_id": "1886421046640902144",
+        "conversation_id": "2066976504324686196",
+        "created_at": "2026-06-16T20:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T21:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066976504324686196"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 0,
+              "tag": "cosplayㅤㅤㅤㅤㅤㅤㅤ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/79nY7Q1luc",
+              "end": 39,
+              "expanded_url": "https://x.com/ry231223/status/2066976504324686196/photo/1",
+              "media_key": "3_2066976501602619392",
+              "start": 16,
+              "url": "https://t.co/79nY7Q1luc"
+            },
+            {
+              "display_url": "pic.x.com/79nY7Q1luc",
+              "end": 39,
+              "expanded_url": "https://x.com/ry231223/status/2066976504324686196/photo/1",
+              "media_key": "3_2066976500629577728",
+              "start": 16,
+              "url": "https://t.co/79nY7Q1luc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066976504324686196",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#cosplayㅤㅤㅤㅤㅤㅤㅤ https://t.co/79nY7Q1luc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od│我愛發什麼發什麼不愛看滾",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2060068946649231716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043585593389756416/LMOy-UNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 23,
+          "like_count": 2149,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 167
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

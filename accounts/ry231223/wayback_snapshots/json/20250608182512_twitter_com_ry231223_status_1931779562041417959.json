@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1931779542563082240",
+        "3_1931779543380934656"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "conversation_id": "1931779562041417959",
+    "created_at": "2025-06-08T18:25:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T19:25:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931779562041417959"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 26,
+          "tag": "代號鳶小喬"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uKsE7gNQWS",
+          "end": 56,
+          "expanded_url": "https://x.com/ry231223/status/1931779562041417959/photo/1",
+          "media_key": "3_1931779542563082240",
+          "start": 33,
+          "url": "https://t.co/uKsE7gNQWS"
+        },
+        {
+          "display_url": "pic.x.com/uKsE7gNQWS",
+          "end": 56,
+          "expanded_url": "https://x.com/ry231223/status/1931779562041417959/photo/1",
+          "media_key": "3_1931779543380934656",
+          "start": 33,
+          "url": "https://t.co/uKsE7gNQWS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931779562041417959",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "素小偶像小乔さん！\n—————————\n代號鳶小喬 #代號鳶小喬 https://t.co/uKsE7gNQWS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1931779542563082240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs8PQkrW0AAMRd1.jpg",
+        "width": 2000
+      },
+      {
+        "height": 2000,
+        "media_key": "3_1931779543380934656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs8PQnuWQAAD_Yp.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931779542563082240",
+            "3_1931779543380934656"
+          ]
+        },
+        "author_id": "1886421046640902144",
+        "conversation_id": "1931779562041417959",
+        "created_at": "2025-06-08T18:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T19:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931779562041417959"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 26,
+              "tag": "代號鳶小喬"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uKsE7gNQWS",
+              "end": 56,
+              "expanded_url": "https://x.com/ry231223/status/1931779562041417959/photo/1",
+              "media_key": "3_1931779542563082240",
+              "start": 33,
+              "url": "https://t.co/uKsE7gNQWS"
+            },
+            {
+              "display_url": "pic.x.com/uKsE7gNQWS",
+              "end": 56,
+              "expanded_url": "https://x.com/ry231223/status/1931779562041417959/photo/1",
+              "media_key": "3_1931779543380934656",
+              "start": 33,
+              "url": "https://t.co/uKsE7gNQWS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931779562041417959",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "素小偶像小乔さん！\n—————————\n代號鳶小喬 #代號鳶小喬 https://t.co/uKsE7gNQWS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "視奸我的犷妾全家被仠杀│09順女 INFJ-T/雙相/自傷/OD│🚪35纯绿",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "クレイジーゾウリ",
+        "pinned_tweet_id": "1930514812913520642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931429361523310592/_N7MPk3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 12,
+          "like_count": 1377,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 121
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

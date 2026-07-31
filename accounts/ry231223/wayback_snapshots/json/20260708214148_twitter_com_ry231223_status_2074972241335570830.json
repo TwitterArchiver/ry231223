@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074972213321834496",
+        "3_2074972220762492928",
+        "3_2074972227423096832",
+        "3_2074972234477977600"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "conversation_id": "2074972241335570830",
+    "created_at": "2026-07-08T21:41:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T22:41:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074972241335570830"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HMlnMcNE6N",
+          "end": 89,
+          "expanded_url": "https://x.com/ry231223/status/2074972241335570830/photo/1",
+          "media_key": "3_2074972213321834496",
+          "start": 66,
+          "url": "https://t.co/HMlnMcNE6N"
+        },
+        {
+          "display_url": "pic.x.com/HMlnMcNE6N",
+          "end": 89,
+          "expanded_url": "https://x.com/ry231223/status/2074972241335570830/photo/1",
+          "media_key": "3_2074972220762492928",
+          "start": 66,
+          "url": "https://t.co/HMlnMcNE6N"
+        },
+        {
+          "display_url": "pic.x.com/HMlnMcNE6N",
+          "end": 89,
+          "expanded_url": "https://x.com/ry231223/status/2074972241335570830/photo/1",
+          "media_key": "3_2074972227423096832",
+          "start": 66,
+          "url": "https://t.co/HMlnMcNE6N"
+        },
+        {
+          "display_url": "pic.x.com/HMlnMcNE6N",
+          "end": 89,
+          "expanded_url": "https://x.com/ry231223/status/2074972241335570830/photo/1",
+          "media_key": "3_2074972234477977600",
+          "start": 66,
+          "url": "https://t.co/HMlnMcNE6N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074972241335570830",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最好別讓我發現這死公畜背地裡叫人妈妈，我都懷疑他是gay，對女性這麼大惡意對他媽也這樣嗎🤣這麼愛黑人屁眼都被捅爛了吧死gay漏屎貨 https://t.co/HMlnMcNE6N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1388,
+        "media_key": "3_2074972213321834496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMvIO_3aoAA3e91.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1348,
+        "media_key": "3_2074972220762492928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMvIPblaEAA2ILa.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1620,
+        "media_key": "3_2074972227423096832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMvIP0Za0AA9gd6.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1936,
+        "media_key": "3_2074972234477977600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMvIQOrbwAAJv9A.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074972213321834496",
+            "3_2074972220762492928",
+            "3_2074972227423096832",
+            "3_2074972234477977600"
+          ]
+        },
+        "author_id": "1886421046640902144",
+        "conversation_id": "2074972241335570830",
+        "created_at": "2026-07-08T21:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T22:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074972241335570830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HMlnMcNE6N",
+              "end": 89,
+              "expanded_url": "https://x.com/ry231223/status/2074972241335570830/photo/1",
+              "media_key": "3_2074972213321834496",
+              "start": 66,
+              "url": "https://t.co/HMlnMcNE6N"
+            },
+            {
+              "display_url": "pic.x.com/HMlnMcNE6N",
+              "end": 89,
+              "expanded_url": "https://x.com/ry231223/status/2074972241335570830/photo/1",
+              "media_key": "3_2074972220762492928",
+              "start": 66,
+              "url": "https://t.co/HMlnMcNE6N"
+            },
+            {
+              "display_url": "pic.x.com/HMlnMcNE6N",
+              "end": 89,
+              "expanded_url": "https://x.com/ry231223/status/2074972241335570830/photo/1",
+              "media_key": "3_2074972227423096832",
+              "start": 66,
+              "url": "https://t.co/HMlnMcNE6N"
+            },
+            {
+              "display_url": "pic.x.com/HMlnMcNE6N",
+              "end": 89,
+              "expanded_url": "https://x.com/ry231223/status/2074972241335570830/photo/1",
+              "media_key": "3_2074972234477977600",
+              "start": 66,
+              "url": "https://t.co/HMlnMcNE6N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074972241335570830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最好別讓我發現這死公畜背地裡叫人妈妈，我都懷疑他是gay，對女性這麼大惡意對他媽也這樣嗎🤣這麼愛黑人屁眼都被捅爛了吧死gay漏屎貨 https://t.co/HMlnMcNE6N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od\n本人女同性戀 男的勿擾-w-\n要回fo請私信 只回同類和同好 互fo大歡迎~",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2067179880505332212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066982017397596160/nvBcRppn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 49,
+          "like_count": 2492,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 231
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

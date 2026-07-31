@@ -1,0 +1,112 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2071533544229445787",
+    "created_at": "2026-06-29T09:57:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T10:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071533544229445787"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071533544229445787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么不死，因为死了对不起爸妈对不起所有人，一想到自己想死就会产生愧疚，这份愧疚一直折磨我，我看不到我的未来那为什么要那么痛苦的活着，生命到底是什么很重要的东西？人类为什么一定要渴望活着？不想活就是有罪吗？我都那么痛苦了为什么还要我活着？我没有什么不知足的啊，我就是想死啊，不行吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2071533544229445787",
+        "created_at": "2026-06-29T09:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T10:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071533544229445787"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071533544229445787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么不死，因为死了对不起爸妈对不起所有人，一想到自己想死就会产生愧疚，这份愧疚一直折磨我，我看不到我的未来那为什么要那么痛苦的活着，生命到底是什么很重要的东西？人类为什么一定要渴望活着？不想活就是有罪吗？我都那么痛苦了为什么还要我活着？我没有什么不知足的啊，我就是想死啊，不行吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od│回fo只回同類  沒回就是沒看見請私信",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2067179880505332212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066982017397596160/nvBcRppn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 45,
+          "like_count": 2360,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 206
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

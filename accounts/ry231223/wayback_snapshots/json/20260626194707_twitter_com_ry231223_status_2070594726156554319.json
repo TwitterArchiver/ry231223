@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070594706531401728",
+        "3_2070594716618604544"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "conversation_id": "2070594726156554319",
+    "created_at": "2026-06-26T19:47:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T20:47:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070594726156554319"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 6,
+          "start": 0,
+          "tag": "Clove"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AZyyd70zLu",
+          "end": 32,
+          "expanded_url": "https://x.com/ry231223/status/2070594726156554319/photo/1",
+          "media_key": "3_2070594706531401728",
+          "start": 9,
+          "url": "https://t.co/AZyyd70zLu"
+        },
+        {
+          "display_url": "pic.x.com/AZyyd70zLu",
+          "end": 32,
+          "expanded_url": "https://x.com/ry231223/status/2070594726156554319/photo/1",
+          "media_key": "3_2070594716618604544",
+          "start": 9,
+          "url": "https://t.co/AZyyd70zLu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070594726156554319",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#Clove 🦋 https://t.co/AZyyd70zLu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070594706531401728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLw66kSbwAAmk-2.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070594716618604544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLw67J3aQAAqaRO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070594706531401728",
+            "3_2070594716618604544"
+          ]
+        },
+        "author_id": "1886421046640902144",
+        "conversation_id": "2070594726156554319",
+        "created_at": "2026-06-26T19:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T20:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070594726156554319"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "Clove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AZyyd70zLu",
+              "end": 32,
+              "expanded_url": "https://x.com/ry231223/status/2070594726156554319/photo/1",
+              "media_key": "3_2070594706531401728",
+              "start": 9,
+              "url": "https://t.co/AZyyd70zLu"
+            },
+            {
+              "display_url": "pic.x.com/AZyyd70zLu",
+              "end": 32,
+              "expanded_url": "https://x.com/ry231223/status/2070594726156554319/photo/1",
+              "media_key": "3_2070594716618604544",
+              "start": 9,
+              "url": "https://t.co/AZyyd70zLu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070594726156554319",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#Clove 🦋 https://t.co/AZyyd70zLu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od│回fo只回同類  沒回就是沒看見請私信│防走失@Zhizi24007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 42,
+                "username": "Zhizi24007"
+              }
+            ]
+          }
+        },
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2067179880505332212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066982017397596160/nvBcRppn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 42,
+          "like_count": 2299,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 197
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

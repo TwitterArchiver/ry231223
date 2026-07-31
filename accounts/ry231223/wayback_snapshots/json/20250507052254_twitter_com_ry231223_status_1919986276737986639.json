@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "1919986276737986639",
+    "created_at": "2025-05-07T05:22:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T06:22:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919986276737986639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1625403583649705986",
+          "start": 3,
+          "username": "yuxo0004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919986276737986639",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919673803048943669",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuxo0004: 我说实话改花刀这种词只会伤害真正的抑郁症患者"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "1919986276737986639",
+        "created_at": "2025-05-07T05:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T06:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919986276737986639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1625403583649705986",
+              "start": 3,
+              "username": "yuxo0004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919986276737986639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919673803048943669",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuxo0004: 我说实话改花刀这种词只会伤害真正的抑郁症患者"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1625403583649705986",
+        "conversation_id": "1919673803048943669",
+        "created_at": "2025-05-06T08:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T09:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919673803048943669"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1919673803048943669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 10156,
+          "like_count": 205,
+          "quote_count": 4,
+          "reply_count": 23,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "我说实话改花刀这种词只会伤害真正的抑郁症患者"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "视奸我的犷妾死全家│09年顺女 INFJ-T 社恐重度患者│雙相/自傷/OD/自殺史*3│纯绿不接线下🚪40",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "クレイジーゾウリ",
+        "pinned_tweet_id": "1917471058153852970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915275448587870210/jVl00rDK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 16,
+          "like_count": 1057,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 97
+        },
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-14T07:56:41.000Z",
+        "description": "🇨🇳🇯🇵od/ 友跨 顺女 / 泛性恋 /4i / 穿孔 / 聊天过🚪 88",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuxo0004",
+                "end": 23,
+                "expanded_url": "https://t.me/yuxo0004",
+                "start": 0,
+                "url": "https://t.co/6mDH8HZhIL"
+              }
+            ]
+          }
+        },
+        "id": "1625403583649705986",
+        "location": "2.7km",
+        "name": "郁子",
+        "pinned_tweet_id": "1827744049031413935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784337849749590016/5XfvtNA6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5205,
+          "following_count": 420,
+          "like_count": 3699,
+          "listed_count": 3,
+          "media_count": 336,
+          "tweet_count": 2004
+        },
+        "url": "https://t.co/6mDH8HZhIL",
+        "username": "yuxo0004",
+        "verified": false
+      }
+    ]
+  }
+}

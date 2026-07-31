@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1926119963753922561"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "conversation_id": "1926120091353022803",
+    "created_at": "2025-05-24T03:36:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T04:36:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1926120091353022803"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wDkKzT9caM",
+          "end": 35,
+          "expanded_url": "https://x.com/ry231223/status/1926120091353022803/video/1",
+          "media_key": "7_1926119963753922561",
+          "start": 12,
+          "url": "https://t.co/wDkKzT9caM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926120091353022803",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "あなたと私の絶対ルール https://t.co/wDkKzT9caM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14458,
+        "height": 720,
+        "media_key": "7_1926119963753922561",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1926119963753922561/pu/img/JW84aNDRRBkPvnO5.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1926119963753922561/pu/vid/avc1/480x270/bN8bjceI8cxzz3bd.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1926119963753922561/pu/vid/avc1/640x360/otmJdppZj_FcjtlI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1926119963753922561/pu/vid/avc1/1280x720/pRYIXIVXpkL1JGUR.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1926119963753922561/pu/pl/PCMbA-NoyC6I1q5N.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1926119963753922561"
+          ]
+        },
+        "author_id": "1886421046640902144",
+        "conversation_id": "1926120091353022803",
+        "created_at": "2025-05-24T03:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T04:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926120091353022803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wDkKzT9caM",
+              "end": 35,
+              "expanded_url": "https://x.com/ry231223/status/1926120091353022803/video/1",
+              "media_key": "7_1926119963753922561",
+              "start": 12,
+              "url": "https://t.co/wDkKzT9caM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926120091353022803",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "あなたと私の絶対ルール https://t.co/wDkKzT9caM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "視奸我的犷妾死全家│09順女 INFJ-T/社恐/雙相/自傷/OD│🚪35給你當樹洞",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "クレイジーゾウリ",
+        "pinned_tweet_id": "1925448537262764159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922839112576339968/xy_nC5GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 15,
+          "like_count": 1201,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 111
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

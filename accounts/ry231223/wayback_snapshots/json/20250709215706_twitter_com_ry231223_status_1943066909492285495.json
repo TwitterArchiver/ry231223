@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943066890919628800",
+        "3_1943066890219466752"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "conversation_id": "1943066909492285495",
+    "created_at": "2025-07-09T21:57:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T22:57:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943066909492285495"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lXHsitOS2N",
+          "end": 28,
+          "expanded_url": "https://x.com/ry231223/status/1943066909492285495/photo/1",
+          "media_key": "3_1943066890919628800",
+          "start": 5,
+          "url": "https://t.co/lXHsitOS2N"
+        },
+        {
+          "display_url": "pic.x.com/lXHsitOS2N",
+          "end": 28,
+          "expanded_url": "https://x.com/ry231223/status/1943066909492285495/photo/1",
+          "media_key": "3_1943066890219466752",
+          "start": 5,
+          "url": "https://t.co/lXHsitOS2N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943066909492285495",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "友達と… https://t.co/lXHsitOS2N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1967,
+        "media_key": "3_1943066890919628800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvcpCuAWUAAJ6Qb.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1943066890219466752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvcpCrZasAAUs25.jpg",
+        "width": 1150
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943066890919628800",
+            "3_1943066890219466752"
+          ]
+        },
+        "author_id": "1886421046640902144",
+        "conversation_id": "1943066909492285495",
+        "created_at": "2025-07-09T21:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T22:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943066909492285495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lXHsitOS2N",
+              "end": 28,
+              "expanded_url": "https://x.com/ry231223/status/1943066909492285495/photo/1",
+              "media_key": "3_1943066890919628800",
+              "start": 5,
+              "url": "https://t.co/lXHsitOS2N"
+            },
+            {
+              "display_url": "pic.x.com/lXHsitOS2N",
+              "end": 28,
+              "expanded_url": "https://x.com/ry231223/status/1943066909492285495/photo/1",
+              "media_key": "3_1943066890219466752",
+              "start": 5,
+              "url": "https://t.co/lXHsitOS2N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943066909492285495",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "友達と… https://t.co/lXHsitOS2N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "又来啦 視奸我的犷妾全家被仠杀哦│09順女 INFJ-T/雙相/自傷/OD  夜晚出没",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "クレイジーゾウリ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939955205795086336/0Y5PJw_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 11,
+          "like_count": 1457,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 133
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

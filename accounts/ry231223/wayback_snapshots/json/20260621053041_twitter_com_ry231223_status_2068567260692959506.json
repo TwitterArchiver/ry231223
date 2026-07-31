@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068567254527246336"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "conversation_id": "2068567260692959506",
+    "created_at": "2026-06-21T05:30:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T06:30:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068567260692959506"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/f7k1F5ho40",
+          "end": 34,
+          "expanded_url": "https://x.com/ry231223/status/2068567260692959506/photo/1",
+          "media_key": "3_2068567254527246336",
+          "start": 11,
+          "url": "https://t.co/f7k1F5ho40"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068567260692959506",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "是誰想害我？👁️👁️ https://t.co/f7k1F5ho40"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2068567254527246336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUG9VAaAAALPyh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068567254527246336"
+          ]
+        },
+        "author_id": "1886421046640902144",
+        "conversation_id": "2068567260692959506",
+        "created_at": "2026-06-21T05:30:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068567260692959506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f7k1F5ho40",
+              "end": 34,
+              "expanded_url": "https://x.com/ry231223/status/2068567260692959506/photo/1",
+              "media_key": "3_2068567254527246336",
+              "start": 11,
+              "url": "https://t.co/f7k1F5ho40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068567260692959506",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是誰想害我？👁️👁️ https://t.co/f7k1F5ho40"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od│回fo只回同好＆同類",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2067179880505332212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066982017397596160/nvBcRppn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 40,
+          "like_count": 2192,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 182
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

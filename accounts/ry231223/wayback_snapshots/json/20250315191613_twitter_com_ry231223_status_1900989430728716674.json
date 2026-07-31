@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1900988919757557760"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "conversation_id": "1900989430728716674",
+    "created_at": "2025-03-15T19:16:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T20:16:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900989430728716674"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/auzStMZPru",
+          "end": 38,
+          "expanded_url": "https://x.com/ry231223/status/1900989430728716674/video/1",
+          "media_key": "7_1900988919757557760",
+          "start": 15,
+          "url": "https://t.co/auzStMZPru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900989430728716674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "压画质的话就调大声点听个响吧 https://t.co/auzStMZPru"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 41274,
+        "height": 720,
+        "media_key": "7_1900988919757557760",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1900988919757557760/pu/img/PvmsXdhdyaFnjsDB.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1900988919757557760/pu/vid/avc1/480x270/ksoSY2u18S2JqN12.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1900988919757557760/pu/vid/avc1/640x360/t1LfP4xC4g2CbJHc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1900988919757557760/pu/vid/avc1/1280x720/TD-Px5F1IKSCoDL6.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1900988919757557760/pu/pl/VIKTUVQdxfzNYlV3.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1900988919757557760"
+          ]
+        },
+        "author_id": "1886421046640902144",
+        "conversation_id": "1900989430728716674",
+        "created_at": "2025-03-15T19:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T20:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900989430728716674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/auzStMZPru",
+              "end": 38,
+              "expanded_url": "https://x.com/ry231223/status/1900989430728716674/video/1",
+              "media_key": "7_1900988919757557760",
+              "start": 15,
+              "url": "https://t.co/auzStMZPru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900989430728716674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "压画质的话就调大声点听个响吧 https://t.co/auzStMZPru"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "祝你天天开心OvO│视奸我的犷妾默认全家死光│本人INFJ-T/重鬱/重慮/躁狂/自傷/od",
+        "id": "1886421046640902144",
+        "name": "雪が解けた時の朱栾のささやき",
+        "pinned_tweet_id": "1899863667245555855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900256537458999296/c7p7GgT-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 9,
+          "like_count": 393,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 30
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

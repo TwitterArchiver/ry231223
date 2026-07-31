@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2058457204416463173",
+    "created_at": "2026-05-24T19:36:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T20:36:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058633368070234462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1910923213984444416",
+          "start": 0,
+          "username": "zhngsn177957"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058633368070234462",
+    "in_reply_to_user_id": "1910923213984444416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058603183858184456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhngsn177957 看到的qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2058457204416463173",
+        "created_at": "2026-05-24T19:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T20:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058633368070234462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1910923213984444416",
+              "start": 0,
+              "username": "zhngsn177957"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058633368070234462",
+        "in_reply_to_user_id": "1910923213984444416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058603183858184456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhngsn177957 看到的qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910923213984444416",
+        "conversation_id": "2058457204416463173",
+        "created_at": "2026-05-24T17:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T18:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058603183858184456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1886421046640902144",
+              "start": 0,
+              "username": "ry231223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058603183858184456",
+        "in_reply_to_user_id": "1886421046640902144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058457204416463173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ry231223 你听谁说的😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/地雷/雙相/自傷/od│我愛發什麼發什麼不愛看別關注我",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043585593389756416/LMOy-UNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 10,
+          "like_count": 1809,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 120
+        },
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-12T05:10:02.000Z",
+        "description": "這他媽可太有趣了",
+        "id": "1910923213984444416",
+        "name": "ErDing",
+        "pinned_tweet_id": "2058588474547347775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023916323575918592/BkK1RnKp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 526,
+          "like_count": 1556,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 223
+        },
+        "username": "zhngsn177957",
+        "verified": false
+      }
+    ]
+  }
+}

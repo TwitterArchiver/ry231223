@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2059555276370677860",
+    "created_at": "2026-05-27T19:15:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T20:15:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059715093143724036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1947850335760093187",
+          "start": 0,
+          "username": "Allen9727760773"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059715093143724036",
+    "in_reply_to_user_id": "1947850335760093187",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059555276370677860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Allen9727760773 恭喜恭喜！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2059555276370677860",
+        "created_at": "2026-05-27T19:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T20:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059715093143724036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1947850335760093187",
+              "start": 0,
+              "username": "Allen9727760773"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059715093143724036",
+        "in_reply_to_user_id": "1947850335760093187",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059555276370677860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Allen9727760773 恭喜恭喜！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947850335760093187",
+        "conversation_id": "2059555276370677860",
+        "created_at": "2026-05-27T08:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059555276370677860"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059555276370677860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知不觉100fo了呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/地雷/雙相/自傷/od│只回fo同类 喜欢女生只回女生│我愛發什麼發什麼不愛看滾",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043585593389756416/LMOy-UNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 17,
+          "like_count": 1979,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 160
+        },
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-23T02:44:57.000Z",
+        "description": "oder 心理学 玄学 (八字 六爻 奇门 塔罗) 药理学 English\n欢迎找窝聊天哦～我会好好安慰你的！\npr ym在售 有需要的直接私\nhttps://t.co/2PlWz3O3g6\n欢迎匿名提问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/llen28538",
+                "end": 95,
+                "expanded_url": "https://ngl.link/llen28538",
+                "start": 72,
+                "url": "https://t.co/2PlWz3O3g6"
+              }
+            ]
+          }
+        },
+        "id": "1947850335760093187",
+        "location": "阿比斯第七层",
+        "name": "王Allen",
+        "pinned_tweet_id": "2035335043586134510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947850392127344640/G68OC7Yf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 130,
+          "like_count": 206,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 825
+        },
+        "username": "Allen9727760773",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2062061784929058857",
+    "created_at": "2026-06-03T11:36:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T12:36:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062136223351595044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1931699727059582976",
+          "start": 0,
+          "username": "LuvSweetillUdie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062136223351595044",
+    "in_reply_to_user_id": "1931699727059582976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062061784929058857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuvSweetillUdie 推上女生也不少啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 364,
+        "media_key": "3_2062061782144102400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3qQ_2bsAAbvMq.jpg",
+        "width": 972
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2062061784929058857",
+        "created_at": "2026-06-03T11:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062136223351595044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1931699727059582976",
+              "start": 0,
+              "username": "LuvSweetillUdie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062136223351595044",
+        "in_reply_to_user_id": "1931699727059582976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062061784929058857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuvSweetillUdie 推上女生也不少啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062061782144102400"
+          ]
+        },
+        "author_id": "1931699727059582976",
+        "conversation_id": "2062061784929058857",
+        "created_at": "2026-06-03T06:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062061784929058857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fB31mcLNdP",
+              "end": 36,
+              "expanded_url": "https://x.com/LuvSweetillUdie/status/2062061784929058857/photo/1",
+              "media_key": "3_2062061782144102400",
+              "start": 13,
+              "url": "https://t.co/fB31mcLNdP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062061784929058857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 14924,
+          "like_count": 183,
+          "quote_count": 2,
+          "reply_count": 94,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？中推圈的女孩子们惹谁了 https://t.co/fB31mcLNdP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od│我愛發什麼發什麼不愛看滾",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2060068946649231716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043585593389756416/LMOy-UNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 16,
+          "like_count": 2040,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 146
+        },
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-08T13:08:12.000Z",
+        "description": "06巨蟹♋🍒🐰ENFJ 玻璃心小猫🐈\n\n清水推/小猫日记/和👓🐶持续幸福中/典型窝里横/当朋友圈发/想看照片点媒体/不提供任何服务/🈚🚪请不要骚扰我/私信不太会回  被爱的时候是幸福小猫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tiantiansweeth…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tiantiansweetheart",
+                "start": 0,
+                "url": "https://t.co/DDmv7RyFbG"
+              }
+            ]
+          }
+        },
+        "id": "1931699727059582976",
+        "location": "冰岛",
+        "name": "天才小甜ovo",
+        "pinned_tweet_id": "2048079686564221284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976472474515800065/uwNgm1lc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 414,
+          "like_count": 3903,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 1595
+        },
+        "url": "https://t.co/DDmv7RyFbG",
+        "username": "LuvSweetillUdie",
+        "verified": false
+      }
+    ]
+  }
+}

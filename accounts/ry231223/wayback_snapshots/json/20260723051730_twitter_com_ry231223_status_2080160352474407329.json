@@ -1,0 +1,436 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080160277023072257",
+        "3_2080160296182648832",
+        "3_2080160329707696128"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1234945774347112448",
+          "name": "VALORANT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197906382529294337",
+          "name": "Competitive games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1234945774347112448",
+          "name": "VALORANT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898252936970260",
+          "name": "Free-to-play games"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Two of the best teams in the world will fight to become the 2023 VALORANT Champions. #VALORANTChampions",
+          "id": "1694474463650230272",
+          "name": "VALORANT Champions 2023"
+        }
+      }
+    ],
+    "conversation_id": "2080160352474407329",
+    "created_at": "2026-07-23T05:17:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T06:17:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080160352474407329"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 12,
+          "start": 2,
+          "tag": "healstorm"
+        },
+        {
+          "end": 22,
+          "start": 13,
+          "tag": "valorant"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nqYP0a6jjx",
+          "end": 46,
+          "expanded_url": "https://x.com/ry231223/status/2080160352474407329/photo/1",
+          "media_key": "3_2080160277023072257",
+          "start": 23,
+          "url": "https://t.co/nqYP0a6jjx"
+        },
+        {
+          "display_url": "pic.x.com/nqYP0a6jjx",
+          "end": 46,
+          "expanded_url": "https://x.com/ry231223/status/2080160352474407329/photo/1",
+          "media_key": "3_2080160296182648832",
+          "start": 23,
+          "url": "https://t.co/nqYP0a6jjx"
+        },
+        {
+          "display_url": "pic.x.com/nqYP0a6jjx",
+          "end": 46,
+          "expanded_url": "https://x.com/ry231223/status/2080160352474407329/photo/1",
+          "media_key": "3_2080160329707696128",
+          "start": 23,
+          "url": "https://t.co/nqYP0a6jjx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080160352474407329",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "♡\n#healstorm #valorant https://t.co/nqYP0a6jjx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 739,
+        "media_key": "3_2080160277023072257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN42wDPWoAEvKpN.jpg",
+        "width": 683
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080160296182648832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN42xKnWkAANVYp.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080160329707696128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN42zHgWMAAy0r1.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080160277023072257",
+            "3_2080160296182648832",
+            "3_2080160329707696128"
+          ]
+        },
+        "author_id": "1886421046640902144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1234945774347112448",
+              "name": "VALORANT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1234945774347112448",
+              "name": "VALORANT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Two of the best teams in the world will fight to become the 2023 VALORANT Champions. #VALORANTChampions",
+              "id": "1694474463650230272",
+              "name": "VALORANT Champions 2023"
+            }
+          }
+        ],
+        "conversation_id": "2080160352474407329",
+        "created_at": "2026-07-23T05:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T06:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080160352474407329"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 2,
+              "tag": "healstorm"
+            },
+            {
+              "end": 22,
+              "start": 13,
+              "tag": "valorant"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nqYP0a6jjx",
+              "end": 46,
+              "expanded_url": "https://x.com/ry231223/status/2080160352474407329/photo/1",
+              "media_key": "3_2080160277023072257",
+              "start": 23,
+              "url": "https://t.co/nqYP0a6jjx"
+            },
+            {
+              "display_url": "pic.x.com/nqYP0a6jjx",
+              "end": 46,
+              "expanded_url": "https://x.com/ry231223/status/2080160352474407329/photo/1",
+              "media_key": "3_2080160296182648832",
+              "start": 23,
+              "url": "https://t.co/nqYP0a6jjx"
+            },
+            {
+              "display_url": "pic.x.com/nqYP0a6jjx",
+              "end": 46,
+              "expanded_url": "https://x.com/ry231223/status/2080160352474407329/photo/1",
+              "media_key": "3_2080160329707696128",
+              "start": 23,
+              "url": "https://t.co/nqYP0a6jjx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080160352474407329",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "♡\n#healstorm #valorant https://t.co/nqYP0a6jjx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od\n要回fo請私信 只回同類和同好 互fo大歡迎~",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2074984648392982833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076596771678220288/P0YiwjKy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 62,
+          "like_count": 2571,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 256
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

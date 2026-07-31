@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1923997373371392000"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "conversation_id": "1923997547305328910",
+    "created_at": "2025-05-18T07:02:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T08:02:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1923997547305328910"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 11,
+          "start": 8,
+          "tag": "光遇"
+        },
+        {
+          "end": 16,
+          "start": 12,
+          "tag": "sky"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5hD1f7MP0G",
+          "end": 40,
+          "expanded_url": "https://x.com/ry231223/status/1923997547305328910/video/1",
+          "media_key": "7_1923997373371392000",
+          "start": 17,
+          "url": "https://t.co/5hD1f7MP0G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923997547305328910",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "请将心交给我＾＾#光遇 #sky https://t.co/5hD1f7MP0G"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29166,
+        "height": 1280,
+        "media_key": "7_1923997373371392000",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1923997373371392000/pu/img/-Bt7Hkvid6UeVP86.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1923997373371392000/pu/vid/avc1/320x568/ROFjjEmcy-pqQ7hO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1923997373371392000/pu/vid/avc1/480x852/iEk2qvcn0edrpnya.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1923997373371392000/pu/vid/avc1/720x1280/KIZUAHJR8p34xBgp.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1923997373371392000/pu/pl/eUgku_2PWB0wljrD.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1923997373371392000"
+          ]
+        },
+        "author_id": "1886421046640902144",
+        "conversation_id": "1923997547305328910",
+        "created_at": "2025-05-18T07:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T08:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923997547305328910"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "光遇"
+            },
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "sky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5hD1f7MP0G",
+              "end": 40,
+              "expanded_url": "https://x.com/ry231223/status/1923997547305328910/video/1",
+              "media_key": "7_1923997373371392000",
+              "start": 17,
+              "url": "https://t.co/5hD1f7MP0G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923997547305328910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请将心交给我＾＾#光遇 #sky https://t.co/5hD1f7MP0G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "视奸我的犷妾死全家│09年順女 INFJ-T 社恐│雙相/自傷/OD/自殺史*3│纯绿不接线下🚪35給你當樹洞",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "クレイジーゾウリ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922839112576339968/xy_nC5GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 15,
+          "like_count": 1143,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 103
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

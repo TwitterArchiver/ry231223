@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2074984648392982833",
+    "created_at": "2026-07-09T18:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T19:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075282853441777729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2074551707586232321",
+          "start": 0,
+          "username": "Azami_Kko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075282853441777729",
+    "in_reply_to_user_id": "2074551707586232321",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075170414553342055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Azami_Kko 可以的呀！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075170411269226496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMx8fowagAAGF6D.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2074984648392982833",
+        "created_at": "2026-07-09T18:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T19:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075282853441777729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2074551707586232321",
+              "start": 0,
+              "username": "Azami_Kko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075282853441777729",
+        "in_reply_to_user_id": "2074551707586232321",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075170414553342055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Azami_Kko 可以的呀！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075170411269226496"
+          ]
+        },
+        "author_id": "2074551707586232321",
+        "conversation_id": "2074984648392982833",
+        "created_at": "2026-07-09T10:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T11:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075170414553342055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1886421046640902144",
+              "start": 0,
+              "username": "ry231223"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dMbV2FlO9l",
+              "end": 48,
+              "expanded_url": "https://x.com/Azami_Kko/status/2075170414553342055/photo/1",
+              "media_key": "3_2075170411269226496",
+              "start": 25,
+              "url": "https://t.co/dMbV2FlO9l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075170414553342055",
+        "in_reply_to_user_id": "1886421046640902144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074984648392982833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ry231223 宝宝你好可爱可以互fo吗qw https://t.co/dMbV2FlO9l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od\n要回fo請私信 只回同類和同好 互fo大歡迎~",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2074984648392982833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066982017397596160/nvBcRppn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 52,
+          "like_count": 2492,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 234
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-07T17:51:56.000Z",
+        "description": "我是蓟子(^.^)\n喜欢画奇怪东西的家伙\n泛性恋/精神病/发病记录/随笔记录/绘画账号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "http://x.com",
+                "start": 0,
+                "url": "https://t.co/FY5FN8BxWm"
+              }
+            ]
+          }
+        },
+        "id": "2074551707586232321",
+        "location": "Seven Trees, CA",
+        "name": "叶蓟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074552445938868224/r-87GDk1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 7,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 14
+        },
+        "url": "https://t.co/FY5FN8BxWm",
+        "username": "Azami_Kko",
+        "verified": false
+      }
+    ]
+  }
+}

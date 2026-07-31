@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "1932381176313921927",
+    "created_at": "2025-06-11T21:03:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T22:03:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932906655693291762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1648895543794618368",
+          "start": 0,
+          "username": "aotk0330"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932906655693291762",
+    "in_reply_to_user_id": "1648895543794618368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932381176313921927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aotk0330 贱货什么时候才能知道代姐才是你亲娘"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_1932381088824827904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtEyXLIWIAAAQgO.jpg",
+        "width": 900
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1932381143719989248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtEyaXoX0AA5N3a.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1932381143715725312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtEyaXnWwAAL6e4.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1932381144751718400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtEyabeWwAAuTAL.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "1932381176313921927",
+        "created_at": "2025-06-11T21:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T22:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932906655693291762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1648895543794618368",
+              "start": 0,
+              "username": "aotk0330"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932906655693291762",
+        "in_reply_to_user_id": "1648895543794618368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932381176313921927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aotk0330 贱货什么时候才能知道代姐才是你亲娘"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932381088824827904",
+            "3_1932381143719989248",
+            "3_1932381143715725312",
+            "3_1932381144751718400"
+          ]
+        },
+        "author_id": "1648895543794618368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1932381176313921927",
+        "created_at": "2025-06-10T10:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T11:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932381176313921927"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 132,
+              "start": 128,
+              "tag": "代號鳶"
+            },
+            {
+              "end": 138,
+              "start": 133,
+              "tag": "加密鳶報"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DD7t7hvE2y",
+              "end": 162,
+              "expanded_url": "https://x.com/aotk0330/status/1932381176313921927/photo/1",
+              "media_key": "3_1932381088824827904",
+              "start": 139,
+              "url": "https://t.co/DD7t7hvE2y"
+            },
+            {
+              "display_url": "pic.x.com/DD7t7hvE2y",
+              "end": 162,
+              "expanded_url": "https://x.com/aotk0330/status/1932381176313921927/photo/1",
+              "media_key": "3_1932381143719989248",
+              "start": 139,
+              "url": "https://t.co/DD7t7hvE2y"
+            },
+            {
+              "display_url": "pic.x.com/DD7t7hvE2y",
+              "end": 162,
+              "expanded_url": "https://x.com/aotk0330/status/1932381176313921927/photo/1",
+              "media_key": "3_1932381143715725312",
+              "start": 139,
+              "url": "https://t.co/DD7t7hvE2y"
+            },
+            {
+              "display_url": "pic.x.com/DD7t7hvE2y",
+              "end": 162,
+              "expanded_url": "https://x.com/aotk0330/status/1932381176313921927/photo/1",
+              "media_key": "3_1932381144751718400",
+              "start": 139,
+              "url": "https://t.co/DD7t7hvE2y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932381176313921927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6192,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "🕊六月加密鳶報🕊\n今天為殿下帶來的是《純情小鳥火辣辣》——\n純情小鳥火辣辣\n今天鳥來到殿下家\n殿下鳶房寬又大\n相約一起蹦擦擦\n然後一起加班吶\n公文任務做不完啦\n\n不管你是誰，請大家支持鳥，謝謝！\n殿下能否破解其中真實的小道消息？請殿下關注後續最新資訊。\n #代號鳶 #加密鳶報 https://t.co/DD7t7hvE2y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "又来啦 視奸我的犷妾全家被仠杀哦│09順女 INFJ-T/雙相/自傷/OD│🚪40纯绿",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "クレイジーゾウリ",
+        "pinned_tweet_id": "1930514812913520642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931429361523310592/_N7MPk3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 12,
+          "like_count": 1402,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 123
+        },
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-20T03:45:21.000Z",
+        "description": "沉浸式劇情卡牌手遊《代號鳶》3月30日正式上線！\n這場愛與權謀的旅程，只待殿下親自開啟！\n✧台灣： https://t.co/bZu1Em4kPz\n✧港澳新馬： https://t.co/hmlQZaGq6P",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/3zbGDef",
+                "end": 73,
+                "expanded_url": "http://bit.ly/3zbGDef",
+                "start": 50,
+                "url": "https://t.co/bZu1Em4kPz"
+              },
+              {
+                "display_url": "bit.ly/3LXAo5r",
+                "end": 104,
+                "expanded_url": "http://bit.ly/3LXAo5r",
+                "start": 81,
+                "url": "https://t.co/hmlQZaGq6P"
+              }
+            ]
+          }
+        },
+        "id": "1648895543794618368",
+        "name": "代號鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1648896726420586497/2PAqml5N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54834,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 36,
+          "media_count": 268,
+          "tweet_count": 314
+        },
+        "username": "aotk0330",
+        "verified": false
+      }
+    ]
+  }
+}

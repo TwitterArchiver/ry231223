@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2059164668543852909",
+    "created_at": "2026-05-26T17:31:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T18:31:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059326643479445685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1951932082676269056",
+          "start": 0,
+          "username": "qbi12976931"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059326643479445685",
+    "in_reply_to_user_id": "1951932082676269056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059266305082183878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qbi12976931 谢谢宝宝帮我说话呜呜TvT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2059164668543852909",
+        "created_at": "2026-05-26T17:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T18:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059326643479445685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1951932082676269056",
+              "start": 0,
+              "username": "qbi12976931"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059326643479445685",
+        "in_reply_to_user_id": "1951932082676269056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059266305082183878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qbi12976931 谢谢宝宝帮我说话呜呜TvT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951932082676269056",
+        "conversation_id": "2059164668543852909",
+        "created_at": "2026-05-26T13:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059266305082183878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1886421046640902144",
+              "start": 0,
+              "username": "ry231223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059266305082183878",
+        "in_reply_to_user_id": "1886421046640902144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059164668543852909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ry231223 我想想，基于对网络的平均认识水平，这些伪人应该是把梯子当隐身了，所以露出了压力下的自己，就和灾难片里各种人性表露一样，确实恶心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/地雷/雙相/自傷/od│只回fo同类 喜欢女生只回女生│我愛發什麼發什麼不愛看滾",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043585593389756416/LMOy-UNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 17,
+          "like_count": 1948,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 160
+        },
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-03T09:04:20.000Z",
+        "description": "世界还真是大啊(￣(エ)￣)",
+        "id": "1951932082676269056",
+        "name": "齐北",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951932235281817600/m_hqllnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 34,
+          "like_count": 160,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 36
+        },
+        "username": "qbi12976931",
+        "verified": false
+      }
+    ]
+  }
+}

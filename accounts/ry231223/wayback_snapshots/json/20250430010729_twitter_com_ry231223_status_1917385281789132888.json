@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917385247328743424"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "conversation_id": "1917385281789132888",
+    "created_at": "2025-04-30T01:07:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T02:07:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917385281789132888"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hsQHtDFiX8",
+          "end": 34,
+          "expanded_url": "https://x.com/ry231223/status/1917385281789132888/photo/1",
+          "media_key": "3_1917385247328743424",
+          "start": 11,
+          "url": "https://t.co/hsQHtDFiX8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917385281789132888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我操你大爷的傻屌世界 https://t.co/hsQHtDFiX8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1917385247328743424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpvruUSasAAEQ4M.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917385247328743424"
+          ]
+        },
+        "author_id": "1886421046640902144",
+        "conversation_id": "1917385281789132888",
+        "created_at": "2025-04-30T01:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T02:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917385281789132888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hsQHtDFiX8",
+              "end": 34,
+              "expanded_url": "https://x.com/ry231223/status/1917385281789132888/photo/1",
+              "media_key": "3_1917385247328743424",
+              "start": 11,
+              "url": "https://t.co/hsQHtDFiX8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917385281789132888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操你大爷的傻屌世界 https://t.co/hsQHtDFiX8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "视奸我的犷妾默认死全家│09年♀ INFJ-T 社恐重度患者│雙相/自傷/OD/自殺史*3",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "クレイジーゾウリ",
+        "pinned_tweet_id": "1900995745286943062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915275448587870210/jVl00rDK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 21,
+          "like_count": 872,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 90
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

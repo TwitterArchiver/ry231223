@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968697923723522048",
+        "3_1968697923710943232"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1968697950025977983",
+    "created_at": "2025-09-18T15:25:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T16:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968697950025977983"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3otIsOzdSN",
+          "end": 80,
+          "expanded_url": "https://x.com/ry231223/status/1968697950025977983/photo/1",
+          "media_key": "3_1968697923723522048",
+          "start": 57,
+          "url": "https://t.co/3otIsOzdSN"
+        },
+        {
+          "display_url": "pic.x.com/3otIsOzdSN",
+          "end": 80,
+          "expanded_url": "https://x.com/ry231223/status/1968697950025977983/photo/1",
+          "media_key": "3_1968697923710943232",
+          "start": 57,
+          "url": "https://t.co/3otIsOzdSN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968697950025977983",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天晚上自己一个人在家，买的新桌子到了，割完腿发现找不到贴的只能用以前无料剩下的贴纸贴一下了，这么看好抽象啊我天 https://t.co/3otIsOzdSN"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1968697950025977983].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1968697950025977983",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1968697950025977983"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968697923723522048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1I4VL2W8AAvWQH.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1968697923710943232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1I4VLzXAAAD-4h.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "绝望的内向100%入机INFJ-T│09♀/雙相/自傷/OD",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "朱欒語",
+        "pinned_tweet_id": "1949879251873702160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968557577911889920/Dlf5TLUG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 8,
+          "like_count": 1404,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 143
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2069505672329544063",
+    "created_at": "2026-06-24T09:36:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T10:36:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069716188440183031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2055381611580100608",
+          "start": 0,
+          "username": "mikashs0Da"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069716188440183031",
+    "in_reply_to_user_id": "2055381611580100608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069505672329544063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikashs0Da 蟑螂？偷手机？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2069505672329544063",
+        "created_at": "2026-06-24T09:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069716188440183031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2055381611580100608",
+              "start": 0,
+              "username": "mikashs0Da"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069716188440183031",
+        "in_reply_to_user_id": "2055381611580100608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069505672329544063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikashs0Da 蟑螂？偷手机？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055381611580100608",
+        "conversation_id": "2069505672329544063",
+        "created_at": "2026-06-23T19:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T20:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069505672329544063"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069505672329544063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 350,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我現在不知道對蟑螂是愛是恨了，恨它剛剛爬到我肚子上嚇我一跳惡心我，愛它現在幫助我偷到手機。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od│回fo只回同類  沒回就是沒看見請私信│防走失@Zhizi24007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 42,
+                "username": "Zhizi24007"
+              }
+            ]
+          }
+        },
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2067179880505332212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066982017397596160/nvBcRppn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 41,
+          "like_count": 2267,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 194
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T20:17:13.000Z",
+        "description": "小貓在睡覺，地球在轉圈。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mikashis0da",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mikashis0da",
+                "start": 0,
+                "url": "https://t.co/3EwfP0sebC"
+              }
+            ]
+          }
+        },
+        "id": "2055381611580100608",
+        "location": "你家的衣櫃",
+        "name": "L1v1a03o",
+        "pinned_tweet_id": "2065386804195553385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068798938094956544/ig1HSa5K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 168,
+          "like_count": 312,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 410
+        },
+        "url": "https://t.co/3EwfP0sebC",
+        "username": "mikashs0Da",
+        "verified": false
+      }
+    ]
+  }
+}

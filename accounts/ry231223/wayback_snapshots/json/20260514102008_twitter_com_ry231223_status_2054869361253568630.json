@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2054869361253568630",
+    "created_at": "2026-05-14T10:20:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T11:20:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054869361253568630"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054869361253568630",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "這幾天抖音上的事看得我快氣死了，林奕含才走幾年就抄襲《房思琪》去寫帶顏色的bl小說，抄的還是被強仠的部分，讀者在她忌日出cos配文關我屁事，說出給她燒幾個男模這種話你們還有人性嗎？三萬粉啊，怎麼說都是个小網紅了，bl讀者大多都是未成年你們就這麼起帶頭作用，我真的要反bl了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2054869361253568630",
+        "created_at": "2026-05-14T10:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T11:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054869361253568630"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054869361253568630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這幾天抖音上的事看得我快氣死了，林奕含才走幾年就抄襲《房思琪》去寫帶顏色的bl小說，抄的還是被強仠的部分，讀者在她忌日出cos配文關我屁事，說出給她燒幾個男模這種話你們還有人性嗎？三萬粉啊，怎麼說都是个小網紅了，bl讀者大多都是未成年你們就這麼起帶頭作用，我真的要反bl了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀ISFP/地雷/雙相/自傷/OD│♂不要关注我│ins：ry.231229",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043585593389756416/LMOy-UNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 8,
+          "like_count": 1716,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 104
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

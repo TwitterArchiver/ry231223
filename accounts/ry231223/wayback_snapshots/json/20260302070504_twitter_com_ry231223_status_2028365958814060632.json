@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028209749100306432",
+        "3_2028365955102072832"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2028365958814060632",
+    "created_at": "2026-03-02T07:05:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T08:05:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028365958814060632"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XqcMRVFWwq",
+          "end": 23,
+          "expanded_url": "https://x.com/ry231223/status/2028365958814060632/photo/1",
+          "media_key": "3_2028209749100306432",
+          "start": 0,
+          "url": "https://t.co/XqcMRVFWwq"
+        },
+        {
+          "display_url": "pic.x.com/XqcMRVFWwq",
+          "end": 23,
+          "expanded_url": "https://x.com/ry231223/status/2028365958814060632/photo/1",
+          "media_key": "3_2028365955102072832",
+          "start": 0,
+          "url": "https://t.co/XqcMRVFWwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028365958814060632",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/XqcMRVFWwq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028209749100306432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCWmBVkboAAWoCn.jpg",
+        "width": 1536
+      },
+      {
+        "height": 919,
+        "media_key": "3_2028365955102072832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCY0FuRa4AAVl1L.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028209749100306432",
+            "3_2028365955102072832"
+          ]
+        },
+        "author_id": "1886421046640902144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2028365958814060632",
+        "created_at": "2026-03-02T07:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T08:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028365958814060632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XqcMRVFWwq",
+              "end": 23,
+              "expanded_url": "https://x.com/ry231223/status/2028365958814060632/photo/1",
+              "media_key": "3_2028209749100306432",
+              "start": 0,
+              "url": "https://t.co/XqcMRVFWwq"
+            },
+            {
+              "display_url": "pic.x.com/XqcMRVFWwq",
+              "end": 23,
+              "expanded_url": "https://x.com/ry231223/status/2028365958814060632/photo/1",
+              "media_key": "3_2028365955102072832",
+              "start": 0,
+              "url": "https://t.co/XqcMRVFWwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028365958814060632",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XqcMRVFWwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀ISFP/地雷/雙相/自傷/OD│ins：ry.231229",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020873447883390976/CLWmdQnE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 6,
+          "like_count": 1595,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 98
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

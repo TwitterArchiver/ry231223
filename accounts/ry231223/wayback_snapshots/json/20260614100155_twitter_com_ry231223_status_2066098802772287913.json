@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066098799651811328",
+        "3_2066098799928619008"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "conversation_id": "2066098802772287913",
+    "created_at": "2026-06-14T10:01:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T11:01:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066098802772287913"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/F0wJErYeDI",
+          "end": 35,
+          "expanded_url": "https://x.com/ry231223/status/2066098802772287913/photo/1",
+          "media_key": "3_2066098799651811328",
+          "start": 12,
+          "url": "https://t.co/F0wJErYeDI"
+        },
+        {
+          "display_url": "pic.x.com/F0wJErYeDI",
+          "end": 35,
+          "expanded_url": "https://x.com/ry231223/status/2066098802772287913/photo/1",
+          "media_key": "3_2066098799928619008",
+          "start": 12,
+          "url": "https://t.co/F0wJErYeDI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066098802772287913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😭🙏我的人生已经完蛋了 https://t.co/F0wJErYeDI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1704,
+        "media_key": "3_2066098799651811328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxB6WAbcAAD5JP.jpg",
+        "width": 1276
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2066098799928619008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxB6XCbMAAFvgc.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066098799651811328",
+            "3_2066098799928619008"
+          ]
+        },
+        "author_id": "1886421046640902144",
+        "conversation_id": "2066098802772287913",
+        "created_at": "2026-06-14T10:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066098802772287913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F0wJErYeDI",
+              "end": 35,
+              "expanded_url": "https://x.com/ry231223/status/2066098802772287913/photo/1",
+              "media_key": "3_2066098799651811328",
+              "start": 12,
+              "url": "https://t.co/F0wJErYeDI"
+            },
+            {
+              "display_url": "pic.x.com/F0wJErYeDI",
+              "end": 35,
+              "expanded_url": "https://x.com/ry231223/status/2066098802772287913/photo/1",
+              "media_key": "3_2066098799928619008",
+              "start": 12,
+              "url": "https://t.co/F0wJErYeDI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066098802772287913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😭🙏我的人生已经完蛋了 https://t.co/F0wJErYeDI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od│我愛發什麼發什麼不愛看滾",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2060068946649231716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043585593389756416/LMOy-UNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 24,
+          "like_count": 2134,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 163
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

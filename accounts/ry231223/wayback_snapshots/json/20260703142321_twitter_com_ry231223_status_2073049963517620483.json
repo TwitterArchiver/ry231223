@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2073039004996641212",
+    "created_at": "2026-07-03T14:23:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T15:23:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073049963517620483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1733157188057853952",
+          "start": 0,
+          "username": "nigich436594"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073049963517620483",
+    "in_reply_to_user_id": "1733157188057853952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073039004996641212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nigich436594 天呐…抱抱你🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2073038988852797440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTp-hgbIAAeebr.jpg",
+        "width": 960
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073038989108580352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTp-idaEAAd3ZE.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073038988848586752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTp-hfa4AAH49Z.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073038988852736001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTp-hgaMAEnhLs.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2073039004996641212",
+        "created_at": "2026-07-03T14:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T15:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073049963517620483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1733157188057853952",
+              "start": 0,
+              "username": "nigich436594"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073049963517620483",
+        "in_reply_to_user_id": "1733157188057853952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073039004996641212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nigich436594 天呐…抱抱你🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073038988852797440",
+            "3_2073038989108580352",
+            "3_2073038988848586752",
+            "3_2073038988852736001"
+          ]
+        },
+        "author_id": "1733157188057853952",
+        "conversation_id": "2073039004996641212",
+        "created_at": "2026-07-03T13:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T14:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073039004996641212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OWVUxifijD",
+              "end": 155,
+              "expanded_url": "https://x.com/nigich436594/status/2073039004996641212/photo/1",
+              "media_key": "3_2073038988852797440",
+              "start": 132,
+              "url": "https://t.co/OWVUxifijD"
+            },
+            {
+              "display_url": "pic.x.com/OWVUxifijD",
+              "end": 155,
+              "expanded_url": "https://x.com/nigich436594/status/2073039004996641212/photo/1",
+              "media_key": "3_2073038989108580352",
+              "start": 132,
+              "url": "https://t.co/OWVUxifijD"
+            },
+            {
+              "display_url": "pic.x.com/OWVUxifijD",
+              "end": 155,
+              "expanded_url": "https://x.com/nigich436594/status/2073039004996641212/photo/1",
+              "media_key": "3_2073038988848586752",
+              "start": 132,
+              "url": "https://t.co/OWVUxifijD"
+            },
+            {
+              "display_url": "pic.x.com/OWVUxifijD",
+              "end": 155,
+              "expanded_url": "https://x.com/nigich436594/status/2073039004996641212/photo/1",
+              "media_key": "3_2073038988852736001",
+              "start": 132,
+              "url": "https://t.co/OWVUxifijD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073039004996641212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 517,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那条没有了……重发一下。千万不要学我\n我好崩溃吧推特被人恶意举报封了7天，然后现在人家大概就是又被骗了800，手机还被锁了报废了，贷款买了个二手机，全身上下几十块在外地住在朋友家里回不去为什么要这样对待一个可爱的小女孩  我恨泥萌。大家不要像我这样笨…小心一点吧 https://t.co/OWVUxifijD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od│回fo只回同類  沒回就是沒看見請私信",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2067179880505332212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066982017397596160/nvBcRppn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 49,
+          "like_count": 2404,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 213
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T16:10:56.000Z",
+        "description": "💕OD｜餐卷妹｜165 79｜正常聊天欢迎｜互fo私信｜直fo就是喜欢你吖",
+        "id": "1733157188057853952",
+        "location": "🚪77聊天+好友",
+        "name": "想当幸福小猫",
+        "pinned_tweet_id": "2067070907714252991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068757507158491136/PWWft643_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 241,
+          "like_count": 2367,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 903
+        },
+        "url": "",
+        "username": "nigich436594",
+        "verified": false
+      }
+    ]
+  }
+}

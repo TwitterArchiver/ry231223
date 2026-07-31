@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "1893001443021594892",
+    "created_at": "2025-02-21T18:14:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T19:14:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893001443021594892"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1893001443021594892",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在是要么撑死要么饿死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "1893001443021594892",
+        "created_at": "2025-02-21T18:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T19:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893001443021594892"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893001443021594892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在是要么撑死要么饿死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "祝你天天开心│INFJ-T/重抑/重焦/躁狂/自伤/od",
+        "id": "1886421046640902144",
+        "name": "冬月十七",
+        "pinned_tweet_id": "1891579668500758891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891975777773862912/4ELPlu97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 184
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

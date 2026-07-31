@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1918460482211483648"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1918460498565091766",
+    "created_at": "2025-05-03T00:20:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T01:20:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1918460498565091766"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 14,
+          "start": 6,
+          "tag": "cosplay"
+        },
+        {
+          "end": 19,
+          "start": 15,
+          "tag": "印飞星"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rJIzce6Wlf",
+          "end": 43,
+          "expanded_url": "https://x.com/ry231223/status/1918460498565091766/photo/1",
+          "media_key": "3_1918460482211483648",
+          "start": 20,
+          "url": "https://t.co/rJIzce6Wlf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918460498565091766",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "猫猫和猫猫\n#cosplay #印飞星 https://t.co/rJIzce6Wlf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1918460482211483648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp-9pOXXEAA0kKA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918460482211483648"
+          ]
+        },
+        "author_id": "1886421046640902144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1918460498565091766",
+        "created_at": "2025-05-03T00:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T01:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918460498565091766"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 6,
+              "tag": "cosplay"
+            },
+            {
+              "end": 19,
+              "start": 15,
+              "tag": "印飞星"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rJIzce6Wlf",
+              "end": 43,
+              "expanded_url": "https://x.com/ry231223/status/1918460498565091766/photo/1",
+              "media_key": "3_1918460482211483648",
+              "start": 20,
+              "url": "https://t.co/rJIzce6Wlf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918460498565091766",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猫猫和猫猫\n#cosplay #印飞星 https://t.co/rJIzce6Wlf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "视奸我的犷妾死全家│09年♀ INFJ-T 社恐重度患者│雙相/自傷/OD/自殺史*3│纯绿不接线下🚪40",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "クレイジーゾウリ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915275448587870210/jVl00rDK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 18,
+          "like_count": 944,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 86
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

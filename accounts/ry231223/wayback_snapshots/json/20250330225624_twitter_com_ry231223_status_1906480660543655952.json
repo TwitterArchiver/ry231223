@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "1906480660543655952",
+    "created_at": "2025-03-30T22:56:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T23:56:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906480660543655952"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ry231223/statu…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/ry231223/status/1900995745286943062",
+          "start": 141,
+          "url": "https://t.co/fQnEN4GCZu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906480660543655952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900995745286943062",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "接受不了我发血图的最好也别关注，这个号最初就是用来发负能的，会删帖和发疯，差不多一个病情记录了（？）\n要不是为了不让朋友看见知道我的阴暗面也不会来这了……😇\n这里只会发dl系日常和血图，当然那个号也会有发…但是她是阳光型嘟，所以更推荐她\n我不是dl女，不是一个od、割的就是dl女 https://t.co/fQnEN4GCZu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "1906480660543655952",
+        "created_at": "2025-03-30T22:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T23:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906480660543655952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ry231223/statu…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/ry231223/status/1900995745286943062",
+              "start": 141,
+              "url": "https://t.co/fQnEN4GCZu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906480660543655952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900995745286943062",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接受不了我发血图的最好也别关注，这个号最初就是用来发负能的，会删帖和发疯，差不多一个病情记录了（？）\n要不是为了不让朋友看见知道我的阴暗面也不会来这了……😇\n这里只会发dl系日常和血图，当然那个号也会有发…但是她是阳光型嘟，所以更推荐她\n我不是dl女，不是一个od、割的就是dl女 https://t.co/fQnEN4GCZu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "1900995745286943062",
+        "created_at": "2025-03-15T19:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T20:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900995745286943062"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1900995745286943062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝你别视奸我了，想骂我不用去微博你直接来私信，我推特私信开着呢，评论也开着呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "祝你天天开心OvO│视奸我的犷妾默认全家死光│重鬱/重慮/躁狂/自傷/od/INFJ-T│目标是炸了全世界",
+        "id": "1886421046640902144",
+        "name": "きらい",
+        "pinned_tweet_id": "1900995745286943062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905437979805450240/LtCMYCQ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 12,
+          "like_count": 514,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 40
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

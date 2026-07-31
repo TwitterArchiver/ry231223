@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2018564903750291558",
+    "created_at": "2026-02-03T05:59:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T06:59:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018564903750291558"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2018564903750291558",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊哈哈哈哈我要减肥哈哈哈哈。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2018564903750291558",
+        "created_at": "2026-02-03T05:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T06:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018564903750291558"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018564903750291558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊哈哈哈哈我要减肥哈哈哈哈。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "♀ISFP/地雷/雙相/自傷/OD│ins：ry.231229",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013152824507392000/-1dLQwNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 5,
+          "like_count": 1576,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 97
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

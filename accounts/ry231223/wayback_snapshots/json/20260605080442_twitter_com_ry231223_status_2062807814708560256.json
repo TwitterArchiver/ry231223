@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2062266470298476914",
+    "created_at": "2026-06-05T08:04:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T09:04:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062807814708560256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1646662097613492224",
+          "start": 0,
+          "username": "lihuaihai188560"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062807814708560256",
+    "in_reply_to_user_id": "1646662097613492224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062676993146282474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lihuaihai188560 没事的啦这个（）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2062676993146282474].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2062676993146282474",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2062676993146282474"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2062266470298476914",
+        "created_at": "2026-06-05T08:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062807814708560256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1646662097613492224",
+              "start": 0,
+              "username": "lihuaihai188560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062807814708560256",
+        "in_reply_to_user_id": "1646662097613492224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062676993146282474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lihuaihai188560 没事的啦这个（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od│我愛發什麼發什麼不愛看滾",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2060068946649231716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043585593389756416/LMOy-UNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 17,
+          "like_count": 2039,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 148
+        },
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-13T23:50:33.000Z",
+        "description": "",
+        "id": "1646662097613492224",
+        "name": "ixi",
+        "pinned_tweet_id": "1745385938157462000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058605850944733184/_xpgZwtz_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 73,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 12
+        },
+        "username": "lihuaihai188560",
+        "verified": false
+      }
+    ]
+  }
+}

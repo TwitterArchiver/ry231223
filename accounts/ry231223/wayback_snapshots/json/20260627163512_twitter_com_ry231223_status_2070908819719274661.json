@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2070885444426842458",
+    "created_at": "2026-06-27T16:35:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T17:35:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070908819719274661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1297748138191491077",
+          "start": 0,
+          "username": "Azusa040921"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070908819719274661",
+    "in_reply_to_user_id": "1297748138191491077",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070885444426842458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Azusa040921 抖是这样的，蜗蜗想要高流量可以试试搞抽象（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2070885444426842458",
+        "created_at": "2026-06-27T16:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T17:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070908819719274661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1297748138191491077",
+              "start": 0,
+              "username": "Azusa040921"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070908819719274661",
+        "in_reply_to_user_id": "1297748138191491077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070885444426842458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Azusa040921 抖是这样的，蜗蜗想要高流量可以试试搞抽象（？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1297748138191491077",
+        "conversation_id": "2070885444426842458",
+        "created_at": "2026-06-27T15:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070885444426842458"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070885444426842458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3174,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抖音的流量对我好差。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od│回fo只回同類  沒回就是沒看見請私信│防走失@Zhizi24007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 42,
+                "username": "Zhizi24007"
+              }
+            ]
+          }
+        },
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2067179880505332212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066982017397596160/nvBcRppn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 43,
+          "like_count": 2307,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 198
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-24T04:10:57.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/shewo040921",
+                "end": 23,
+                "expanded_url": "https://lit.link/shewo040921",
+                "start": 0,
+                "url": "https://t.co/lz4v5xQ2LH"
+              }
+            ]
+          }
+        },
+        "id": "1297748138191491077",
+        "name": "蝸",
+        "pinned_tweet_id": "1806645642736881898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006979697650053122/ZFKzfGsu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177389,
+          "following_count": 33,
+          "like_count": 1456,
+          "listed_count": 445,
+          "media_count": 116,
+          "tweet_count": 1020
+        },
+        "url": "https://t.co/lz4v5xQ2LH",
+        "username": "Azusa040921",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "1905561378758557874",
+    "created_at": "2025-03-30T23:03:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T00:03:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906482485887954970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1648895543794618368",
+          "start": 0,
+          "username": "aotk0330"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906482485887954970",
+    "in_reply_to_user_id": "1648895543794618368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905561378758557874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aotk0330 傻屌游戏现在知道更新主线了，还有人玩儿那会死哪去了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1905561192791420928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnHpzwoaMAA1p4f.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "1905561378758557874",
+        "created_at": "2025-03-30T23:03:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T00:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906482485887954970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1648895543794618368",
+              "start": 0,
+              "username": "aotk0330"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906482485887954970",
+        "in_reply_to_user_id": "1648895543794618368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905561378758557874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aotk0330 傻屌游戏现在知道更新主线了，还有人玩儿那会死哪去了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1905561192791420928"
+          ]
+        },
+        "author_id": "1648895543794618368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1905561378758557874",
+        "created_at": "2025-03-28T10:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T11:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905561378758557874"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 102,
+              "start": 98,
+              "tag": "代號鳶"
+            },
+            {
+              "end": 108,
+              "start": 103,
+              "tag": "珠履三千"
+            },
+            {
+              "end": 115,
+              "start": 109,
+              "tag": "二週年慶典"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gHSASdvCxW",
+              "end": 139,
+              "expanded_url": "https://x.com/aotk0330/status/1905561378758557874/photo/1",
+              "media_key": "3_1905561192791420928",
+              "start": 116,
+              "url": "https://t.co/gHSASdvCxW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905561378758557874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 13209,
+          "like_count": 164,
+          "quote_count": 15,
+          "reply_count": 20,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "【鳶報確認】消息確認為真：呂布已從長安脫逃。\n呂布、徐州、判官……撲朔迷離的局勢不斷增添新變數。\n命運交織糾纏，最終結成的，是戰場，或是囚籠？\n\n⏰主線第十二章《珠履三千》即將於3月30日更新。\n#代號鳶 #珠履三千 #二週年慶典 https://t.co/gHSASdvCxW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "祝你天天开心OvO│视奸我的犷妾默认全家死光│重鬱/重慮/躁狂/自傷/od/INFJ-T│♱病情记录器♱",
+        "id": "1886421046640902144",
+        "name": "きらい",
+        "pinned_tweet_id": "1906480660543655952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905437979805450240/LtCMYCQ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 12,
+          "like_count": 521,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 43
+        },
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-20T03:45:21.000Z",
+        "description": "沉浸式劇情卡牌手遊《代號鳶》3月30日正式上線！\n這場愛與權謀的旅程，只待殿下親自開啟！\n✧台灣： https://t.co/bZu1Em4kPz\n✧港澳新馬： https://t.co/hmlQZaGq6P",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/3zbGDef",
+                "end": 73,
+                "expanded_url": "http://bit.ly/3zbGDef",
+                "start": 50,
+                "url": "https://t.co/bZu1Em4kPz"
+              },
+              {
+                "display_url": "bit.ly/3LXAo5r",
+                "end": 104,
+                "expanded_url": "http://bit.ly/3LXAo5r",
+                "start": 81,
+                "url": "https://t.co/hmlQZaGq6P"
+              }
+            ]
+          }
+        },
+        "id": "1648895543794618368",
+        "name": "代號鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1648896726420586497/2PAqml5N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55564,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 35,
+          "media_count": 245,
+          "tweet_count": 277
+        },
+        "username": "aotk0330",
+        "verified": false
+      }
+    ]
+  }
+}

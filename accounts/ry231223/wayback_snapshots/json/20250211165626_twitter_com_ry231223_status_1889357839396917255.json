@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889357691073732611",
+        "3_1889357690650107905",
+        "3_1889357729535500288",
+        "3_1889357729531305986"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1889357839396917255",
+    "created_at": "2025-02-11T16:56:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T17:56:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889357839396917255"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RgcvCW2wiB",
+          "end": 23,
+          "expanded_url": "https://x.com/ry231223/status/1889357839396917255/photo/1",
+          "media_key": "3_1889357691073732611",
+          "start": 0,
+          "url": "https://t.co/RgcvCW2wiB"
+        },
+        {
+          "display_url": "pic.x.com/RgcvCW2wiB",
+          "end": 23,
+          "expanded_url": "https://x.com/ry231223/status/1889357839396917255/photo/1",
+          "media_key": "3_1889357690650107905",
+          "start": 0,
+          "url": "https://t.co/RgcvCW2wiB"
+        },
+        {
+          "display_url": "pic.x.com/RgcvCW2wiB",
+          "end": 23,
+          "expanded_url": "https://x.com/ry231223/status/1889357839396917255/photo/1",
+          "media_key": "3_1889357729535500288",
+          "start": 0,
+          "url": "https://t.co/RgcvCW2wiB"
+        },
+        {
+          "display_url": "pic.x.com/RgcvCW2wiB",
+          "end": 23,
+          "expanded_url": "https://x.com/ry231223/status/1889357839396917255/photo/1",
+          "media_key": "3_1889357729531305986",
+          "start": 0,
+          "url": "https://t.co/RgcvCW2wiB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889357839396917255",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/RgcvCW2wiB"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1889357839396917255].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1889357839396917255",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1889357839396917255"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1889357691073732611",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjhYz04aIAM2x7s.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1889357690650107905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjhYzzTaIAECgPa.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1889357729535500288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjhY2EKaIAAHk6f.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1889357729531305986",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjhY2EJaIAIJKT-.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "祝你天天开心",
+        "id": "1886421046640902144",
+        "name": "冬月十七",
+        "pinned_tweet_id": "1887556265083347228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886430958045609984/BN4m95iY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 17
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

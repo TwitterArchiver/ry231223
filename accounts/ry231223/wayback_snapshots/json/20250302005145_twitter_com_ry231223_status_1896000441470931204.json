@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "1896000441470931204",
+    "created_at": "2025-03-02T00:51:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T01:51:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896000441470931204"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1896000441470931204",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在爸妈离婚之前，他们是分开睡的，我跟我妈睡在一起，枕头被子都是香的，我很爱贴着我妈睡，干什么都黏着她，一开始离婚我也还黏着我妈，直到最近几年我跟我妈越来越生疏，她说什么我都听不下去，她也没有以前关心我，一想到她就会想到她的私人男朋友，特别难受[流泪]"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "1896000441470931204",
+        "created_at": "2025-03-02T00:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T01:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896000441470931204"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896000441470931204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在爸妈离婚之前，他们是分开睡的，我跟我妈睡在一起，枕头被子都是香的，我很爱贴着我妈睡，干什么都黏着她，一开始离婚我也还黏着我妈，直到最近几年我跟我妈越来越生疏，她说什么我都听不下去，她也没有以前关心我，一想到她就会想到她的私人男朋友，特别难受[流泪]"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "祝你天天开心│INFJ-T/重抑/重焦/躁狂/自伤/od",
+        "id": "1886421046640902144",
+        "name": "这破世界到底有谁在啊",
+        "pinned_tweet_id": "1894531797838696828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894450132969730048/75od3Iam_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 7,
+          "like_count": 287,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 265
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1918781032389824512",
+        "3_1918781032394063872",
+        "3_1918781032381448192"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1918781054602645862",
+    "created_at": "2025-05-03T21:33:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T22:33:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1918781054602645862"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 33,
+          "tag": "cosplay"
+        },
+        {
+          "end": 46,
+          "start": 42,
+          "tag": "印飞星"
+        },
+        {
+          "end": 57,
+          "start": 47,
+          "tag": "我家大师兄脑子有坑"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tomGEXt4VI",
+          "end": 81,
+          "expanded_url": "https://x.com/ry231223/status/1918781054602645862/photo/1",
+          "media_key": "3_1918781032389824512",
+          "start": 58,
+          "url": "https://t.co/tomGEXt4VI"
+        },
+        {
+          "display_url": "pic.x.com/tomGEXt4VI",
+          "end": 81,
+          "expanded_url": "https://x.com/ry231223/status/1918781054602645862/photo/1",
+          "media_key": "3_1918781032394063872",
+          "start": 58,
+          "url": "https://t.co/tomGEXt4VI"
+        },
+        {
+          "display_url": "pic.x.com/tomGEXt4VI",
+          "end": 81,
+          "expanded_url": "https://x.com/ry231223/status/1918781054602645862/photo/1",
+          "media_key": "3_1918781032381448192",
+          "start": 58,
+          "url": "https://t.co/tomGEXt4VI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918781054602645862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "纤云弄巧，飞星传恨\n“我乃逍遥门门下二弟子，印飞星。”\n📷：玄枵\n#cosplay #印飞星 #我家大师兄脑子有坑 https://t.co/tomGEXt4VI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1918781032389824512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqDhLs1aUAANH_7.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1918781032394063872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqDhLs2bAAAqOno.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1918781032381448192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqDhLszagAAJPPC.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918781032389824512",
+            "3_1918781032394063872",
+            "3_1918781032381448192"
+          ]
+        },
+        "author_id": "1886421046640902144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1918781054602645862",
+        "created_at": "2025-05-03T21:33:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T22:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918781054602645862"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 33,
+              "tag": "cosplay"
+            },
+            {
+              "end": 46,
+              "start": 42,
+              "tag": "印飞星"
+            },
+            {
+              "end": 57,
+              "start": 47,
+              "tag": "我家大师兄脑子有坑"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tomGEXt4VI",
+              "end": 81,
+              "expanded_url": "https://x.com/ry231223/status/1918781054602645862/photo/1",
+              "media_key": "3_1918781032389824512",
+              "start": 58,
+              "url": "https://t.co/tomGEXt4VI"
+            },
+            {
+              "display_url": "pic.x.com/tomGEXt4VI",
+              "end": 81,
+              "expanded_url": "https://x.com/ry231223/status/1918781054602645862/photo/1",
+              "media_key": "3_1918781032394063872",
+              "start": 58,
+              "url": "https://t.co/tomGEXt4VI"
+            },
+            {
+              "display_url": "pic.x.com/tomGEXt4VI",
+              "end": 81,
+              "expanded_url": "https://x.com/ry231223/status/1918781054602645862/photo/1",
+              "media_key": "3_1918781032381448192",
+              "start": 58,
+              "url": "https://t.co/tomGEXt4VI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918781054602645862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "纤云弄巧，飞星传恨\n“我乃逍遥门门下二弟子，印飞星。”\n📷：玄枵\n#cosplay #印飞星 #我家大师兄脑子有坑 https://t.co/tomGEXt4VI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "视奸我的犷妾死全家│09年♀ INFJ-T 社恐重度患者│雙相/自傷/OD/自殺史*3│纯绿不接线下🚪40",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "クレイジーゾウリ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915275448587870210/jVl00rDK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 18,
+          "like_count": 950,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 86
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

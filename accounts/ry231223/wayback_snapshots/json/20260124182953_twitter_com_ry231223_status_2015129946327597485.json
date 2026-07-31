@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2014929280720109582",
+    "created_at": "2026-01-24T18:29:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T19:29:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015129946327597485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1792011763875184640",
+          "start": 0,
+          "username": "lnmng5262080968"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015129946327597485",
+    "in_reply_to_user_id": "1792011763875184640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014929280720109582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lnmng5262080968 活的比国内98%的人都好不知道怎么抑郁的😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2014929280720109582",
+        "created_at": "2026-01-24T18:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T19:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015129946327597485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1792011763875184640",
+              "start": 0,
+              "username": "lnmng5262080968"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015129946327597485",
+        "in_reply_to_user_id": "1792011763875184640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014929280720109582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnmng5262080968 活的比国内98%的人都好不知道怎么抑郁的😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792011763875184640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2014929280720109582",
+        "created_at": "2026-01-24T05:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T06:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014929280720109582"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014929280720109582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 75416,
+          "like_count": 1115,
+          "quote_count": 14,
+          "reply_count": 47,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "ip超一线城市一个月生活费五位数还能出国留学的玉玉症地雷系亚比我看着就来气😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "♀ISFP/地雷/雙相/自傷/OD│ins：ry.231229",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "楡ちゃん",
+        "pinned_tweet_id": "1999479701568700562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013152824507392000/-1dLQwNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 8,
+          "like_count": 1498,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 96
+        },
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-19T01:58:03.000Z",
+        "description": "🚪52r一点点打赏我就很幸福 欢迎来到凛凛的阴暗小世界… 萌妹子互fo大欢迎 黄推勿扰",
+        "id": "1792011763875184640",
+        "location": "來世",
+        "name": "凛凛",
+        "pinned_tweet_id": "1875749441564766502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827703494901641217/zufunPkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1371,
+          "following_count": 299,
+          "like_count": 15170,
+          "listed_count": 4,
+          "media_count": 202,
+          "tweet_count": 5292
+        },
+        "username": "lnmng5262080968",
+        "verified": false
+      }
+    ]
+  }
+}

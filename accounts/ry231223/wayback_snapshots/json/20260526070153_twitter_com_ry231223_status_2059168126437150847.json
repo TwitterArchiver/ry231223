@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2058961799723323797",
+    "created_at": "2026-05-26T07:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T08:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059168126437150847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1757710478610972672",
+          "start": 0,
+          "username": "foreversungbaek"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059168126437150847",
+    "in_reply_to_user_id": "1757710478610972672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058961799723323797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@foreversungbaek jett就是很萌呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2058961799723323797",
+        "created_at": "2026-05-26T07:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T08:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059168126437150847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757710478610972672",
+              "start": 0,
+              "username": "foreversungbaek"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059168126437150847",
+        "in_reply_to_user_id": "1757710478610972672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058961799723323797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foreversungbaek jett就是很萌呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757710478610972672",
+        "conversation_id": "2058961799723323797",
+        "created_at": "2026-05-25T17:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T18:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058961799723323797"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058961799723323797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1646,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "但是jett和奶妈就是最配的呀中韩最美拉拉谢谢呀本人就是唯爱这种cp 导致我打瓦都会特意观察对局内的jett一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/地雷/雙相/自傷/od│只回fo同类 喜欢女生只回女生│我愛發什麼發什麼不愛看滾",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043585593389756416/LMOy-UNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 16,
+          "like_count": 1930,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 157
+        },
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T10:17:01.000Z",
+        "description": "07年那一首定情曲的前奏",
+        "id": "1757710478610972672",
+        "location": "600m",
+        "name": "我喜欢男高男大男研如何呢",
+        "pinned_tweet_id": "1867606742336500212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058945316733562881/54dpJLXa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7512,
+          "following_count": 269,
+          "like_count": 1558,
+          "listed_count": 14,
+          "media_count": 257,
+          "tweet_count": 3057
+        },
+        "username": "foreversungbaek",
+        "verified": false
+      }
+    ]
+  }
+}

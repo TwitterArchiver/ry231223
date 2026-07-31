@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2081008917619089912",
+    "created_at": "2026-07-25T13:29:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T14:29:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081008917619089912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1297748138191491077",
+          "start": 3,
+          "username": "Azusa040921"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081008917619089912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080962853822185682",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Azusa040921: 我再也不会卖萌了根本就没有人买"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2081008917619089912",
+        "created_at": "2026-07-25T13:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081008917619089912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1297748138191491077",
+              "start": 3,
+              "username": "Azusa040921"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081008917619089912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080962853822185682",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Azusa040921: 我再也不会卖萌了根本就没有人买"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1297748138191491077",
+        "conversation_id": "2080962853822185682",
+        "created_at": "2026-07-25T10:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080962853822185682"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080962853822185682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4073,
+          "like_count": 134,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "following",
+        "text": "我再也不会卖萌了根本就没有人买"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od\n要回fo請私信 只回同類和同好 互fo大歡迎~",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2074984648392982833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076596771678220288/P0YiwjKy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 62,
+          "like_count": 2591,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 260
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-24T04:10:57.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/shewo040921",
+                "end": 23,
+                "expanded_url": "https://lit.link/shewo040921",
+                "start": 0,
+                "url": "https://t.co/lz4v5xQ2LH"
+              }
+            ]
+          }
+        },
+        "id": "1297748138191491077",
+        "name": "蝸",
+        "pinned_tweet_id": "1806645642736881898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006979697650053122/ZFKzfGsu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177309,
+          "following_count": 34,
+          "like_count": 1454,
+          "listed_count": 447,
+          "media_count": 118,
+          "tweet_count": 1034
+        },
+        "url": "https://t.co/lz4v5xQ2LH",
+        "username": "Azusa040921",
+        "verified": true
+      }
+    ]
+  }
+}

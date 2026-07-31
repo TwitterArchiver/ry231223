@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993081583822360576",
+        "3_1993081586200567808"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "conversation_id": "1993081590319292747",
+    "created_at": "2025-11-24T22:17:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T23:17:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993081590319292747"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8oyocbBz4j",
+          "end": 64,
+          "expanded_url": "https://x.com/ry231223/status/1993081590319292747/photo/1",
+          "media_key": "3_1993081583822360576",
+          "start": 41,
+          "url": "https://t.co/8oyocbBz4j"
+        },
+        {
+          "display_url": "pic.x.com/8oyocbBz4j",
+          "end": 64,
+          "expanded_url": "https://x.com/ry231223/status/1993081590319292747/photo/1",
+          "media_key": "3_1993081586200567808",
+          "start": 41,
+          "url": "https://t.co/8oyocbBz4j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993081590319292747",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "发错货了啥意思，我特地o大了准备爽割，结果告诉我发错货了，可恶我的绷带被吃了吗！ https://t.co/8oyocbBz4j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1744,
+        "media_key": "3_1993081583822360576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6jZJAQa0AA2Xdd.jpg",
+        "width": 972
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1993081586200567808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6jZJJHbYAAGxzS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993081583822360576",
+            "3_1993081586200567808"
+          ]
+        },
+        "author_id": "1886421046640902144",
+        "conversation_id": "1993081590319292747",
+        "created_at": "2025-11-24T22:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T23:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993081590319292747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8oyocbBz4j",
+              "end": 64,
+              "expanded_url": "https://x.com/ry231223/status/1993081590319292747/photo/1",
+              "media_key": "3_1993081583822360576",
+              "start": 41,
+              "url": "https://t.co/8oyocbBz4j"
+            },
+            {
+              "display_url": "pic.x.com/8oyocbBz4j",
+              "end": 64,
+              "expanded_url": "https://x.com/ry231223/status/1993081590319292747/photo/1",
+              "media_key": "3_1993081586200567808",
+              "start": 41,
+              "url": "https://t.co/8oyocbBz4j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993081590319292747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发错货了啥意思，我特地o大了准备爽割，结果告诉我发错货了，可恶我的绷带被吃了吗！ https://t.co/8oyocbBz4j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "入机INFJ-T│09♀/雙相/自傷/OD",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "融冬",
+        "pinned_tweet_id": "1949879251873702160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978196190194704384/DnKiYerA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 8,
+          "like_count": 1361,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 153
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

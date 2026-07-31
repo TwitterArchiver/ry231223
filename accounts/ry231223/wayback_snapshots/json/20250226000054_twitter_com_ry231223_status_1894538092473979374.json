@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1894538065714319360",
+        "3_1894538067127451649",
+        "3_1894538067018747904",
+        "3_1894538066972610564"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1894538092473979374",
+    "created_at": "2025-02-26T00:00:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-26T01:00:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894538092473979374"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dDJf4vsaNL",
+          "end": 43,
+          "expanded_url": "https://x.com/ry231223/status/1894538092473979374/photo/1",
+          "media_key": "3_1894538065714319360",
+          "start": 20,
+          "url": "https://t.co/dDJf4vsaNL"
+        },
+        {
+          "display_url": "pic.x.com/dDJf4vsaNL",
+          "end": 43,
+          "expanded_url": "https://x.com/ry231223/status/1894538092473979374/photo/1",
+          "media_key": "3_1894538067127451649",
+          "start": 20,
+          "url": "https://t.co/dDJf4vsaNL"
+        },
+        {
+          "display_url": "pic.x.com/dDJf4vsaNL",
+          "end": 43,
+          "expanded_url": "https://x.com/ry231223/status/1894538092473979374/photo/1",
+          "media_key": "3_1894538067018747904",
+          "start": 20,
+          "url": "https://t.co/dDJf4vsaNL"
+        },
+        {
+          "display_url": "pic.x.com/dDJf4vsaNL",
+          "end": 43,
+          "expanded_url": "https://x.com/ry231223/status/1894538092473979374/photo/1",
+          "media_key": "3_1894538066972610564",
+          "start": 20,
+          "url": "https://t.co/dDJf4vsaNL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894538092473979374",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "浅割一下，我待会还要睡觉，我怕沾上睡衣 https://t.co/dDJf4vsaNL"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1894538092473979374].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1894538092473979374",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1894538092473979374"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1894538065714319360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkrAVURbkAAXsf7.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1894538067127451649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkrAVZiWQAEmFSf.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1894538067018747904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkrAVZIbkAA9EDM.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1894538066972610564",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkrAVY9bkAQgGhu.jpg",
+        "width": 1440
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "祝你天天开心│INFJ-T/重抑/重焦/躁狂/自伤/od",
+        "id": "1886421046640902144",
+        "name": "这破世界到底有谁在啊",
+        "pinned_tweet_id": "1894531797838696828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894450132969730048/75od3Iam_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 7,
+          "like_count": 286,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 262
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

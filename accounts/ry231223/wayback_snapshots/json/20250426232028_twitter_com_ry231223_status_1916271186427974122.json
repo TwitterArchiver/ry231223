@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "1889307483518505415",
+    "created_at": "2025-04-26T23:20:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T00:20:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916271186427974122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1684842093523685376",
+          "start": 0,
+          "username": "Q2GVegPWMF3090"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916271186427974122",
+    "in_reply_to_user_id": "1684842093523685376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889307483518505415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Q2GVegPWMF3090 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "1889307483518505415",
+        "created_at": "2025-04-26T23:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T00:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916271186427974122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1684842093523685376",
+              "start": 0,
+              "username": "Q2GVegPWMF3090"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916271186427974122",
+        "in_reply_to_user_id": "1684842093523685376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889307483518505415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Q2GVegPWMF3090 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684842093523685376",
+        "conversation_id": "1889307483518505415",
+        "created_at": "2025-02-11T13:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T14:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889307483518505415"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "od"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "药代"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889307483518505415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1427,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#od #药代  突破200关注 抽五个粉丝送普瑞巴林"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "视奸我的犷妾默认死全家│09♀/雙相/自傷/OD/自殺史*3│INFJ-T  社恐重度患者，看我不爽私信随意",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "藤が青糸をなでる",
+        "pinned_tweet_id": "1900995745286943062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915275448587870210/jVl00rDK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 27,
+          "like_count": 794,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 77
+        },
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T08:24:05.000Z",
+        "description": "女同 le｜买药➕q 3945105873 抄袭价格表的死全家",
+        "id": "1684842093523685376",
+        "name": "lock【药代】",
+        "pinned_tweet_id": "1870062679030698047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875812033851002880/dcH9dWpo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 222,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 67
+        },
+        "username": "Q2GVegPWMF3090",
+        "verified": false
+      }
+    ]
+  }
+}

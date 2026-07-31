@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036143049798197248",
+        "3_2036143046564388864",
+        "3_2036143047214505986",
+        "3_2036143043951378432"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2036143055087280544",
+    "created_at": "2026-03-23T18:08:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T19:08:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036143055087280544"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/K9TXssYOfb",
+          "end": 91,
+          "expanded_url": "https://x.com/ry231223/status/2036143055087280544/photo/1",
+          "media_key": "3_2036143049798197248",
+          "start": 68,
+          "url": "https://t.co/K9TXssYOfb"
+        },
+        {
+          "display_url": "pic.x.com/K9TXssYOfb",
+          "end": 91,
+          "expanded_url": "https://x.com/ry231223/status/2036143055087280544/photo/1",
+          "media_key": "3_2036143046564388864",
+          "start": 68,
+          "url": "https://t.co/K9TXssYOfb"
+        },
+        {
+          "display_url": "pic.x.com/K9TXssYOfb",
+          "end": 91,
+          "expanded_url": "https://x.com/ry231223/status/2036143055087280544/photo/1",
+          "media_key": "3_2036143047214505986",
+          "start": 68,
+          "url": "https://t.co/K9TXssYOfb"
+        },
+        {
+          "display_url": "pic.x.com/K9TXssYOfb",
+          "end": 91,
+          "expanded_url": "https://x.com/ry231223/status/2036143055087280544/photo/1",
+          "media_key": "3_2036143043951378432",
+          "start": 68,
+          "url": "https://t.co/K9TXssYOfb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036143055087280544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "24t普瑞巴林+8t愈美片+8t普瑞巴林\n直播的时候好正常就是晕mc，后来没什么反应我在想是不是耐受了，直播完不舒服又连用了，希望有用 https://t.co/K9TXssYOfb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2036143049798197248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEHVUNsaIAASkpf.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2036143046564388864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEHVUBpaIAA0P0n.jpg",
+        "width": 1535
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2036143047214505986",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEHVUEEaIAIQXXI.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2036143043951378432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEHVT36awAAzyN0.jpg",
+        "width": 1535
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036143049798197248",
+            "3_2036143046564388864",
+            "3_2036143047214505986",
+            "3_2036143043951378432"
+          ]
+        },
+        "author_id": "1886421046640902144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2036143055087280544",
+        "created_at": "2026-03-23T18:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T19:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036143055087280544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K9TXssYOfb",
+              "end": 91,
+              "expanded_url": "https://x.com/ry231223/status/2036143055087280544/photo/1",
+              "media_key": "3_2036143049798197248",
+              "start": 68,
+              "url": "https://t.co/K9TXssYOfb"
+            },
+            {
+              "display_url": "pic.x.com/K9TXssYOfb",
+              "end": 91,
+              "expanded_url": "https://x.com/ry231223/status/2036143055087280544/photo/1",
+              "media_key": "3_2036143046564388864",
+              "start": 68,
+              "url": "https://t.co/K9TXssYOfb"
+            },
+            {
+              "display_url": "pic.x.com/K9TXssYOfb",
+              "end": 91,
+              "expanded_url": "https://x.com/ry231223/status/2036143055087280544/photo/1",
+              "media_key": "3_2036143047214505986",
+              "start": 68,
+              "url": "https://t.co/K9TXssYOfb"
+            },
+            {
+              "display_url": "pic.x.com/K9TXssYOfb",
+              "end": 91,
+              "expanded_url": "https://x.com/ry231223/status/2036143055087280544/photo/1",
+              "media_key": "3_2036143043951378432",
+              "start": 68,
+              "url": "https://t.co/K9TXssYOfb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036143055087280544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "24t普瑞巴林+8t愈美片+8t普瑞巴林\n直播的时候好正常就是晕mc，后来没什么反应我在想是不是耐受了，直播完不舒服又连用了，希望有用 https://t.co/K9TXssYOfb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀ISFP/地雷/雙相/自傷/OD│ins：ry.231229",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020873447883390976/CLWmdQnE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 7,
+          "like_count": 1652,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 104
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

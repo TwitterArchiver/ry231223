@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2076079744571896043",
+    "created_at": "2026-07-12T04:15:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T05:15:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076158555149795346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2074453617030090752",
+          "start": 0,
+          "username": "pvwk7c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076158555149795346",
+    "in_reply_to_user_id": "2074453617030090752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076079744571896043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pvwk7c 长的也像"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076079732433539072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM-3hGEW0AAvgTC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2076079744571896043",
+        "created_at": "2026-07-12T04:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T05:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076158555149795346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2074453617030090752",
+              "start": 0,
+              "username": "pvwk7c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076158555149795346",
+        "in_reply_to_user_id": "2074453617030090752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076079744571896043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pvwk7c 长的也像"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076079732433539072"
+          ]
+        },
+        "author_id": "2074453617030090752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2076079744571896043",
+        "created_at": "2026-07-11T23:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T00:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076079744571896043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9wd0nFQf3G",
+              "end": 39,
+              "expanded_url": "https://x.com/pvwk7c/status/2076079744571896043/photo/1",
+              "media_key": "3_2076079732433539072",
+              "start": 16,
+              "url": "https://t.co/9wd0nFQf3G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076079744571896043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好尼玛难吃。像一堆蟑螂产的卵。 https://t.co/9wd0nFQf3G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od\n要回fo請私信 只回同類和同好 互fo大歡迎~",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2074984648392982833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066982017397596160/nvBcRppn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 59,
+          "like_count": 2528,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 244
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-07T11:24:14.000Z",
+        "description": "💕OD | 餐卷妹 | 165 79 | 正常聊天欢迎| 直fo就是喜欢你吖｜大号@nigich436594",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "nigich436594"
+              }
+            ]
+          }
+        },
+        "id": "2074453617030090752",
+        "location": "🚪77聊天好友位",
+        "name": "小猫",
+        "pinned_tweet_id": "2074458895955939382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074455267388104705/9WMGUXHR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 83,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 41
+        },
+        "url": "",
+        "username": "pvwk7c",
+        "verified": false
+      }
+    ]
+  }
+}

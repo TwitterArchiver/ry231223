@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2054995505739104331",
+    "created_at": "2026-05-24T19:58:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T20:58:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058638761341145496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2055690206385508352",
+          "start": 0,
+          "username": "Xiangcaiep05w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058638761341145496",
+    "in_reply_to_user_id": "2055690206385508352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058598922097189030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiangcaiep05w 所以呢？緩解又不代表我這次一定死，不愛看滾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2054995505739104331",
+        "created_at": "2026-05-24T19:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T20:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058638761341145496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2055690206385508352",
+              "start": 0,
+              "username": "Xiangcaiep05w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058638761341145496",
+        "in_reply_to_user_id": "2055690206385508352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058598922097189030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiangcaiep05w 所以呢？緩解又不代表我這次一定死，不愛看滾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055690206385508352",
+        "conversation_id": "2054995505739104331",
+        "created_at": "2026-05-24T17:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T18:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058598922097189030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1886421046640902144",
+              "start": 0,
+              "username": "ry231223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058598922097189030",
+        "in_reply_to_user_id": "1886421046640902144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054995505739104331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ry231223 不错知道避开大动脉，毛细血管破了又死不了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/地雷/雙相/自傷/od│只回fo同类 喜欢女生│我愛發什麼發什麼不愛看別關注我",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043585593389756416/LMOy-UNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 13,
+          "like_count": 1809,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 132
+        },
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T16:42:57.000Z",
+        "description": "",
+        "id": "2055690206385508352",
+        "name": "孙川笑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055690792413614080/EMlxGjk-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 15,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "username": "Xiangcaiep05w",
+        "verified": false
+      }
+    ]
+  }
+}

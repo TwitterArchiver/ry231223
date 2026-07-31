@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "1915747954339488162",
+    "created_at": "2025-04-26T00:07:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T01:07:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915920712969425296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1240139405077229568",
+          "start": 0,
+          "username": "udbeis1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915920712969425296",
+    "in_reply_to_user_id": "1240139405077229568",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915747954339488162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@udbeis1 0.3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "1915747954339488162",
+        "created_at": "2025-04-26T00:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T01:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915920712969425296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1240139405077229568",
+              "start": 0,
+              "username": "udbeis1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915920712969425296",
+        "in_reply_to_user_id": "1240139405077229568",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915747954339488162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@udbeis1 0.3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1240139405077229568",
+        "conversation_id": "1915747954339488162",
+        "created_at": "2025-04-25T12:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T13:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915747954339488162"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1915747954339488162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 24524,
+          "like_count": 187,
+          "quote_count": 2,
+          "reply_count": 110,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "为了防止大家玩手机玩傻了 考考大家0.5×0.6等于多少？😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "视奸我的犷妾默认死全家│09♀/雙相/自傷/OD/自殺史*3",
+        "id": "1886421046640902144",
+        "name": "藤が青糸をなでる",
+        "pinned_tweet_id": "1900995745286943062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915275448587870210/jVl00rDK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 16,
+          "like_count": 746,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 71
+        },
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-18T04:54:23.000Z",
+        "description": "你发现我了",
+        "id": "1240139405077229568",
+        "name": "人类圈养计划",
+        "pinned_tweet_id": "1913443766435795421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907829697536495616/GovOhu76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 68,
+          "like_count": 1417,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 367
+        },
+        "username": "udbeis1",
+        "verified": false
+      }
+    ]
+  }
+}

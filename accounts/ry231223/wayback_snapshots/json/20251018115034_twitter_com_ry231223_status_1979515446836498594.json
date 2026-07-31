@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979515346244542464",
+        "3_1979515346257141760"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "conversation_id": "1979515446836498594",
+    "created_at": "2025-10-18T11:50:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T12:50:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979515446836498594"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nLiZ9s1XIT",
+          "end": 43,
+          "expanded_url": "https://x.com/ry231223/status/1979515446836498594/photo/1",
+          "media_key": "3_1979515346244542464",
+          "start": 20,
+          "url": "https://t.co/nLiZ9s1XIT"
+        },
+        {
+          "display_url": "pic.x.com/nLiZ9s1XIT",
+          "end": 43,
+          "expanded_url": "https://x.com/ry231223/status/1979515446836498594/photo/1",
+          "media_key": "3_1979515346257141760",
+          "start": 20,
+          "url": "https://t.co/nLiZ9s1XIT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979515446836498594",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ᐝ ꙳ （๑⃙⃘´༥`๑⃙⃘) 𐂐 ჻ https://t.co/nLiZ9s1XIT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979515346244542464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3imuDBXIAApSQm.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1979515346257141760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3imuDEXYAAq0UH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979515346244542464",
+            "3_1979515346257141760"
+          ]
+        },
+        "author_id": "1886421046640902144",
+        "conversation_id": "1979515446836498594",
+        "created_at": "2025-10-18T11:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T12:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979515446836498594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nLiZ9s1XIT",
+              "end": 43,
+              "expanded_url": "https://x.com/ry231223/status/1979515446836498594/photo/1",
+              "media_key": "3_1979515346244542464",
+              "start": 20,
+              "url": "https://t.co/nLiZ9s1XIT"
+            },
+            {
+              "display_url": "pic.x.com/nLiZ9s1XIT",
+              "end": 43,
+              "expanded_url": "https://x.com/ry231223/status/1979515446836498594/photo/1",
+              "media_key": "3_1979515346257141760",
+              "start": 20,
+              "url": "https://t.co/nLiZ9s1XIT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979515446836498594",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ᐝ ꙳ （๑⃙⃘´༥`๑⃙⃘) 𐂐 ჻ https://t.co/nLiZ9s1XIT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "绝望的内向100%入机INFJ-T│09♀/雙相/自傷/OD",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "融冬",
+        "pinned_tweet_id": "1949879251873702160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978196190194704384/DnKiYerA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 8,
+          "like_count": 1386,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 148
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

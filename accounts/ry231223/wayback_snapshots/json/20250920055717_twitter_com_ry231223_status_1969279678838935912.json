@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "1967733933518491688",
+    "created_at": "2025-09-20T05:57:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T06:57:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969279678838935912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1775557501016297472",
+          "start": 0,
+          "username": "Ayanami090130"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969279678838935912",
+    "in_reply_to_user_id": "1775557501016297472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969272263657587100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayanami090130 地狱也可以是天堂（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "1967733933518491688",
+        "created_at": "2025-09-20T05:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T06:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969279678838935912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1775557501016297472",
+              "start": 0,
+              "username": "Ayanami090130"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969279678838935912",
+        "in_reply_to_user_id": "1775557501016297472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969272263657587100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanami090130 地狱也可以是天堂（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775557501016297472",
+        "conversation_id": "1967733933518491688",
+        "created_at": "2025-09-20T05:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T06:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969272263657587100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1886421046640902144",
+              "start": 0,
+              "username": "ry231223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969272263657587100",
+        "in_reply_to_user_id": "1886421046640902144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968557257269915814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ry231223 踏上药物滥的道路之后就是地狱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "绝望的内向100%入机INFJ-T│09♀/雙相/自傷/OD",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "朱欒語",
+        "pinned_tweet_id": "1949879251873702160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968557577911889920/Dlf5TLUG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 8,
+          "like_count": 1401,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 145
+        },
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T16:14:47.000Z",
+        "description": "叫我程程或者程少就好！09 性别薯条（加盐版）每天喜欢高强度od 私聊赞赏码 把推当日记发 偶尔出cos🚪88求溺爱（私信找我要收款码)",
+        "id": "1775557501016297472",
+        "location": "Taiwan",
+        "name": "一生当小三的命苦小cc",
+        "pinned_tweet_id": "1968545743045804460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915991324949680130/rlU7Qwq6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 80,
+          "like_count": 477,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 441
+        },
+        "username": "Ayanami090130",
+        "verified": false
+      }
+    ]
+  }
+}

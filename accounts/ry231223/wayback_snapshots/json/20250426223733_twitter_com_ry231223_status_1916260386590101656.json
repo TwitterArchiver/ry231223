@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1916260359213871104",
+        "3_1916260359213858816",
+        "3_1916260359209684993"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1916260386590101656",
+    "created_at": "2025-04-26T22:37:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T23:37:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1916260386590101656"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 98,
+          "start": 94,
+          "tag": "代號鳶"
+        },
+        {
+          "end": 103,
+          "start": 99,
+          "tag": "孫尚香"
+        },
+        {
+          "end": 107,
+          "start": 104,
+          "tag": "孫權"
+        },
+        {
+          "end": 116,
+          "start": 108,
+          "tag": "cosplay"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kPdu1LXkNa",
+          "end": 140,
+          "expanded_url": "https://x.com/ry231223/status/1916260386590101656/photo/1",
+          "media_key": "3_1916260359213871104",
+          "start": 117,
+          "url": "https://t.co/kPdu1LXkNa"
+        },
+        {
+          "display_url": "pic.x.com/kPdu1LXkNa",
+          "end": 140,
+          "expanded_url": "https://x.com/ry231223/status/1916260386590101656/photo/1",
+          "media_key": "3_1916260359213858816",
+          "start": 117,
+          "url": "https://t.co/kPdu1LXkNa"
+        },
+        {
+          "display_url": "pic.x.com/kPdu1LXkNa",
+          "end": 140,
+          "expanded_url": "https://x.com/ry231223/status/1916260386590101656/photo/1",
+          "media_key": "3_1916260359209684993",
+          "start": 117,
+          "url": "https://t.co/kPdu1LXkNa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916260386590101656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中山·淋唔到 d1│鸢孙权孙尚香 场照\n\n“本月第十七次，孙权被妹妹欺负到崩溃大哭冲出府门。”\n——————————————\n出镜：秋悠/抽风草履虫\n摄影：艾比\n后期：秋悠/抽风草履虫\n\n#代號鳶 #孫尚香 #孫權 #cosplay https://t.co/kPdu1LXkNa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2112,
+        "media_key": "3_1916260359213871104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpfspNga8AA5pc8.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1600,
+        "media_key": "3_1916260359213858816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpfspNgawAAGh0u.jpg",
+        "width": 2112
+      },
+      {
+        "height": 1600,
+        "media_key": "3_1916260359209684993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpfspNfbEAE4UPI.jpg",
+        "width": 2112
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916260359213871104",
+            "3_1916260359213858816",
+            "3_1916260359209684993"
+          ]
+        },
+        "author_id": "1886421046640902144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1916260386590101656",
+        "created_at": "2025-04-26T22:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T23:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916260386590101656"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 98,
+              "start": 94,
+              "tag": "代號鳶"
+            },
+            {
+              "end": 103,
+              "start": 99,
+              "tag": "孫尚香"
+            },
+            {
+              "end": 107,
+              "start": 104,
+              "tag": "孫權"
+            },
+            {
+              "end": 116,
+              "start": 108,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kPdu1LXkNa",
+              "end": 140,
+              "expanded_url": "https://x.com/ry231223/status/1916260386590101656/photo/1",
+              "media_key": "3_1916260359213871104",
+              "start": 117,
+              "url": "https://t.co/kPdu1LXkNa"
+            },
+            {
+              "display_url": "pic.x.com/kPdu1LXkNa",
+              "end": 140,
+              "expanded_url": "https://x.com/ry231223/status/1916260386590101656/photo/1",
+              "media_key": "3_1916260359213858816",
+              "start": 117,
+              "url": "https://t.co/kPdu1LXkNa"
+            },
+            {
+              "display_url": "pic.x.com/kPdu1LXkNa",
+              "end": 140,
+              "expanded_url": "https://x.com/ry231223/status/1916260386590101656/photo/1",
+              "media_key": "3_1916260359209684993",
+              "start": 117,
+              "url": "https://t.co/kPdu1LXkNa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916260386590101656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中山·淋唔到 d1│鸢孙权孙尚香 场照\n\n“本月第十七次，孙权被妹妹欺负到崩溃大哭冲出府门。”\n——————————————\n出镜：秋悠/抽风草履虫\n摄影：艾比\n后期：秋悠/抽风草履虫\n\n#代號鳶 #孫尚香 #孫權 #cosplay https://t.co/kPdu1LXkNa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "视奸我的犷妾默认死全家│09♀/雙相/自傷/OD/自殺史*3│INFJ-T  社恐重度患者，看我不爽私信随意",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "藤が青糸をなでる",
+        "pinned_tweet_id": "1900995745286943062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915275448587870210/jVl00rDK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 24,
+          "like_count": 758,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 74
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

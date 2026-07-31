@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933279348544712707",
+        "3_1933279349425516548"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1933279352751600091",
+    "created_at": "2025-06-12T21:44:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T22:44:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933279352751600091"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6lHvqPURnx",
+          "end": 38,
+          "expanded_url": "https://x.com/ry231223/status/1933279352751600091/photo/1",
+          "media_key": "3_1933279348544712707",
+          "start": 15,
+          "url": "https://t.co/6lHvqPURnx"
+        },
+        {
+          "display_url": "pic.x.com/6lHvqPURnx",
+          "end": 38,
+          "expanded_url": "https://x.com/ry231223/status/1933279352751600091/photo/1",
+          "media_key": "3_1933279349425516548",
+          "start": 15,
+          "url": "https://t.co/6lHvqPURnx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933279352751600091",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "友達は薬よりもずっと効くね🥺 https://t.co/6lHvqPURnx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 648,
+        "media_key": "3_1933279348544712707",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtRjUxWbMAM4QO6.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1933279349425516548",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtRjU0obMAQQ7Vy.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933279348544712707",
+            "3_1933279349425516548"
+          ]
+        },
+        "author_id": "1886421046640902144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1933279352751600091",
+        "created_at": "2025-06-12T21:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T22:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933279352751600091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6lHvqPURnx",
+              "end": 38,
+              "expanded_url": "https://x.com/ry231223/status/1933279352751600091/photo/1",
+              "media_key": "3_1933279348544712707",
+              "start": 15,
+              "url": "https://t.co/6lHvqPURnx"
+            },
+            {
+              "display_url": "pic.x.com/6lHvqPURnx",
+              "end": 38,
+              "expanded_url": "https://x.com/ry231223/status/1933279352751600091/photo/1",
+              "media_key": "3_1933279349425516548",
+              "start": 15,
+              "url": "https://t.co/6lHvqPURnx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933279352751600091",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "友達は薬よりもずっと効くね🥺 https://t.co/6lHvqPURnx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "又来啦 視奸我的犷妾全家被仠杀哦│09順女 INFJ-T/雙相/自傷/OD  喜欢半夜出没│🚪40纯绿",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "クレイジーゾウリ",
+        "pinned_tweet_id": "1930514812913520642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931429361523310592/_N7MPk3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 12,
+          "like_count": 1423,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 126
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

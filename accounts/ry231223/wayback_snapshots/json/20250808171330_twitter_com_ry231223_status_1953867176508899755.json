@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953867125111853056",
+        "3_1953867172515917828",
+        "3_1953867125095116803"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1953867176508899755",
+    "created_at": "2025-08-08T17:13:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T18:13:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953867176508899755"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TfJVv7PlZI",
+          "end": 52,
+          "expanded_url": "https://x.com/ry231223/status/1953867176508899755/photo/1",
+          "media_key": "3_1953867125111853056",
+          "start": 29,
+          "url": "https://t.co/TfJVv7PlZI"
+        },
+        {
+          "display_url": "pic.x.com/TfJVv7PlZI",
+          "end": 52,
+          "expanded_url": "https://x.com/ry231223/status/1953867176508899755/photo/1",
+          "media_key": "3_1953867172515917828",
+          "start": 29,
+          "url": "https://t.co/TfJVv7PlZI"
+        },
+        {
+          "display_url": "pic.x.com/TfJVv7PlZI",
+          "end": 52,
+          "expanded_url": "https://x.com/ry231223/status/1953867176508899755/photo/1",
+          "media_key": "3_1953867125095116803",
+          "start": 29,
+          "url": "https://t.co/TfJVv7PlZI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953867176508899755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在路上看见的小狗玩偶，觉得你会喜欢…休沐日一起去郊游吧？ https://t.co/TfJVv7PlZI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1953867125111853056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx2HzFqbEAAnvoU.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1953867172515917828",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx2H12QbsAQOaIK.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1953867125095116803",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx2HzFmbsAMRXi2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953867125111853056",
+            "3_1953867172515917828",
+            "3_1953867125095116803"
+          ]
+        },
+        "author_id": "1886421046640902144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1953867176508899755",
+        "created_at": "2025-08-08T17:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T18:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953867176508899755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TfJVv7PlZI",
+              "end": 52,
+              "expanded_url": "https://x.com/ry231223/status/1953867176508899755/photo/1",
+              "media_key": "3_1953867125111853056",
+              "start": 29,
+              "url": "https://t.co/TfJVv7PlZI"
+            },
+            {
+              "display_url": "pic.x.com/TfJVv7PlZI",
+              "end": 52,
+              "expanded_url": "https://x.com/ry231223/status/1953867176508899755/photo/1",
+              "media_key": "3_1953867172515917828",
+              "start": 29,
+              "url": "https://t.co/TfJVv7PlZI"
+            },
+            {
+              "display_url": "pic.x.com/TfJVv7PlZI",
+              "end": 52,
+              "expanded_url": "https://x.com/ry231223/status/1953867176508899755/photo/1",
+              "media_key": "3_1953867125095116803",
+              "start": 29,
+              "url": "https://t.co/TfJVv7PlZI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953867176508899755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在路上看见的小狗玩偶，觉得你会喜欢…休沐日一起去郊游吧？ https://t.co/TfJVv7PlZI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "绝望的内向100%入机INFJ-T│09♀/雙相/自傷/OD",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "クレイジーゾウリ",
+        "pinned_tweet_id": "1949879251873702160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939955205795086336/0Y5PJw_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 9,
+          "like_count": 1432,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 141
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

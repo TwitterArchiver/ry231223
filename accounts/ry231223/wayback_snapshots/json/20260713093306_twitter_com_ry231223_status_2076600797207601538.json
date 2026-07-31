@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2076600797207601538",
+    "created_at": "2026-07-13T09:33:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T10:33:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076600797207601538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1897988176343711746",
+          "start": 3,
+          "username": "FuraaLove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076600797207601538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076017377746223434",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FuraaLove: 我有时候看见推上的女孩子互骂真的感到恐惧，源源不断的辱女恶毒词讲出来就是为了刺痛对方。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2076600797207601538",
+        "created_at": "2026-07-13T09:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T10:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076600797207601538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1897988176343711746",
+              "start": 3,
+              "username": "FuraaLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076600797207601538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076017377746223434",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FuraaLove: 我有时候看见推上的女孩子互骂真的感到恐惧，源源不断的辱女恶毒词讲出来就是为了刺痛对方。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897988176343711746",
+        "conversation_id": "2076017377746223434",
+        "created_at": "2026-07-11T18:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T19:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076017377746223434"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076017377746223434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 92989,
+          "like_count": 1721,
+          "quote_count": 5,
+          "reply_count": 101,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "我有时候看见推上的女孩子互骂真的感到恐惧，源源不断的辱女恶毒词讲出来就是为了刺痛对方。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od\n要回fo請私信 只回同類和同好 互fo大歡迎~",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2074984648392982833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076596771678220288/P0YiwjKy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 61,
+          "like_count": 2558,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 246
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T12:30:25.000Z",
+        "description": "人间体小魅魔芙拉姬，173/52kg/06\n欲望探索者，躁动的魅魔之心感到愉悦，污堕的信徒。\n喜欢我就再多夸夸我吧 /switch/\n如果不喜欢我可以屏蔽我喔不要骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/furaalove",
+                "end": 23,
+                "expanded_url": "https://ngl.link/furaalove",
+                "start": 0,
+                "url": "https://t.co/8f2oIwgzbT"
+              }
+            ]
+          }
+        },
+        "id": "1897988176343711746",
+        "location": "无🚪",
+        "name": "居然是芙拉吗",
+        "pinned_tweet_id": "2040567383715451206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040193931485564928/izoowqmk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4984,
+          "following_count": 52,
+          "like_count": 1026,
+          "listed_count": 18,
+          "media_count": 99,
+          "tweet_count": 734
+        },
+        "url": "https://t.co/8f2oIwgzbT",
+        "username": "FuraaLove",
+        "verified": false
+      }
+    ]
+  }
+}

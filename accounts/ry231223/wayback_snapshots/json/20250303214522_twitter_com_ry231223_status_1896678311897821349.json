@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "1896678311897821349",
+    "created_at": "2025-03-03T21:45:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T22:45:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896678311897821349"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1896678311897821349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想od，晕的时候割没那么疼，我喜欢看血流出来的时候，感觉麻麻小痛小痛的很舒服，但是都是睡醒的时候晕，大概一天左右，我怕我妈发现我不对劲我就死定了，我想出去住好吗。我想自己一个人住。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "1896678311897821349",
+        "created_at": "2025-03-03T21:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T22:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896678311897821349"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896678311897821349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想od，晕的时候割没那么疼，我喜欢看血流出来的时候，感觉麻麻小痛小痛的很舒服，但是都是睡醒的时候晕，大概一天左右，我怕我妈发现我不对劲我就死定了，我想出去住好吗。我想自己一个人住。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "description": "祝你天天开心│INFJ-T/重抑/重焦/躁狂/自伤/od",
+        "id": "1886421046640902144",
+        "name": "这破世界到底有谁在啊",
+        "pinned_tweet_id": "1894531797838696828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894450132969730048/75od3Iam_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 9,
+          "like_count": 340,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 278
+        },
+        "username": "ry231223",
+        "verified": false
+      }
+    ]
+  }
+}

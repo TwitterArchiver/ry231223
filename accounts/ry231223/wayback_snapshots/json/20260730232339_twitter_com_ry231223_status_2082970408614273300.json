@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2082763821429543290",
+    "created_at": "2026-07-30T23:23:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T00:23:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082970408614273300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1680583362912870400",
+          "start": 0,
+          "username": "Tamako716268164"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082970408614273300",
+    "in_reply_to_user_id": "1680583362912870400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082795291770769843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tamako716268164 谢谢老师呀🥺🤲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2082763821429543290",
+        "created_at": "2026-07-30T23:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T00:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082970408614273300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1680583362912870400",
+              "start": 0,
+              "username": "Tamako716268164"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082970408614273300",
+        "in_reply_to_user_id": "1680583362912870400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082795291770769843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tamako716268164 谢谢老师呀🥺🤲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680583362912870400",
+        "conversation_id": "2082763821429543290",
+        "created_at": "2026-07-30T11:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T12:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082795291770769843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1886421046640902144",
+              "start": 0,
+              "username": "ry231223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082795291770769843",
+        "in_reply_to_user_id": "1886421046640902144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082763821429543290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ry231223 竟然刷到后续了 希望博主和朋友都好好的 希望你们不要再发生有关的事情了 祝福你们😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od\n要回fo請私信 只回同類和同好 互fo大歡迎~",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2074984648392982833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082767547745648640/kmJp-qQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 67,
+          "like_count": 2668,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 268
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T14:21:27.000Z",
+        "description": "爱上听得懂自己语言的人 就不用花一辈子来翻译自己的灵魂",
+        "id": "1680583362912870400",
+        "name": "Lagom",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028538341428436992/ZhRI_NHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 12,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 121
+        },
+        "url": "",
+        "username": "Tamako716268164",
+        "verified": false
+      }
+    ]
+  }
+}

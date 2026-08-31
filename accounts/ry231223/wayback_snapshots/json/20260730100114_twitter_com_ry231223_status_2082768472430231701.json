@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2082364284466757791",
+    "created_at": "2026-07-30T10:01:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T11:01:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082768472430231701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1398719365328084992",
+          "start": 0,
+          "username": "xizi9696"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082768472430231701",
+    "in_reply_to_user_id": "1398719365328084992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082483957074145374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xizi9696 救回来了她问我吃啥了我不就说了吗？她都知道我吃了啥反应了，我三令五申跟她说自杀别吃这傻缺东西，你他妈知道我们两发生了个啥啊在这叫，骂人用表子你也是个蛆来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2082364284466757791",
+        "created_at": "2026-07-30T10:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T11:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082768472430231701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1398719365328084992",
+              "start": 0,
+              "username": "xizi9696"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082768472430231701",
+        "in_reply_to_user_id": "1398719365328084992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082483957074145374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xizi9696 救回来了她问我吃啥了我不就说了吗？她都知道我吃了啥反应了，我三令五申跟她说自杀别吃这傻缺东西，你他妈知道我们两发生了个啥啊在这叫，骂人用表子你也是个蛆来的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1398719365328084992",
+        "conversation_id": "2082364284466757791",
+        "created_at": "2026-07-29T15:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082483957074145374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1886421046640902144",
+              "start": 0,
+              "username": "ry231223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082483957074145374",
+        "in_reply_to_user_id": "1886421046640902144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 801,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082364284466757791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ry231223 臭婊子你他妈不说人家会知道吗 憋着不说会死吗 装什么呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od\n要回fo請私信 只回同類和同好 互fo大歡迎~",
+        "id": "1886421046640902144",
+        "location": "Macau",
+        "name": "nire",
+        "pinned_tweet_id": "2074984648392982833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082767547745648640/kmJp-qQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 68,
+          "like_count": 2664,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 266
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-29T19:14:32.000Z",
+        "description": "碎碎念bot｜清水日常｜06",
+        "id": "1398719365328084992",
+        "location": "纯绿🚪2778",
+        "name": "404",
+        "pinned_tweet_id": "1586422891071037448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819057619530928135/Ye6PZp3I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 63,
+          "like_count": 770,
+          "listed_count": 4,
+          "media_count": 22,
+          "tweet_count": 395
+        },
+        "url": "",
+        "username": "xizi9696",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,664 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10050265672",
+          "name": "RWBY ルビー"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1509314345531953157",
+          "name": "RWBY"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1192082698568814592",
+          "name": "Animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281311833593282560",
+          "name": "Adult animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299365067415154689",
+          "name": "Animation news"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1509314345531953157",
+          "name": "RWBY"
+        }
+      }
+    ],
+    "conversation_id": "2089465786087936182",
+    "created_at": "2026-08-17T21:33:58.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T22:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089465786087936182"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 51,
+          "start": 46,
+          "tag": "推しの子"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1524226624472100864",
+          "start": 3,
+          "username": "anime_oshinoko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089465786087936182",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6953
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088956768894554358",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anime_oshinoko: 『星に導かれ、最後の舞台へ＿＿』\n\n━━TVアニメ【#推しの子】━━\n　　　第4期 Final Season\n　　ティザービジュアル公開\n━━━━━━━━━━━━━━━\n\n運命を背負い、芸能の世界を生きるアクアとルビー。\nふたりは、それぞ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45045,
+        "height": 1080,
+        "media_key": "13_2088527200480059392",
+        "preview_image_url": "https://pbs.twimg.com/media/HPvwmO6b0AA4tmK.jpg",
+        "public_metrics": {
+          "view_count": 339684
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088527200480059392/pl/zu2JaI5h3T1DCGgc.m3u8?v=6eb"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088527200480059392/vid/avc1/1920x1080/yf_rTfBO2dAwXJhk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088527200480059392/vid/avc1/1280x720/cgjMjYweYR2joCc9.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088527200480059392/vid/avc1/640x360/o73hMu0dA2rWdE2_.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088527200480059392/vid/avc1/480x270/Cj9gxcur_1zf3PTn.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10050265672",
+              "name": "RWBY ルビー"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1509314345531953157",
+              "name": "RWBY"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311833593282560",
+              "name": "Adult animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1509314345531953157",
+              "name": "RWBY"
+            }
+          }
+        ],
+        "conversation_id": "2089465786087936182",
+        "created_at": "2026-08-17T21:33:58.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T22:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089465786087936182"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 46,
+              "tag": "推しの子"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1524226624472100864",
+              "start": 3,
+              "username": "anime_oshinoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089465786087936182",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6953
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088956768894554358",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anime_oshinoko: 『星に導かれ、最後の舞台へ＿＿』\n\n━━TVアニメ【#推しの子】━━\n　　　第4期 Final Season\n　　ティザービジュアル公開\n━━━━━━━━━━━━━━━\n\n運命を背負い、芸能の世界を生きるアクアとルビー。\nふたりは、それぞ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088527200480059392"
+          ]
+        },
+        "author_id": "1524226624472100864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10050265672",
+              "name": "RWBY ルビー"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1509314345531953157",
+              "name": "RWBY"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "2088956768894554358",
+        "created_at": "2026-08-16T11:51:19.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T12:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088956768894554358"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "推しの子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KRmipyqFXv",
+              "end": 170,
+              "expanded_url": "https://x.com/anime_oshinoko/status/2088956768894554358/video/1",
+              "media_key": "13_2088527200480059392",
+              "start": 147,
+              "url": "https://t.co/KRmipyqFXv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088956768894554358",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "description": "",
+            "media_key": "13_2088527200480059392",
+            "title": ""
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2499,
+          "impression_count": 1104933,
+          "like_count": 28806,
+          "quote_count": 662,
+          "reply_count": 82,
+          "retweet_count": 6953
+        },
+        "reply_settings": "everyone",
+        "text": "『星に導かれ、最後の舞台へ＿＿』\n\n━━TVアニメ【#推しの子】━━\n　　　第4期 Final Season\n　　ティザービジュアル公開\n━━━━━━━━━━━━━━━\n\n運命を背負い、芸能の世界を生きるアクアとルビー。\nふたりは、それぞれの答えを見つけていく──。\n\n▼ビジュアルムービー▼ https://t.co/KRmipyqFXv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od\n要回fo請私信 只回同類和同好 互fo大歡迎~",
+        "id": "1886421046640902144",
+        "is_identity_verified": false,
+        "location": "Macau",
+        "most_recent_tweet_id": "2089465786087936182",
+        "name": "nire",
+        "pinned_tweet_id": "2074984648392982833",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1886421046640902144/1783245025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082767547745648640/kmJp-qQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 59,
+          "like_count": 2767,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 289
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-11T03:15:35.000Z",
+        "description": "TVアニメ【推しの子】第4期Final Season制作決定🌟原作：#赤坂アカ × #横槍メンゴ 監督：平牧大輔／シリーズ構成：田中 仁／キャラクターデザイン：平山寛菜／アニメーション制作：動画工房 ハッシュタグ「#推しの子」",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 34,
+                "tag": "赤坂アカ"
+              },
+              {
+                "end": 48,
+                "start": 42,
+                "tag": "横槍メンゴ"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "推しの子"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ichigoproduction.com",
+                "end": 23,
+                "expanded_url": "https://ichigoproduction.com/",
+                "start": 0,
+                "url": "https://t.co/YlxzSmedjK"
+              }
+            ]
+          }
+        },
+        "id": "1524226624472100864",
+        "is_identity_verified": false,
+        "location": "苺プロダクション",
+        "most_recent_tweet_id": "2089322918916538403",
+        "name": "『【推しの子】』TVアニメ公式",
+        "pinned_tweet_id": "2088956456586666374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1524226624472100864/1774549545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1731878929991098368/h3FGjJB5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049609,
+          "following_count": 71,
+          "like_count": 0,
+          "listed_count": 2312,
+          "media_count": 3650,
+          "tweet_count": 3919
+        },
+        "url": "https://t.co/YlxzSmedjK",
+        "username": "anime_oshinoko",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

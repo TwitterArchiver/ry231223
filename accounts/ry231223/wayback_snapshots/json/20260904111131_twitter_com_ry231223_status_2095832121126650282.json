@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2095832121126650282",
+    "created_at": "2026-09-04T11:11:31.000Z",
+    "display_text_range": [
+      0,
+      115
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T12:11:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095832121126650282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1260397673108123649",
+          "start": 3,
+          "username": "mnzbxz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095832121126650282",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9719
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095499484704698543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mnzbxz: por motivos de saúde mental já não quero entender mais nada, só aceito as coisas como são e vou dormir."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2095832121126650282",
+        "created_at": "2026-09-04T11:11:31.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T12:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095832121126650282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1260397673108123649",
+              "start": 3,
+              "username": "mnzbxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095832121126650282",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9719
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095499484704698543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mnzbxz: por motivos de saúde mental já não quero entender mais nada, só aceito as coisas como são e vou dormir."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1260397673108123649",
+        "conversation_id": "2095499484704698543",
+        "created_at": "2026-09-03T13:09:44.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T14:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095499484704698543"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095499484704698543",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1360,
+          "impression_count": 385634,
+          "like_count": 24841,
+          "quote_count": 325,
+          "reply_count": 40,
+          "retweet_count": 9719
+        },
+        "reply_settings": "everyone",
+        "text": "por motivos de saúde mental já não quero entender mais nada, só aceito as coisas como são e vou dormir."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "可以叫我nire -w-\n♀🌈09/INFJ/雙相/自傷/od\n性格很惡劣的女同性戀w\n要回fo請私信 只回同類和同好 互fo大歡迎",
+        "id": "1886421046640902144",
+        "is_identity_verified": false,
+        "location": "Macau",
+        "most_recent_tweet_id": "2095832121126650282",
+        "name": "nire",
+        "pinned_tweet_id": "2090714623167349046",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1886421046640902144/1783245025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082767547745648640/kmJp-qQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 60,
+          "like_count": 2904,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 301
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T02:33:22.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/lifephotsblond…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/lifephotsblond?igsi=bGdpcmpxNWJ1Y3Jq&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/aKWXS40g8V"
+              }
+            ]
+          }
+        },
+        "id": "1260397673108123649",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095692470977732654",
+        "name": ".",
+        "pinned_tweet_id": "1642656137932677120",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260397673108123649/1786756547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095674621517340674/gUhy0cju_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4826,
+          "following_count": 1707,
+          "like_count": 16447,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 2342
+        },
+        "url": "https://t.co/aKWXS40g8V",
+        "username": "mnzbxz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

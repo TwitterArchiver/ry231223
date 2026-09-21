@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2095085590979240106",
+    "created_at": "2026-09-02T09:45:04.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T10:45:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095085590979240106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1806846635861041152",
+          "start": 3,
+          "username": "chosogifie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095085590979240106",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1322
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094459732538872225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chosogifie: menstruar debería durar dos segundos solo un “mira no estás embarazada” y ya porque debo soportar esto 5 días con punzadas…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2095085590979240106",
+        "created_at": "2026-09-02T09:45:04.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T10:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095085590979240106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1806846635861041152",
+              "start": 3,
+              "username": "chosogifie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095085590979240106",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1322
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094459732538872225",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chosogifie: menstruar debería durar dos segundos solo un “mira no estás embarazada” y ya porque debo soportar esto 5 días con punzadas…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806846635861041152",
+        "conversation_id": "2094459732538872225",
+        "created_at": "2026-08-31T16:18:08.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T17:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094459732538872225"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094459732538872225",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 136001,
+          "like_count": 13543,
+          "quote_count": 31,
+          "reply_count": 38,
+          "retweet_count": 1322
+        },
+        "reply_settings": "everyone",
+        "text": "menstruar debería durar dos segundos solo un “mira no estás embarazada” y ya porque debo soportar esto 5 días con punzadas en el ano y malestar"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od\n要回fo請私信 只回同類和同好 互fo大歡迎~",
+        "id": "1886421046640902144",
+        "is_identity_verified": false,
+        "location": "Macau",
+        "most_recent_tweet_id": "2095085590979240106",
+        "name": "nire",
+        "pinned_tweet_id": "2074984648392982833",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1886421046640902144/1783245025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082767547745648640/kmJp-qQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 60,
+          "like_count": 2851,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 296
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-29T00:26:33.000Z",
+        "description": "narusasu, haikyuu y cuba libre.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chosogifie.carrd.co",
+                "end": 23,
+                "expanded_url": "http://chosogifie.carrd.co",
+                "start": 0,
+                "url": "https://t.co/9CJvs5Bjxf"
+              }
+            ]
+          }
+        },
+        "id": "1806846635861041152",
+        "is_identity_verified": false,
+        "location": " she ! her   ",
+        "most_recent_tweet_id": "2094950897566601550",
+        "name": "mar",
+        "pinned_tweet_id": "1975290255650726197",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1806846635861041152/1786727815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088313870951534592/gtG308e8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3430,
+          "following_count": 2120,
+          "like_count": 4528,
+          "listed_count": 14,
+          "media_count": 1061,
+          "tweet_count": 14356
+        },
+        "url": "https://t.co/9CJvs5Bjxf",
+        "username": "chosogifie",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

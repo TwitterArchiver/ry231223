@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095287830759243776",
+        "3_2095287843853864960",
+        "3_2095287853827911680",
+        "3_2095287863676178432"
+      ]
+    },
+    "author_id": "1886421046640902144",
+    "conversation_id": "2095287872517742862",
+    "created_at": "2026-09-02T23:08:52.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T00:08:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095287872517742862"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kXuNqy6Bjo",
+          "end": 58,
+          "expanded_url": "https://x.com/ry231223/status/2095287872517742862/photo/1",
+          "media_key": "3_2095287830759243776",
+          "start": 35,
+          "url": "https://t.co/kXuNqy6Bjo"
+        },
+        {
+          "display_url": "pic.x.com/kXuNqy6Bjo",
+          "end": 58,
+          "expanded_url": "https://x.com/ry231223/status/2095287872517742862/photo/1",
+          "media_key": "3_2095287843853864960",
+          "start": 35,
+          "url": "https://t.co/kXuNqy6Bjo"
+        },
+        {
+          "display_url": "pic.x.com/kXuNqy6Bjo",
+          "end": 58,
+          "expanded_url": "https://x.com/ry231223/status/2095287872517742862/photo/1",
+          "media_key": "3_2095287853827911680",
+          "start": 35,
+          "url": "https://t.co/kXuNqy6Bjo"
+        },
+        {
+          "display_url": "pic.x.com/kXuNqy6Bjo",
+          "end": 58,
+          "expanded_url": "https://x.com/ry231223/status/2095287872517742862/photo/1",
+          "media_key": "3_2095287863676178432",
+          "start": 35,
+          "url": "https://t.co/kXuNqy6Bjo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095287872517742862",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095287830759243776"
+      },
+      {
+        "media_key": "3_2095287843853864960"
+      },
+      {
+        "media_key": "3_2095287853827911680"
+      },
+      {
+        "media_key": "3_2095287863676178432"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "遇到這種我都懶得吵，自己找事兒說我夾還先破防，瓦環境差就是因為這種蛆 https://t.co/kXuNqy6Bjo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1776,
+        "media_key": "3_2095287830759243776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRP1LkaagAA-IjK.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1840,
+        "media_key": "3_2095287843853864960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRP1MVMakAA743Z.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1932,
+        "media_key": "3_2095287853827911680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRP1M6WacAAWjPD.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1036,
+        "media_key": "3_2095287863676178432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRP1NfCbEAAIbgI.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095287830759243776",
+            "3_2095287843853864960",
+            "3_2095287853827911680",
+            "3_2095287863676178432"
+          ]
+        },
+        "author_id": "1886421046640902144",
+        "conversation_id": "2095287872517742862",
+        "created_at": "2026-09-02T23:08:52.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T00:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095287872517742862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kXuNqy6Bjo",
+              "end": 58,
+              "expanded_url": "https://x.com/ry231223/status/2095287872517742862/photo/1",
+              "media_key": "3_2095287830759243776",
+              "start": 35,
+              "url": "https://t.co/kXuNqy6Bjo"
+            },
+            {
+              "display_url": "pic.x.com/kXuNqy6Bjo",
+              "end": 58,
+              "expanded_url": "https://x.com/ry231223/status/2095287872517742862/photo/1",
+              "media_key": "3_2095287843853864960",
+              "start": 35,
+              "url": "https://t.co/kXuNqy6Bjo"
+            },
+            {
+              "display_url": "pic.x.com/kXuNqy6Bjo",
+              "end": 58,
+              "expanded_url": "https://x.com/ry231223/status/2095287872517742862/photo/1",
+              "media_key": "3_2095287853827911680",
+              "start": 35,
+              "url": "https://t.co/kXuNqy6Bjo"
+            },
+            {
+              "display_url": "pic.x.com/kXuNqy6Bjo",
+              "end": 58,
+              "expanded_url": "https://x.com/ry231223/status/2095287872517742862/photo/1",
+              "media_key": "3_2095287863676178432",
+              "start": 35,
+              "url": "https://t.co/kXuNqy6Bjo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095287872517742862",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095287830759243776"
+          },
+          {
+            "media_key": "3_2095287843853864960"
+          },
+          {
+            "media_key": "3_2095287853827911680"
+          },
+          {
+            "media_key": "3_2095287863676178432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "遇到這種我都懶得吵，自己找事兒說我夾還先破防，瓦環境差就是因為這種蛆 https://t.co/kXuNqy6Bjo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od\n要回fo請私信 只回同類和同好 互fo大歡迎~",
+        "id": "1886421046640902144",
+        "is_identity_verified": false,
+        "location": "Macau",
+        "most_recent_tweet_id": "2095287872517742862",
+        "name": "nire",
+        "pinned_tweet_id": "2074984648392982833",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1886421046640902144/1783245025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082767547745648640/kmJp-qQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 61,
+          "like_count": 2876,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 298
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

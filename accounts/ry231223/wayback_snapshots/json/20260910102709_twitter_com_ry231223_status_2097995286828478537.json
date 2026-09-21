@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      }
+    ],
+    "conversation_id": "2097995286828478537",
+    "created_at": "2026-09-10T10:27:09.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T11:27:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097995286828478537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1377212174058196999",
+          "start": 3,
+          "username": "kamiljr49"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097995286828478537",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3072
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097678033746559072",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kamiljr49: can't tell if i need a hug or just to get hit by a car"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          }
+        ],
+        "conversation_id": "2097995286828478537",
+        "created_at": "2026-09-10T10:27:09.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T11:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097995286828478537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1377212174058196999",
+              "start": 3,
+              "username": "kamiljr49"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097995286828478537",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3072
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097678033746559072",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kamiljr49: can't tell if i need a hug or just to get hit by a car"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1377212174058196999",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          }
+        ],
+        "conversation_id": "2097678033746559072",
+        "created_at": "2026-09-09T13:26:30.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T14:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097678033746559072"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097678033746559072",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 321,
+          "impression_count": 114802,
+          "like_count": 7472,
+          "quote_count": 109,
+          "reply_count": 18,
+          "retweet_count": 3072
+        },
+        "reply_settings": "everyone",
+        "text": "can't tell if i need a hug or just to get hit by a car"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "可以叫我nire -w-\n♀🌈09/INFJ/雙相/自傷/od\n性格很惡劣的女同性戀w\n要回fo請私信 只回同類和同好 互fo大歡迎",
+        "id": "1886421046640902144",
+        "is_identity_verified": false,
+        "location": "Macau",
+        "most_recent_tweet_id": "2097995299465887867",
+        "name": "nire",
+        "pinned_tweet_id": "2090714623167349046",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1886421046640902144/1783245025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082767547745648640/kmJp-qQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 60,
+          "like_count": 2917,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 305
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-31T10:52:45.000Z",
+        "description": "",
+        "id": "1377212174058196999",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097678913480876424",
+        "name": "55",
+        "pinned_tweet_id": "2088644366126743553",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029144444222750721/bdeDza-M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9650,
+          "following_count": 8755,
+          "like_count": 99556,
+          "listed_count": 15,
+          "media_count": 3805,
+          "tweet_count": 30088
+        },
+        "url": "",
+        "username": "kamiljr49",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

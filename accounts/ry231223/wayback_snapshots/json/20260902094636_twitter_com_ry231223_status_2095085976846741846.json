@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2095085976846741846",
+    "created_at": "2026-09-02T09:46:36.000Z",
+    "display_text_range": [
+      0,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T10:46:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095085976846741846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1971821300470763521",
+          "start": 3,
+          "username": "u26s_ci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095085976846741846",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 146
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094791471635538013",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @u26s_ci: やっぱり死んだ方が楽だよね"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2095085976846741846",
+        "created_at": "2026-09-02T09:46:36.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T10:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095085976846741846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971821300470763521",
+              "start": 3,
+              "username": "u26s_ci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095085976846741846",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 146
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094791471635538013",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @u26s_ci: やっぱり死んだ方が楽だよね"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971821300470763521",
+        "conversation_id": "2094791471635538013",
+        "created_at": "2026-09-01T14:16:20.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T15:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094791471635538013"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094791471635538013",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 6824,
+          "like_count": 623,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 146
+        },
+        "reply_settings": "everyone",
+        "text": "やっぱり死んだ方が楽だよね"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od\n要回fo請私信 只回同類和同好 互fo大歡迎~",
+        "id": "1886421046640902144",
+        "is_identity_verified": false,
+        "location": "Macau",
+        "most_recent_tweet_id": "2095085976846741846",
+        "name": "nire",
+        "pinned_tweet_id": "2074984648392982833",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1886421046640902144/1783245025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082767547745648640/kmJp-qQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 60,
+          "like_count": 2869,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 297
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-27T06:17:42.000Z",
+        "description": "高3",
+        "id": "1971821300470763521",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095040215643820184",
+        "name": "ꪔ̤̮",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971821300470763521/1776773143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971822810957074436/RrGmb2sT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 53,
+          "like_count": 11247,
+          "listed_count": 3,
+          "media_count": 0,
+          "tweet_count": 1308
+        },
+        "url": "",
+        "username": "u26s_ci",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

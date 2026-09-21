@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2095291714051465449",
+    "created_at": "2026-09-02T23:24:07.000Z",
+    "display_text_range": [
+      0,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T00:24:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095291714051465449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1856606205369540608",
+          "start": 3,
+          "username": "deuxailesdecire"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095291714051465449",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1173
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095023466537697677",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @deuxailesdecire: maybe suicide is the only solution for people like me"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2095291714051465449",
+        "created_at": "2026-09-02T23:24:07.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T00:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095291714051465449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1856606205369540608",
+              "start": 3,
+              "username": "deuxailesdecire"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095291714051465449",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1173
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095023466537697677",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @deuxailesdecire: maybe suicide is the only solution for people like me"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856606205369540608",
+        "conversation_id": "2095023466537697677",
+        "created_at": "2026-09-02T05:38:12.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T06:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095023466537697677"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095023466537697677",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 139,
+          "impression_count": 33256,
+          "like_count": 3842,
+          "quote_count": 22,
+          "reply_count": 21,
+          "retweet_count": 1173
+        },
+        "reply_settings": "everyone",
+        "text": "maybe suicide is the only solution for people like me"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "可以叫我nire -w-\n♀🌈09/INFJ/雙相/自傷/od\n性格很惡劣的女同性戀w\n要回fo請私信 只回同類和同好 互fo大歡迎",
+        "id": "1886421046640902144",
+        "is_identity_verified": false,
+        "location": "Macau",
+        "most_recent_tweet_id": "2095291714051465449",
+        "name": "nire",
+        "pinned_tweet_id": "2090714623167349046",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1886421046640902144/1783245025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082767547745648640/kmJp-qQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 60,
+          "like_count": 2891,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 300
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-13T07:53:17.000Z",
+        "description": "can you come pick me up with a little spoon",
+        "id": "1856606205369540608",
+        "is_identity_verified": false,
+        "location": "🏳️‍🌈 | 28",
+        "most_recent_tweet_id": "2095198336420626522",
+        "name": "~naïomi",
+        "pinned_tweet_id": "2000468757483790384",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1856606205369540608/1756358081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969262850544730112/Gpv98f7w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 135,
+          "like_count": 2745,
+          "listed_count": 2,
+          "media_count": 3,
+          "tweet_count": 484
+        },
+        "url": "",
+        "username": "deuxailesdecire",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

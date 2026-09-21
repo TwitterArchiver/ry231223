@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2094447596920275398",
+    "created_at": "2026-08-31T15:29:54.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T16:29:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094447596920275398"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2094447596920275398",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我妈到现在都觉得我的病是装的，觉得我是博同情，是故意不让她好过，她到现在都不能接受我的病是她带来的\n她一句这些伤是不是真的，这些天我的抗争就好像是个笑话，但我又没办法说她些什么\n从上次去医院到现在我都在想能不能就这么好好活下去，但是我发现我做不到什么我都做不到，除非我脱离这个世界"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2094447596920275398",
+        "created_at": "2026-08-31T15:29:54.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T16:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094447596920275398"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094447596920275398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妈到现在都觉得我的病是装的，觉得我是博同情，是故意不让她好过，她到现在都不能接受我的病是她带来的\n她一句这些伤是不是真的，这些天我的抗争就好像是个笑话，但我又没办法说她些什么\n从上次去医院到现在我都在想能不能就这么好好活下去，但是我发现我做不到什么我都做不到，除非我脱离这个世界"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od\n要回fo請私信 只回同類和同好 互fo大歡迎~",
+        "id": "1886421046640902144",
+        "is_identity_verified": false,
+        "location": "Macau",
+        "most_recent_tweet_id": "2094447596920275398",
+        "name": "nire",
+        "pinned_tweet_id": "2074984648392982833",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1886421046640902144/1783245025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082767547745648640/kmJp-qQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 59,
+          "like_count": 2835,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 291
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

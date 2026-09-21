@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2097993808600498498",
+    "created_at": "2026-09-10T10:21:17.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T11:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097993808600498498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823536924461576192",
+          "start": 3,
+          "username": "lnibido"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097993808600498498",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1133
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097710999482581461",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lnibido: todos os caminhos levam ao suicídio"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2097993808600498498",
+        "created_at": "2026-09-10T10:21:17.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T11:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097993808600498498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823536924461576192",
+              "start": 3,
+              "username": "lnibido"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097993808600498498",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1133
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097710999482581461",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lnibido: todos os caminhos levam ao suicídio"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823536924461576192",
+        "conversation_id": "2097710999482581461",
+        "created_at": "2026-09-09T15:37:30.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T16:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097710999482581461"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097710999482581461",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 23310,
+          "like_count": 2787,
+          "quote_count": 13,
+          "reply_count": 8,
+          "retweet_count": 1133
+        },
+        "reply_settings": "everyone",
+        "text": "todos os caminhos levam ao suicídio"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "可以叫我nire -w-\n♀🌈09/INFJ/雙相/自傷/od\n性格很惡劣的女同性戀w\n要回fo請私信 只回同類和同好 互fo大歡迎",
+        "id": "1886421046640902144",
+        "is_identity_verified": false,
+        "location": "Macau",
+        "most_recent_tweet_id": "2097993808600498498",
+        "name": "nire",
+        "pinned_tweet_id": "2090714623167349046",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1886421046640902144/1783245025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082767547745648640/kmJp-qQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 60,
+          "like_count": 2898,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 301
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-14T01:47:49.000Z",
+        "description": "ㅤㅤㅤㅤㅤㅤ ­­­­­ㅤ𖥻 w𝑙w\n            c͟hiyuki my beloved .\n\nㅤ",
+        "id": "1823536924461576192",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097879095463800884",
+        "name": "ؘ",
+        "pinned_tweet_id": "2089470522513891388",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1823536924461576192/1788013451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093709000290258945/KcFabODo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 614,
+          "like_count": 1521,
+          "listed_count": 15,
+          "media_count": 333,
+          "tweet_count": 3174
+        },
+        "url": "",
+        "username": "lnibido",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

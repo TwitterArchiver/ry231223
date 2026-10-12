@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1886421046640902144",
+    "conversation_id": "2105234911108227151",
+    "created_at": "2026-09-30T09:54:50.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T10:54:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105234911108227151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1861227940924792832",
+          "start": 3,
+          "username": "e_rror___00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105234911108227151",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1325
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103416853456617732",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @e_rror___00: 生きてる理由が「死ねないから」だけでしんどい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886421046640902144",
+        "conversation_id": "2105234911108227151",
+        "created_at": "2026-09-30T09:54:50.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T10:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105234911108227151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1861227940924792832",
+              "start": 3,
+              "username": "e_rror___00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105234911108227151",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1325
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103416853456617732",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @e_rror___00: 生きてる理由が「死ねないから」だけでしんどい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861227940924792832",
+        "conversation_id": "2103416853456617732",
+        "created_at": "2026-09-25T09:30:32.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T10:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103416853456617732"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103416853456617732",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 229,
+          "impression_count": 133097,
+          "like_count": 8034,
+          "quote_count": 45,
+          "reply_count": 27,
+          "retweet_count": 1325
+        },
+        "reply_settings": "everyone",
+        "text": "生きてる理由が「死ねないから」だけでしんどい"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-02-03T14:26:48.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "MO",
+              "full_name": "Macau, Macau, Macao",
+              "geo": {
+                "coordinates": [
+                  113.54611,
+                  22.20056
+                ],
+                "type": "Point"
+              },
+              "locality": "Macau",
+              "region": "Macau"
+            }
+          ]
+        },
+        "description": "♀🌈09/INFJ/雙相/自傷/od",
+        "id": "1886421046640902144",
+        "is_identity_verified": false,
+        "location": "Macau",
+        "most_recent_tweet_id": "2105234911108227151",
+        "name": "nire",
+        "pinned_tweet_id": "2090714623167349046",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1886421046640902144/1783245025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082767547745648640/kmJp-qQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 57,
+          "like_count": 2932,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 305
+        },
+        "url": "",
+        "username": "ry231223",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-26T01:58:27.000Z",
+        "description": "死ねずにふらふら生きてます #病み垢 #既読いいね",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 14,
+                "tag": "病み垢"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "tag": "既読いいね"
+              }
+            ]
+          }
+        },
+        "id": "1861227940924792832",
+        "is_identity_verified": false,
+        "location": "酔生夢死 ",
+        "most_recent_tweet_id": "2105139609416147131",
+        "name": "zero",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1861227940924792832/1746709014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026193485028786176/nOwstLsk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2507,
+          "following_count": 331,
+          "like_count": 10670,
+          "listed_count": 14,
+          "media_count": 7,
+          "tweet_count": 2331
+        },
+        "url": "",
+        "username": "e_rror___00",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
